@@ -48,14 +48,12 @@ Koveras's Ring of Protection (+1)	(Ring)
 Warder's Signet +3					(Ring)
 
 
-There are three optional components to install:
+There are two optional components to install:
 - Kuroisai also appears in Amkethran:
 Kuroisai manages to escape Saradush and reappears in Amkethran. This makes it REALLY easy to acquire certain +6 items.
 - Recipes cost less but require rare gems:
 recipes now only cost double the desired + x 1000 (6000 pos for a +3) but require a gem:
 an emerald for +2, a diamond for +3, a star sapphire for +4, a king's tear for +5 and a rogue stone for +6.
-- One copy of each +1 item in containers and shops:
-Every combinable item has a +1 copy placed somewhere in the game (not on monsters). Yes, those in containers are free.
 
 
 This module includes Rogue Rebalancing items, and a personal note: composite shortbows are a real cheat, and Rogue Rebalancing offers enough to make at least one +5 composite shortbow.

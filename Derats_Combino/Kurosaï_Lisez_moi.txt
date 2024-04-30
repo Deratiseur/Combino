@@ -46,14 +46,12 @@ Anneau de protection de Koveras (+1)(Anneau)
 Chevalière de gardien +3			(Anneau)
 
 
-Il y a trois composant optionnels à installer :
+Il y a deux composants optionnels à installer :
 - Kuroisai apparaît aussi a Amkethran :
 Kurosaï réussi à fuir Saradush et réapparaît à Amkethran. Dans ce cas il devient VRAIMENT facile d’acquérir certains objets +6.
 - Les recettes coûtent moins chères mais nécessitent des gemmes rares :
 les recettes ne coûtent plus que le double du + désiré x 1000 (6000 pos pour un +3) mais demandent une gemme :
 une émeraude pour du +2, un diamant pour du +3, un saphir étoilé pour du +4, une larme de roi pour du +5 et une esseulite pour du +6.
-- Un exemplaire de chaque objet +1 dans les contenants et les magasins :
-Chaque objet combinable à un exemplaire +1 placés judicieusement quelque part dans le jeu (pas sur les monstres). Oui, ceux qui sont dans des contenants sont gratuits.
 
 
 Ce module prend en compte les objets de Rogue Rebalancing, et note personnelle : les arcs courts composites sont vraiment cheatés, et le Rogue Rebalancing en propose assez pour fabriquer au moins un arc court composite +5.
