@@ -1,0 +1,59 @@
+Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets "+x", des armes aux armures en passant par les bijoux.
+Il peut combiner les objets jusqu'à +6 et le prix demandé est toujours "+ désiré au carré fois mille" : exemple pour obtenir un écu +4, il demande trois écus +3 et 16000 pièces d'or (4²x1000).
+Il apparaît à Francmarché que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville.
+
+
+Il y a des objets que kurosaï n'inclut pas dans ses possibilités car il y a si peu d’occurrences de ces objets en jeu que jamais vous ne pourrez en cumuler assez : wakizashi, ninjatõ, armure de peau, armure feuilletée.
+
+
+Les formules peuvent inclure des objets "simplement + mais avec un nom unique". Ces objets sont :
+Dague de <CHARNAME> (+1)			(Dague)
+Le Cœur du golem +2					(Dague)
+Pointe d'ixil (+2)					(Dague)
+Lame d'os +4						(Dague)
+Épée courte d'attaque sournoise +3	(Épée courte)
+Coupe-Gorge +4						(Épée courte)
+Serre de Rashad +2					(Cimeterre)
+Bord de l'eau +3					(Cimeterre)
+Malakar +2							(Katana)
+Lame de guerre +4					(Épée à deux mains)
+Hache d'armes de Mauletar +2		(Hache d'arme)
+Lame de Suryris +2					(Hallebarde)
+Bâton de combat +3					(Bâton)
+Bâton de clerc +3					(Bâton)
+Bâton de Rhynn +4					(Bâton)
+Arbalète de Necaradan +3			(Arbalète légère)
+Arbalète cheveu de Géant +3			(Arbalète lourde)
+Le Tir Mortel +2					(Arc long)
+Arc de la Cour Elfique +3			(Arc long)
+Ruinedragon d'Arla +3				(Fronde)
+Protecteur du second +2				(Armure de cuir)
+Vie et Mort de Karajah +3			(Armure de cuir)
+Armure de nuit noire +4				(Besantine)
+La Cotte de mailles des morts +2	(Cotte de mailles)
+Cottes de mailles en mithral +4 	(Cotte de mailles)
+Cotte de mailles du bouffon +4		(Cotte de mailles)
+Cottes de mailles pourpre +5		(Cotte de mailles)
+Armure de plates de Fallorain +1	(Armure de plates)
+Armure de plates d'ankheg (+2)		(Armure de plates)
+Armure de plates du destin +3		(Armure de plates)
+Fierté de la légion +2				(Armure de plates complète)
+Armure du cerf +3					(Armure de plates complète)
+Grâce salvatrice +3					(Écu)
+Sentinelle +4						(Écu)
+Bouclier de Pellan +2				(Pavois)
+Anneau de protection de Koveras (+1)(Anneau)
+Chevalière de gardien +3			(Anneau)
+
+
+Il y a trois composant optionnels à installer :
+- Kuroisai apparaît aussi a Amkethran :
+Kurosaï réussi à fuir Saradush et réapparaît à Amkethran. Dans ce cas il devient VRAIMENT facile d’acquérir certains objets +6.
+- Les recettes coûtent moins chères mais nécessitent des gemmes rares :
+les recettes ne coûtent plus que le double du + désiré x 1000 (6000 pos pour un +3) mais demandent une gemme :
+une émeraude pour du +2, un diamant pour du +3, un saphir étoilé pour du +4, une larme de roi pour du +5 et une esseulite pour du +6.
+- Un exemplaire de chaque objet +1 dans les contenants et les magasins :
+Chaque objet combinable à un exemplaire +1 placés judicieusement quelque part dans le jeu (pas sur les monstres). Oui, ceux qui sont dans des contenants sont gratuits.
+
+
+Ce module prend en compte les objets de Rogue Rebalancing, et note personnelle : les arcs courts composites sont vraiment cheatés, et le Rogue Rebalancing en propose assez pour fabriquer au moins un arc court composite +5.

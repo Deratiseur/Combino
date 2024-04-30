@@ -1,0 +1,1994 @@
+@0 = ~Kurosai the combiner~
+@1 = ~Kurosaï~
+@2 = ~Hello, dear customer. What can Kurosaï do for you today?~
+@3 = ~Well, that depends. What do you have to offer?~
+@4 = ~Kurosaï offers nothing less than his technique and magic, which he inherited from the venerable master Ibunibï-Saï, enabling him to create powerful magical objects from lesser objects.~
+@5 = ~You mean you can combine several objects to make a better one?~
+@6 = ~That's exactly what it is. Kurosaï can take all your +1 items and turn them into +2, or +4 and turn them into +5, it's up to you. You give the items, you pay, kurosaï gives you back a better item. It's as simple as that.~
+@7 = ~I see. And what items can you upgrade?~
+@8 = ~Kurosaï knows rituals for all objects. But he only works on the "+". Three '+' for a higher '+', that's the formula. And You have to give Kurosaï a number of gold coins equal to the square of the + you want to obtain times a thousand gold coins: you want a +3 bow? Then give Kurosaï three +2 bows and 9,000 gold coins.~
+@9 = ~I understand. Well, I'll be back when I need your services.~
+@10 = ~Can you also upgrade special magic weapons?~
+@11 = ~Unfortunately not. The venerable master Ibunibï-Saï knew this secret, but he was unable to pass it on to me: Lady Death took him in first. May he enjoy the warm springs of the Spiritual World.~
+@12 = ~All right, I'll be back.~
+@13 = ~And here's your new item. Thank you, dear customer.~
+@14 = ~I don't need anything, sorry to have disturbed you.~
+@15 = ~Kurosaï ! What are you doing here?~
+@16 = ~Kurosaï has travelled a lot, and will travel again. Trademeet was one stage, Saradush another.~
+@17 = ~Good meeting. I'll probably need your services again.~
+@18 = ~Kuroisai also appears in Amkethran (cheat)~
+@19 = ~You must have installed Kurosai the combiner to install this component~
+@20 = ~Recipes cost less but require rare gems.~
+@21 = ~Kurosaï knows rituals for all items. But he only works on the "+". Three "+" for a higher "+", that's the formula. And you have to give Kurosaï a number of gold coins equal to twice the + you want to obtain times a thousand gold coins and a rare gem: you want a +3 bow? Then give Kurosai three +2 bows, a diamond and 6,000 gold coins.~
+@22 = ~One copy of each +1 item in containers and shops.~
+
+@112 = ~I'd like to exchange three daggers +1 for a dagger +2. Here are the daggers and the gold.~
+@1121 = ~I'd like to change two daggers +1 and the Dagger of <CHARNAME> for a dagger +2. Here are the daggers and the gold.~
+@113 = ~I'd like to exchange three daggers +2 for a dagger +3. Here are the daggers and the gold.~
+@1131 = ~I'd like to change two daggers +2 and the Heart of the Golem +2 for a dagger +3. Here are the daggers and the gold.~
+@1132 = ~I'd like to exchange two daggers +2 and the Ixil's Spike for a dagger +3. Here are the daggers and the gold.~
+@114 = ~I'd like to exchange three daggers +3 for a dagger +4. Here are the daggers and the gold.~
+@115 = ~I'd like to exchange three daggers +4 for a dagger +5. Here are the daggers and the gold.~
+@1151 = ~I'd like to exchange two daggers +4 and the Boneblade +4 for a dagger +5. Here are the daggers and the gold.~
+@116 = ~I'd like to exchange three daggers +5 for a dagger +6. Here are the daggers and the gold.~
+
+@122 = ~I'd like to exchange three short swords +1 for a short sword +2. Here are the swords and the gold.~
+@123 = ~I'd like to exchange three short swords +2 for a short sword +3. Here are the swords and the gold.~
+@124 = ~I'd like to exchange three short swords +3 for a short sword +4. Here are the swords and the gold.~
+@1241 = ~I'd like to exchange two short swords +3 and the Shadow's Blade +3 for a short sword +4. Here are the swords and the gold.~
+@125 = ~I'd like to exchange three short swords +4 for a short sword +5. Here are the swords and the gold.~
+@1251 = ~I'd like to exchange two short swords +5 and the Cutthroat +4 for a short sword +5. Here are the swords and the gold.~
+@126 = ~I'd like to exchange three short swords +5 for a short sword +6. Here are the swords and the gold.~
+
+@132 = ~I'd like to exchange three long swords +1 for a long sword +2. Here are the swords and the gold.~
+@133 = ~I'd like to exchange three long swords +2 for a long sword +3. Here are the swords and the gold.~
+@134 = ~I'd like to exchange three long swords +3 for a long sword +4. Here are the swords and the gold.~
+@135 = ~I'd like to exchange three long swords +4 for a long sword +5. Here are the swords and the gold.~
+@136 = ~I'd like to exchange three long swords +5 for a long sword +6. Here are the swords and the gold.~
+
+@142 = ~I'd like to exchange three scimitars +1 for a scimitar +2. Here are the scimitars and the gold.~
+@143 = ~I'd like to exchange three scimitars +2 for a scimitar +3. Here are the scimitars and the gold.~
+@1431 = ~I'd like to exchange two scimitars +2 and the Rashad's Talon +2 for a scimitar +3. Here are the scimitars and the gold.~
+@144 = ~I'd like to exchange three scimitars +3 for a scimitar +4. Here are the scimitars and the gold.~
+@1441 = ~I'd like to exchange two scimitars +3 and the Water's Edge +3 for a scimitar +4. Here are the scimitars and the gold.~
+@145 = ~I'd like to exchange three scimitars +4 for a scimitar +5. Here are the scimitars and the gold.~
+@146 = ~I'd like to exchange three scimitars +5 for a scimitar +6. Here are the scimitars and the gold.~
+
+@152 = ~I'd like to exchange three katanas +1 for a katana +2. Here are the katanas and the gold.~
+@153 = ~I'd like to exchange three katanas +2 for a katana +3. Here are the katanas and the gold.~
+@1531 = ~I'd like to exchange two katanas +2 and the Malakar +2 for a katana +3. Here are the katanas and the gold.~
+@154 = ~I'd like to exchange three katanas +3 for a katana +4. Here are the katanas and the gold.~
+@155 = ~I'd like to exchange three katanas +4 for a katana +5. Here are the katanas and the gold.~
+@156 = ~I'd like to exchange three katanas +5 for a katana +6. Here are the katanas and the gold.~
+
+@162 = ~I'd like to exchange three bastard swords +1 for a bastard sword +2. Here are the swords and the gold.~
+@163 = ~I'd like to exchange three bastard swords +2 for a bastard sword +3. Here are the swords and the gold.~
+@164 = ~I'd like to exchange three bastard swords +3 for a bastard sword +4. Here are the swords and the gold.~
+@165 = ~I'd like to exchange three bastard swords +4 for a bastard sword +5. Here are the swords and the gold.~
+@166 = ~I'd like to exchange three bastard swords +5 for a bastard sword +6. Here are the swords and the gold.~
+
+@172 = ~I'd like to exchange three two-handed swords +1 for a two-handed sword +2. Here are the swords and the gold.~
+@173 = ~I'd like to exchange three two-handed swords +2 for a two-handed sword +3. Here are the swords and the gold.~
+@174 = ~I'd like to exchange three two-handed swords +3 for a two-handed sword +4. Here are the swords and the gold.~
+@175 = ~I'd like to exchange three two-handed swords +4 for a two-handed sword +5. Here are the swords and the gold.~
+@1751 = ~I'd like to exchange two two-handed swords +4 and the Warblade +4 for a two-handed sword +5. Here are the swords and the gold.~
+@176 = ~I'd like to exchange three two-handed swords +5 for a two-handed sword +6. Here are the swords and the gold.~
+
+@182 = ~I'd like to exchange three battle axes +1 for a battle axe +2. Here are the battle axes and the gold.~
+@183 = ~I'd like to exchange three battle axes +2 for a battle axe +3. Here are the battle axes and the gold.~
+@1831 = ~I'd like to exchange two battle axes +2 and the Battle Axe of Mauletar +2 for a battle axe +3. Here are the battle axes and the gold.~
+@184 = ~I'd like to exchange three battle axes +3 for a battle axe +4. Here are the battle axes and the gold.~
+@185 = ~I'd like to exchange three battle axes +4 for a battle axe +5. Here are the battle axes and the gold.~
+@186 = ~I'd like to exchange three battle axes +5 for a battle axe +6. Here are the battle axes and the gold.~
+
+@192 = ~I'd like to exchange three war hammers +1 for a war hammer +2. Here are the war hammers and the gold.~
+@193 = ~I'd like to exchange three war hammers +2 for a war hammer +3. Here are the war hammers and the gold.~
+@194 = ~I'd like to exchange three war hammers +3 for a war hammer +4. Here are the war hammers and the gold.~
+@195 = ~I'd like to exchange three war hammers +4 for a war hammer +5. Here are the war hammers and the gold.~
+@196 = ~I'd like to exchange three war hammers +5 for a war hammer +6. Here are the war hammers and the gold.~
+
+@1102 = ~I'd like to exchange three maces +1 for a mace +2. Here are the maces and the gold.~
+@1103 = ~I'd like to exchange three maces +2 for a mace +3. Here are the maces and the gold.~
+@1104 = ~I'd like to exchange three maces +3 for a mace +4. Here are the maces and the gold.~
+@1105 = ~I'd like to exchange three maces +4 for a mace +5. Here are the maces and the gold.~
+@1106 = ~I'd like to exchange three maces +5 for a mace +6. Here are the maces and the gold.~
+
+@1112 = ~I'd like to exchange three morning stars +1 for a morning star +2. Here are the morning stars and the gold.~
+@1113 = ~I'd like to exchange three morning stars +2 for a morning star +3. Here are the morning stars and the gold.~
+@1114 = ~I'd like to exchange three morning stars +3 for a morning star +4. Here are the morning stars and the gold.~
+@1115 = ~I'd like to exchange three morning stars +4 for a morning star +5. Here are the morning stars and the gold.~
+@1116 = ~I'd like to exchange three morning stars +5 for a morning star +6. Here are the morning stars and the gold.~
+
+@1122 = ~I'd like to exchange three flails +1 for a flail +2. Here are the flails and the gold.~
+@1123 = ~I'd like to exchange three flails +2 for a flail +3. Here are the flails and the gold.~
+@1124 = ~I'd like to exchange three flails +3 for a flail +4. Here are the flails and the gold.~
+@1125 = ~I'd like to exchange three flails +4 for a flail +5. Here are the flails and the gold.~
+@1126 = ~I'd like to exchange three flails +5 for a flail +6. Here are the flails and the gold.~
+
+@1132 = ~I'd like to exchange three spears +1 for a spear +2. Here are the spears and the gold.~
+@1133 = ~I'd like to exchange three spears +2 for a spear +3. Here are the spears and the gold.~
+@1134 = ~I'd like to exchange three spears +3 for a spear +4. Here are the spears and the gold.~
+@1135 = ~I'd like to exchange three spears +4 for a spear +5. Here are the spears and the gold.~
+@1136 = ~I'd like to exchange three spears +5 for a spear +6. Here are the spears and the gold.~
+
+@1142 = ~I'd like to exchange three halberds +1 for a halberd +2. Here are the halberds and the gold.~
+@1143 = ~I'd like to exchange three halberds +2 for a halberd +3. Here are the halberds and the gold.~
+@11431 = ~I'd like to exchange two halberds +2 and the Suryris's Blade +2 for a halberd +3. Here are the halberds and the gold.~
+@1144 = ~I'd like to exchange three halberds +3 for a halberd +4. Here are the halberds and the gold.~
+@1145 = ~I'd like to exchange three halberds +4 for a halberd +5. Here are the halberds and the gold.~
+@1146 = ~I'd like to exchange three halberds +5 for a halberd +6. Here are the halberds and the gold.~
+
+@1152 = ~I'd like to exchange three quarterstaffs +1 for a quarterstaff +2. Here are the staffs and the gold.~
+@1153 = ~I'd like to exchange three quarterstaffs +2 for a quarterstaff +3. Here are the staffs and the gold.~
+@1154 = ~I'd like to exchange three quarterstaffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11541 = ~I'd like to exchange two quarterstaffs +3 and the Cleric's Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11542 = ~I'd like to exchange two quarterstaffs +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11543 = ~I'd like to exchange a quarterstaff +3, the Cleric's Staff +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@1155 = ~I'd like to exchange three quarterstaffs +4 for a quarterstaff +5. Here are the staffs and the gold.~
+@11551 = ~I'd like to exchange two quarterstaffs +4 and the Staff of Rhynn +4 for a quarterstaff +5. Here are the staffs and the gold.~
+@1156 = ~I'd like to exchange three quarterstaffs +5 for a quarterstaff +6. Here are the staffs and the gold.~
+
+@1162 = ~I'd like to exchange three light crossbows +1 for a light crossbow +2. Here are the crossbows and the gold.~
+@1163 = ~I'd like to exchange three light crossbows +2 for a light crossbow +3. Here are the crossbows and the gold.~
+@1164 = ~I'd like to exchange three light crossbows +3 for a light crossbow +4. Here are the crossbows and the gold.~
+@11641 = ~I'd like to exchange two light crossbows +3 and the Necaradan's Crossbow +3 for a light crossbow +4. Here are the crossbows and the gold.~
+@1165 = ~I'd like to exchange three light crossbows +4 for a light crossbow +5. Here are the crossbows and the gold.~
+@1166 = ~I'd like to exchange three light crossbows +5 for a light crossbow +6. Here are the crossbows and the gold.~
+
+@1172 = ~I'd like to exchange three heavy crossbows +1 for a heavy crossbow +2. Here are the crossbows and the gold.~
+@1173 = ~I'd like to exchange three heavy crossbows +2 for a heavy crossbow +3. Here are the crossbows and the gold.~
+@1174 = ~I'd like to exchange three heavy crossbows +3 for a heavy crossbow +4. Here are the crossbows and the gold.~
+@11741 = ~I'd like to exchange two heavy crossbows +3 and the Giant Hair Crossbow +3 for a heavy crossbow +4. Here are the crossbows and the gold.~
+@1175 = ~I'd like to exchange three heavy crossbows +4 for a heavy crossbow +5. Here are the crossbows and the gold.~
+@1176 = ~I'd like to exchange three heavy crossbows +5 for a heavy crossbow +6. Here are the crossbows and the gold.~
+
+@1182 = ~I'd like to exchange three shortbows +1 for a shortbow +2. Here are the bows and the gold.~
+@1183 = ~I'd like to exchange three shortbows +2 for a shortbow +3. Here are the bows and the gold.~
+@1184 = ~I'd like to exchange three shortbows +3 for a shortbow +4. Here are the bows and the gold.~
+@1185 = ~I'd like to exchange three shortbows +4 for a shortbow +5. Here are the bows and the gold.~
+@1186 = ~I'd like to exchange three shortbows +5 for a shortbow +6. Here are the bows and the gold.~
+
+@1192 = ~I'd like to exchange three longbows +1 for a longbow +2. Here are the bows and the gold.~
+@1193 = ~I'd like to exchange three longbows +2 for a longbow +3. Here are the bows and the gold.~
+@11931 = ~I'd like to exchange two longbows +2 and the Dead Shot +2 for a longbow +3. Here are the bows and the gold.~
+@1194 = ~I'd like to exchange three longbows +3 for a longbow +4. Here are the bows and the gold.~
+@11941 = ~I'd like to exchange two longbows +3 and the Elven Court Bow +3 for a longbow +4. Here are the bows and the gold.~
+@1195 = ~I'd like to exchange three longbows +4 for a longbow +5. Here are the bows and the gold.~
+@1196 = ~I'd like to exchange three longbows +5 for a longbow +6. Here are the bows and the gold.~
+
+@1202 = ~I'd like to exchange three composite longbows +1 for a composite longbow +2. Here are the bows and the gold.~
+@1203 = ~I'd like to exchange three composite longbows +2 for a composite longbow +3. Here are the bows and the gold.~
+@1204 = ~I'd like to exchange three composite longbows +3 for a composite longbow +4. Here are the bows and the gold.~
+@1205 = ~I'd like to exchange three composite longbows +4 for a composite longbow +5. Here are the bows and the gold.~
+@1206 = ~I'd like to exchange three composite longbows +5 for a composite longbow +6. Here are the bows and the gold.~
+
+@1212 = ~I'd like to exchange three slings +1 for a sling +2. Here are the slings and the gold.~
+@1213 = ~I'd like to exchange three slings +2 for a sling +3. Here are the slings and the gold.~
+@1214 = ~I'd like to exchange three slings +3 for a sling +4. Here are the slings and the gold.~
+@12141 = ~I'd like to exchange two slings +3 and the Arla's Dragonbane +3 for a sling +4. Here are the slings and the gold.~
+@1215 = ~I'd like to exchange three slings +4 for a sling +5. Here are the slings and the gold.~
+@1216 = ~I'd like to exchange three slings +5 for a sling +6. Here are the slings and the gold.~
+
+@1222 = ~I'd like to exchange three leather armors +1 for a leather armor +2. Here are the armors and the gold.~
+@1223 = ~I'd like to exchange three leather armors +2 for a leather armor +3. Here are the armors and the gold.~
+@12231 = ~I'd like to exchange two leather armors +2 and the Protector of the Second +2 for a leather armor +3. Here are the armors and the gold.~
+@1224 = ~I'd like to exchange three leather armors +3 for a leather armor +4. Here are the armors and the gold.~
+@12241 = ~I'd like to exchange two leather armors +3 and the Karajah's Life and Death +3 for a leather armor +4. Here are the armors and the gold.~
+@1225 = ~I'd like to exchange three leather armors +4 for a leather armor +5. Here are the armors and the gold.~
+@1226 = ~I'd like to exchange three leather armors +5 for a leather armor +6. Here are the armors and the gold.~
+
+@1232 = ~I'd like to exchange three studded leather armors +1 for a studded leather armor +2. Here are the armors and the gold.~
+@1233 = ~I'd like to exchange three studded leather armors +2 for a studded leather armor +3. Here are the armors and the gold.~
+@1234 = ~I'd like to exchange three studded leather armors +3 for a studded leather armor +4. Here are the armors and the gold.~
+@1235 = ~I'd like to exchange three studded leather armors +4 for a studded leather armor +5. Here are the armors and the gold.~
+@12351 = ~I'd like to exchange two studded leather armors +4 and the Armor of Deep Night +4 for a studded leather armor +5. Here are the armors and the gold.~
+@1236 = ~I'd like to exchange three studded leather armors +5 for a studded leather armor +6. Here are the armors and the gold.~
+
+@1242 = ~I'd like to exchange three chain mails +1 for a chain mail +2. Here are the armors and the gold.~
+@1243 = ~I'd like to exchange three chain mails +2 for a chain mail +3. Here are the armors and the gold.~
+@12431 = ~I'd like to exchange two chain mails +2 and the Mail of the Dead +2 for a chain mail +3. Here are the armors and the gold.~
+@1244 = ~I'd like to exchange three chain mails +3 for a chain mail +4. Here are the armors and the gold.~
+@1245 = ~I'd like to exchange three chain mails +4 for a chain mail +5. Here are the armors and the gold.~
+@12451 = ~I'd like to exchange two chain mails +4 and the Mithral Chain Mail +4 for a chain mail +5. Here are the armors and the gold.~
+@12452 = ~I'd like to exchange two chain mails +4 and the Jester's Chain +4 for a chain mail +5. Here are the armors and the gold.~
+@12453 = ~I'd like to exchange a chain mail +4, the Mithral Chain Mail +4 and the Jester's Chain +4 for a chain mail +5. Here are the armors and the gold.~
+@1246 = ~I'd like to exchange three chain mails +5 for a chain mail +6. Here are the armors and the gold.~
+@12461 = ~I'd like to exchange two chain mails +5 and the Crimson Chain +5 for a chain mail +6. Here are the armors and the gold.~
+
+@1252 = ~I'd like to exchange three plate mails +1 for a plate mail +2. Here are the armors and the gold.~
+@12521 = ~I'd like to exchange two plate mails +1 and the Fallorain's Plate +1 for a plate mail +2. Here are the armors and the gold.~
+@1253 = ~I'd like to exchange three plate mails +2 for a plate mail +3. Here are the armors and the gold.~
+@12531 = ~I'd like to exchange two plate mails +2 and an Ankheg Plate Mail for a plate mail +3. Here are the armors and the gold.~
+@1254 = ~I'd like to exchange three plate mails +3 for a plate mail +4. Here are the armors and the gold.~
+@12541 = ~I'd like to exchange two plate mails +3 and the Doomplate +3 for a plate mail +4. Here are the armors and the gold.~
+@1255 = ~I'd like to exchange three plate mails +4 for a plate mail +5. Here are the armors and the gold.~
+@1256 = ~I'd like to exchange three plate mails +5 for a plate mail +6. Here are the armors and the gold.~
+
+@1262 = ~I'd like to exchange three full plate mails +1 for a full plate mail +2. Here are the armors and the gold.~
+@1263 = ~I'd like to exchange three full plate mails +2 for a full plate mail +3. Here are the armors and the gold.~
+@12631 = ~I'd like to exchange two full plate mails +2 and the Pride of the Legion +2 for a full plate mail +3. Here are the armors and the gold.~
+@1264 = ~I'd like to exchange three full plate mails +3 for a full plate mail +4. Here are the armors and the gold.~
+@12641 = ~I'd like to exchange two full plate mails +3 and the Armor of the Hart +3 for a full plate mail +4. Here are the armors and the gold.~
+@1265 = ~I'd like to exchange three full plate mails +4 for a full plate mail +5. Here are the armors and the gold.~
+@1266 = ~I'd like to exchange three full plate mails +5 for a full plate mail +6. Here are the armors and the gold.~
+
+@1342 = ~I'd like to exchange three bucklers +1 for a buckler +2. Here are the shields and the gold.~
+@1343 = ~I'd like to exchange three bucklers +2 for a buckler +3. Here are the shields and the gold.~
+@1344 = ~I'd like to exchange three bucklers +3 for a buckler +4. Here are the shields and the gold.~
+@1345 = ~I'd like to exchange three bucklers +4 for a buckler +5. Here are the shields and the gold.~
+@1346 = ~I'd like to exchange three bucklers +5 for a buckler +6. Here are the shields and the gold.~
+
+@1272 = ~I'd like to exchange three small shields +1 for a small shield +2. Here are the shields and the gold.~
+@1273 = ~I'd like to exchange three small shields +2 for a small shield +3. Here are the shields and the gold.~
+@1274 = ~I'd like to exchange three small shields +3 for a small shield +4. Here are the shields and the gold.~
+@1275 = ~I'd like to exchange three small shields +4 for a small shield +5. Here are the shields and the gold.~
+@1276 = ~I'd like to exchange three small shields +5 for a small shield +6. Here are the shields and the gold.~
+
+@1282 = ~I'd like to exchange three medium shields +1 for a medium shield +2. Here are the shields and the gold.~
+@1283 = ~I'd like to exchange three medium shields +2 for a medium shield +3. Here are the shields and the gold.~
+@1284 = ~I'd like to exchange three medium shields +3 for a medium shield +4. Here are the shields and the gold.~
+@12841 = ~I'd like to exchange two medium shields +3 and the Saving Grace +3 for a medium shield +4. Here are the shields and the gold.~
+@1285 = ~I'd like to exchange three medium shields +4 for a medium shield +5. Here are the shields and the gold.~
+@12851 = ~I'd like to exchange two medium shields +4 and the Sentinel +4 for a medium shield +5. Here are the shields and the gold.~
+@1286 = ~I'd like to exchange three medium shields +5 for a medium shield +6. Here are the shields and the gold.~
+
+@1292 = ~I'd like to exchange three large shields +1 for a large shield +2. Here are the shields and the gold.~
+@1293 = ~I'd like to exchange three large shields +2 for a large shield +3. Here are the shields and the gold.~
+@12931 = ~I'd like to exchange two medium shields +2 and the Pellan's Shield +2 for a medium shield +3. Here are the shields and the gold.~
+@1294 = ~I'd like to exchange three large shields +3 for a large shield +4. Here are the shields and the gold.~
+@1295 = ~I'd like to exchange three large shields +4 for a large shield +5. Here are the shields and the gold.~
+@1296 = ~I'd like to exchange three large shields +5 for a large shield +6. Here are the shields and the gold.~
+
+@1302 = ~I'd like to exchange three rings of protection +1 for a ring of protection +2. Here are the rings and the gold.~
+@13021 = ~I'd like to exchange two rings of protection +1 and the Koveras's Ring of Protection for a ring of protection +2. Here are the rings and the gold.~
+@1303 = ~I'd like to exchange three rings of protection +2 for a ring of protection +3. Here are the rings and the gold.~
+@1304 = ~I'd like to exchange three rings of protection +3 for a ring of protection +4. Here are the rings and the gold.~
+@13041 = ~I'd like to exchange two rings of protection +3 and the Warder's Signet +3 for a ring of protection +4. Here are the rings and the gold.~
+@1305 = ~I'd like to exchange three rings of protection +4 for a ring of protection +5. Here are the rings and the gold.~
+@1306 = ~I'd like to exchange three rings of protection +5 for a ring of protection +6. Here are the rings and the gold.~
+
+@1312 = ~I'd like to exchange three amulets of protection +1 for an amulet of protection +2. Here are the amulets and the gold.~
+@1313 = ~I'd like to exchange three amulets of protection +2 for an amulet of protection +3. Here are the amulets and the gold.~
+@1314 = ~I'd like to exchange three amulets of protection +3 for an amulet of protection +4. Here are the amulets and the gold.~
+@1315 = ~I'd like to exchange three amulets of protection +4 for an amulet of protection +5. Here are the amulets and the gold.~
+@1316 = ~I'd like to exchange three amulets of protection +5 for an amulet of protection +6. Here are the amulets and the gold.~
+
+@1322 = ~I'd like to exchange three cloaks of protection +1 for a cloak of protection +2. Here are the cloaks and the gold.~
+@1323 = ~I'd like to exchange three cloaks of protection +2 for a cloak of protection +3. Here are the cloaks and the gold.~
+@1324 = ~I'd like to exchange three cloaks of protection +3 for a cloak of protection +4. Here are the cloaks and the gold.~
+@1325 = ~I'd like to exchange three cloaks of protection +4 for a cloak of protection +5. Here are the cloaks and the gold.~
+@1326 = ~I'd like to exchange three cloaks of protection +5 for a cloak of protection +6. Here are the cloaks and the gold.~
+
+//TOB
+@1334 = ~I'd like to exchange three clubs +3 for a club +4. Here are the clubs and the gold.~
+@1335 = ~I'd like to exchange three clubs +4 for a club +5. Here are the clubs and the gold.~
+@1336 = ~I'd like to exchange three clubs +5 for a club +6. Here are the clubs and the gold.~
+
+//Rogue Rebalancing
+@1352 = ~I'd like to exchange three composite short bow +1 for a composite short bow +2. Here are the bows and the gold.~
+@1353 = ~I'd like to exchange three composite short bow +2 for a composite short bow +3. Here are the bows and the gold.~
+@1354 = ~I'd like to exchange three composite short bow +3 for a composite short bow +4. Here are the bows and the gold.~
+@1355 = ~I'd like to exchange three composite short bow +4 for a composite short bow +5. Here are the bows and the gold.~
+@1356 = ~I'd like to exchange three composite short bow +5 for a composite short bow +6. Here are the bows and the gold.~
+
+@1148 = ~Dagger +4~
+@1149 = ~This dagger was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d4+4 (piercing)
+Speed Factor: 0
+Proficiency Type: dagger
+Type: One-handed
+Requires: 3 Strength
+
+Weight: 0~
+@1158 = ~Dagger +5~
+@1159 = ~This dagger was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d4+5 (piercing)
+Speed Factor: 0
+Proficiency Type: dagger
+Type: One-handed
+Requires: 3 Strength
+
+Weight: 0~
+@1168 = ~Dagger +6~
+@1169 = ~This dagger was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d4+6 (piercing)
+Speed Factor: 0
+Proficiency Type: dagger
+Type: One-handed
+Requires: 3 Strength
+
+Weight: 0~
+
+@1248 = ~Short sword +4~
+@1249 = ~This short sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+4 (piercing)
+Speed Factor: 0
+Proficiency Type: short sword
+Type: One-handed
+Requires: 5 Strength
+
+Weight: 1~
+
+@1258 = ~Short sword +5~
+@1259 = ~This short sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d6+5 (piercing)
+Speed Factor: 0
+Proficiency Type: short sword
+Type: One-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@1268 = ~Short sword +6~
+@1269 = ~This short sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d6+6 (piercing)
+Speed Factor: 0
+Proficiency Type: short sword
+Type: One-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@1348 = ~Long Sword +4~
+@1349 = ~This long Sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d8+4 (slashing)
+Speed Factor: 1
+Proficiency Type: long Sword
+Type: One-handed
+Requires: 6 Strength
+
+Weight: 1~
+
+@1358 = ~Long Sword +5~
+@1359 = ~This long Sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d8+5 (slashing)
+Speed Factor: 0
+Proficiency Type: long Sword
+Type: One-handed
+Requires: 6 Strength
+
+Weight: 0~
+
+@1368 = ~Long Sword +6~
+@1369 = ~This long Sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d8+6 (slashing)
+Speed Factor: 0
+Proficiency Type: long Sword
+Type: One-handed
+Requires: 6 Strength
+
+Weight: 0~
+
+@1448 = ~Scimitar +4~
+@1449 = ~This scimitar was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d8+4 (slashing)
+Speed Factor: 1
+Proficiency Type: scimitar/wakizashi/ninjatō
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 0~
+
+@1458 = ~Scimitar +5~
+@1459 = ~This scimitar was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d8+5 (slashing)
+Speed Factor: 0
+Proficiency Type: scimitar/wakizashi/ninjatō
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 0~
+
+@1468 = ~Scimitar +6~
+@1469 = ~This scimitar was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d8+6 (slashing)
+Speed Factor: 1
+Proficiency Type: scimitar/wakizashi/ninjatō
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 0~
+
+@1548 = ~Katana +4~
+@1549 = ~This katana was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS: 
+
+THAC0: +4
+Damage: 1d10+4 (slashing)
+Speed Factor: 0
+Proficiency Type: katana
+Type: One-handed
+Requires: 6 Strength 
+
+Weight: 2~
+
+@1558 = ~Katana +5~
+@1559 = ~This katana was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS: 
+
+THAC0: +5
+Damage: 1d10+5 (slashing)
+Speed Factor: 0
+Proficiency Type: katana
+Type: One-handed
+Requires: 6 Strength 
+
+Weight: 1~
+
+@1568 = ~Katana +6~
+@1569 = ~This katana was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS: 
+
+THAC0: +6
+Damage: 1d10+6 (slashing)
+Speed Factor: 0
+Proficiency Type: katana
+Type: One-handed
+Requires: 6 Strength 
+
+Weight: 0~
+
+@1648 = ~Bastard sword +4~
+@1649 = ~This bastard sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 2d4+4 (slashing)
+Speed Factor: 4
+Proficiency Type: bastard sword
+Type: One-handed
+Requires: 11 Strength
+
+Weight: 6~
+
+@1658 = ~Bastard sword +5~
+@1659 = ~This bastard sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 2d4+5 (slashing)
+Speed Factor: 3
+Proficiency Type: bastard sword
+Type: One-handed
+Requires: 11 Strength
+
+Weight: 5~
+
+@1668 = ~Bastard sword +6~
+@1669 = ~This bastard sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 2d4+6 (slashing)
+Speed Factor: 2
+Proficiency Type: bastard sword
+Type: One-handed
+Requires: 11 Strength
+
+Weight: 4~
+
+@1748 = ~Two-handed sword +4~
+@1749 = ~This two-handed sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d12+4 (slashing) 
+Speed Factor: 6
+Proficiency Type: two-handed sword 
+Type: two-handed 
+Requires: 14 Strength
+
+Weight: 9~
+
+@1758 = ~Two-handed sword +5~
+@1759 = ~This two-handed sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d12+5 (slashing) 
+Speed Factor: 5
+Proficiency Type: two-handed sword 
+Type: two-handed 
+Requires: 14 Strength
+
+Weight: 8~
+
+
+@1768 = ~Two-handed sword +6~
+@1769 = ~This two-handed sword was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d12+6 (slashing) 
+Speed Factor: 4 
+Proficiency Type: two-handed sword 
+Type: two-handed 
+Requires: 14 Strength
+
+Weight: 7~
+
+@1848 = ~Battle axe +4~
+@1849 = ~This battle axe was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d8+4 (slashing)
+Speed Factor: 3
+Proficiency Type: axe
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 3~
+
+@1858 = ~Battle axe +5~
+@1859 = ~This battle axe was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d8+5 (slashing)
+Speed Factor: 2
+Proficiency Type: axe
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 2~
+
+@1868 = ~Battle axe +6~
+@1869 = ~This battle axe was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d8+6 (slashing)
+Speed Factor: 1
+Proficiency Type: axe
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 1~
+
+@1948 = ~War Hammer +4~
+@1949 = ~This war Hammer was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d4+5 (crushing)
+Speed Factor: 0 
+Proficiency Type: War Hammer
+Type: One-handed
+Requires: 9 Strength
+
+Weight: 3~
+
+@1958 = ~War Hammer +5~
+@1959 = ~This war Hammer was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d4+6 (crushing)
+Speed Factor: 0 
+Proficiency Type: War Hammer
+Type: One-handed
+Requires: 9 Strength
+
+Weight: 2~
+
+@1968 = ~War Hammer +6~
+@1969 = ~This war Hammer was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d4+7 (crushing)
+Speed Factor: 0 
+Proficiency Type: War Hammer
+Type: One-handed
+Requires: 9 Strength
+
+Weight: 1~
+
+@11048 = ~Mace +4~
+@11049 = ~This mace was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+5 (crushing) 
+Speed Factor: 3 
+Proficiency Type: mace
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 5~
+
+@11058 = ~Mace +5~
+@11059 = ~This mace was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d6+6 (crushing) 
+Speed Factor: 2 
+Proficiency Type: mace
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 4~
+
+@11068 = ~Mace +6~
+@11069 = ~This mace was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d6+7 (crushing) 
+Speed Factor: 1 
+Proficiency Type: mace
+Type: One-handed
+Requires: 10 Strength
+
+Weight: 3~
+
+@11148 = ~Morning star +4~
+@11149 = ~This morning star was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 2d4+4 (crushing)
+Speed Factor: 3
+Proficiency Type: flail/morning star
+Type: One-handed
+Requires: 11 Strength
+
+Weight: 7~
+
+@11158 = ~Morning star +5~
+@11159 = ~This morning star was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 2d4+5 (crushing)
+Speed Factor: 2
+Proficiency Type: flail/morning star
+Type: One-handed
+Requires: 11 Strength
+
+Weight: 6~
+
+@11168 = ~Morning star +6~
+@11169 = ~This morning star was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 2d4+6 (crushing)
+Speed Factor: 1
+Proficiency Type: flail/morning star
+Type: One-handed
+Requires: 11 Strength
+
+Weight: 5~
+
+@11248 = ~Flail +4~
+@11249 = ~This flail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+5 (crushing)
+Speed Factor: 3
+Proficiency Type: flail/morning star
+Type: One-handed
+Requires: 13 Strength
+
+Weight: 10~
+
+@11258 = ~Flail +5~
+@11259 = ~This flail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d6+6 (crushing)
+Speed Factor: 2
+Proficiency Type: flail/morning star
+Type: One-handed
+Requires: 13 Strength
+
+Weight: 9~
+
+@11268 = ~Flail +6~
+@11269 = ~This flail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d6+7 (crushing)
+Speed Factor: 1
+Proficiency Type: flail/morning star
+Type: One-handed
+Requires: 13 Strength
+
+Weight: 8~
+
+@11348 = ~Spear +4~
+@11349 = ~This spear was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+4 (piercing)
+Speed Factor: 2
+Proficiency Type: spear
+Type: two-handed
+Requires: 5 Strength
+
+Weight: 2~
+
+@11358 = ~Spear +5~
+@11359 = ~This spear was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d6+5 (piercing)
+Speed Factor: 1
+Proficiency Type: spear
+Type: two-handed
+Requires: 5 Strength
+
+Weight: 1~
+
+@11368 = ~Spear +6~
+@11369 = ~This spear was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d6+6 (piercing)
+Speed Factor: 0
+Proficiency Type: spear
+Type: two-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@11448 = ~Halberd +4~
+@11449 = ~This halberd was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d10+4 (piercing)
+Speed Factor: 5
+Proficiency Type: halberd
+Type: two-handed
+Requires: 13 Strength
+
+Weight: 10~
+
+@11458 = ~Halberd +5~
+@11459 = ~This halberd was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d10+5 (piercing)
+Speed Factor: 4
+Proficiency Type: halberd
+Type: two-handed
+Requires: 13 Strength
+
+Weight: 9~
+
+@11468 = ~Halberd +6~
+@11469 = ~This halberd was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d10+6 (piercing)
+Speed Factor: 3
+Proficiency Type: halberd
+Type: two-handed
+Requires: 13 Strength
+
+Weight: 8~
+
+@11548 = ~Quarterstaff +4~
+@11549 = ~This quarterstaff was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+4 (crushing)
+Speed Factor: 0
+Proficiency Type: quarterstaff
+Type: two-handed
+Requires: 5 Strength
+
+Weight: 1~
+
+@11558 = ~Quarterstaff +5~
+@11559 = ~This quarterstaff was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d6+5 (crushing)
+Speed Factor: 0
+Proficiency Type: quarterstaff
+Type: two-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@11568 = ~Quarterstaff +6~
+@11569 = ~This quarterstaff was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d6+6 (crushing)
+Speed Factor: 0
+Proficiency Type: quarterstaff
+Type: two-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@11648 = ~Light Crossbow +4~
+@11649 = ~This crossbow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: +4 (missile)
+Speed Factor: 1
+Proficiency Type: crossbow
+Type: two-handed
+Requires: 8 Strength
+
+Weight: 3~
+
+@11658 = ~Light Crossbow +5~
+@11659 = ~This crossbow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: +5 (missile)
+Speed Factor: 0
+Proficiency Type: crossbow
+Type: two-handed
+Requires: 8 Strength
+
+Weight: 2~
+
+@11668 = ~Light Crossbow +6~
+@11669 = ~This crossbow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: +6 (missile)
+Speed Factor: 0
+Proficiency Type: crossbow
+Type: two-handed
+Requires: 8 Strength
+
+Weight: 1~
+
+@11748 = ~Heavy Crossbow +4~
+@11749 = ~This crossbow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: +6 (missile)
+Speed Factor: 6
+Proficiency Type: crossbow
+Type: two-handed
+Requires: 12 Strength
+
+Weight: 9~
+
+@11758 = ~Heavy Crossbow +5~
+@11759 = ~This crossbow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: +7 (missile)
+Speed Factor: 5
+Proficiency Type: crossbow
+Type: two-handed
+Requires: 12 Strength
+
+Weight: 8~
+
+@11768 = ~Heavy Crossbow +6~
+@11769 = ~This crossbow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: +8 (missile)
+Speed Factor: 4
+Proficiency Type: crossbow
+Type: two-handed
+Requires: 12 Strength
+
+Weight: 7~
+
+@11848 = ~Shortbow+4~
+@11849 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Speed Factor: 2
+Proficiency Type: shortbow
+Type: two-handed 
+Requires: 3 Strength
+
+Weight: 1~
+
+@11858 = ~Shortbow+5~
+@11859 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Speed Factor: 1
+Proficiency Type: shortbow
+Type: two-handed 
+Requires: 3 Strength
+
+Weight: 1~
+
+@11868 = ~Shortbow+6~
+@11869 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Speed Factor: 0
+Proficiency Type: shortbow
+Type: two-handed 
+Requires: 3 Strength
+
+Weight: 1~
+
+@11948 = ~Longbow +4~
+@11949 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Speed Factor: 3
+Proficiency Type: longbow
+Type: two-handed
+Requires: 6 Strength
+
+Weight: 1~
+
+@11958 = ~Longbow +5~
+@11959 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Speed Factor: 2
+Proficiency Type: longbow
+Type: two-handed
+Requires: 6 Strength
+
+Weight: 0~
+
+@11968 = ~Longbow +6~
+@11969 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +7
+Speed Factor: 1
+Proficiency Type: longbow
+Type: two-handed
+Requires: 6 Strength
+
+Weight: 0~
+
+@12048 = ~Composite longbow +4~
+@12049 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: +1 (missile)
+Speed Factor: 3
+Proficiency Type: longbow
+Type: two-handed
+Requires: 18 Strength
+
+Weight: 6~
+
+@12058 = ~Composite longbow +5~
+@12059 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: +1 (missile)
+Speed Factor: 2
+Proficiency Type: longbow
+Type: two-handed
+Requires: 18 Strength
+
+Weight: 5~
+
+@12068 = ~Composite longbow +6~
+@12069 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +7
+Damage: +1 (missile)
+Speed Factor: 1
+Proficiency Type: longbow
+Type: two-handed
+Requires: 18 Strength
+
+Weight: 4~
+
+@12148 = ~Sling +4~
+@12149 = ~This sling was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: +4 (missile)
+Speed Factor: 2
+Proficiency Type: sling
+Type: One-handed
+Requires: 3 Strength
+
+Weight: 0~
+
+@12158 = ~Sling +5~
+@12159 = ~This sling was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: +5 (missile)
+Speed Factor: 1
+Proficiency Type: sling
+Type: One-handed
+Requires: 3 Strength
+
+Weight: 0~
+
+@12168 = ~Sling +6~
+@12169 = ~This sling was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: +6 (missile)
+Speed Factor: 0
+Proficiency Type: sling
+Type: One-handed
+Requires: 3 Strength
+
+Weight: 0~
+
+@12248 = ~Leather Armor +4~
+@12249 = ~This leather armor was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 4 (6 vs. piercing and missile)
+Requires: 3 Strength
+
+Weight: 4~
+
+@12258 = ~Leather Armor +5~
+@12259 = ~This leather armor was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 3 (5 vs. piercing and missile)
+Requires: 3 Strength
+
+Weight: 3~
+
+@12268 = ~Leather Armor +6~
+@12269 = ~This leather armor was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 2 (4 vs. piercing and missile)
+Requires: 3 Strength
+
+Weight: 3~
+
+@12348 = ~Studded Leather Armor +4~
+@12349 = ~This studded leather armor was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 3 (1 vs. slashing, 4 vs. piercing and missile)
+Requires: 6 Strength
+
+Weight: 7~
+
+@12358 = ~Studded Leather Armor +5~
+@12359 = ~This studded leather armor was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 2 (0 vs. slashing, 4 vs. piercing and missile)
+Requires: 6 Strength
+
+Weight: 6~
+
+@12368 = ~Studded Leather Armor +6~
+@12369 = ~This studded leather armor was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 1 (-1 vs. slashing, 4 vs. piercing and missile)
+Requires: 6 Strength
+
+Weight: 6~
+
+@12448 = ~Chain mail +4~
+@12449 = ~This chain mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 1 (-1 vs. slashing, 3 vs. crushing)
+Requires: 8 Strength
+
+Weight: 9~
+
+@12458 = ~Chain mail +5~
+@12459 = ~This chain mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 0 (-2 vs. slashing, 2 vs. crushing)
+Requires: 8 Strength
+
+Weight: 8~
+
+@12468 = ~Chain mail +6~
+@12469 = ~This chain mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -1 (-3 vs. slashing, 1 vs. crushing)
+Requires: 8 Strength
+
+Weight: 8~
+
+@12538 = ~Plate mail +3~
+@12539 = ~This plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: 0 (-3 vs. slashing)
+Requires: 12 Strength
+
+Weight: 15~
+
+@12548 = ~Plate mail +4~
+@12549 = ~This plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -1 (-4 vs. slashing)
+Requires: 12 Strength
+
+Weight: 15~
+
+@12558 = ~Plate mail +5~
+@12559 = ~This plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -2 (-5 vs. slashing)
+Requires: 12 Strength
+
+Weight: 10~
+
+@12568 = ~Plate mail +6~
+@12569 = ~This plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -3 (-6 vs. slashing)
+Requires: 12 Strength
+
+Weight: 10~
+
+@12638 = ~Full plate mail +3~
+@12639 = ~This full plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -2 (-6 vs. slashing, -5 vs. piercing and missile)
+Requires: 15 Strength
+
+Weight: 35~
+
+@12648 = ~Full plate mail +4~
+@12649 = ~This full plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -3 (-7 vs. slashing, -6 vs. piercing and missile)
+Requires: 15 Strength
+
+Weight: 35~
+
+@12658 = ~Full plate mail +5~
+@12659 = ~This full plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -4 (-8 vs. slashing, -7 vs. piercing and missile)
+Requires: 15 Strength
+
+Weight: 30~
+
+@12668 = ~Full plate mail +6~
+@12669 = ~This full plate mail was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Armor Class: -5 (-9 vs. slashing, -8 vs. piercing and missile)
+Requires: 15 Strength
+
+Weight: 30~
+
+@12738 = ~Small shield +3~
+@12739 = ~This small shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– No protection against missile attacks
+
+Requires: 4 Strength
+
+Weight: 2~
+
+@12748 = ~Small shield +4~
+@12749 = ~This small shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +5
+– No protection against missile attacks
+
+Requires: 4 Strength
+
+Weight: 1~
+
+@12758 = ~Small shield +5~
+@12759 = ~This small shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +6
+– No protection against missile attacks
+
+Requires: 4 Strength
+
+Weight: 1~
+
+@12768 = ~Small shield +6~
+@12769 = ~This small shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+
+Equipped abilities:
+– Armor Class: +7
+– No protection against missile attacks
+
+Requires: 4 Strength
+
+Weight: 0~
+
+@12838 = ~Medium shield +3~
+@12839 = ~This medium shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+
+Equipped abilities:
+– Armor Class: +4
+
+Requires: 12 Strength
+
+Weight: 5~
+
+@12848 = ~Medium shield +4~
+@12849 = ~This medium shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+
+Equipped abilities:
+– Armor Class: +5
+
+Requires: 12 Strength
+
+Weight: 4~
+
+@12858 = ~Medium shield +5~
+@12859 = ~This medium shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+
+Equipped abilities:
+– Armor Class: +6
+
+Requires: 12 Strength
+
+Weight: 4~
+
+@12868 = ~Medium shield +6~
+@12869 = ~This medium shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+
+Equipped abilities:
+– Armor Class: +7
+
+Requires: 12 Strength
+
+Weight: 3~
+
+@12938 = ~Large shield +3~
+@12939 = ~This large shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4, an extra +1 vs. missile attacks
+
+Requires: 10 Strength
+
+Weight: 4~
+
+@12948 = ~Large shield +4~
+@12949 = ~This large shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +5, an extra +1 vs. missile attacks
+
+Requires: 10 Strength
+
+Weight: 4~
+
+@12958 = ~Large shield +5~
+@12959 = ~This large shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +6, an extra +1 vs. missile attacks
+
+Requires: 10 Strength
+
+Weight: 3~
+
+@12968 = ~Large shield +6~
+@12969 = ~This large shield was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +7, an extra +1 vs. missile attacks
+
+Requires: 10 Strength
+
+Weight: 3~
+
+@13038 = ~Ring of protection +3~
+@13039 = ~This ring was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +3
+– Saving Throws: +3
+
+Weight: 0~
+
+@13048 = ~Ring of protection +4~
+@13049 = ~This ring was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Saving Throws: +4
+
+Weight: 0~
+
+@13058 = ~Ring of protection +5~
+@13059 = ~This ring surpuissant was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +5
+– Saving Throws: +5
+
+Weight: 0~
+@13068 = ~Ring of protection +6~
+@13069 = ~This ring surpuissant was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +6
+– Saving Throws: +6
+
+Weight: 0~
+
+@13128 = ~Amulet of protection +2~
+@13129 = ~This amulet was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +2
+– Saving Throws: +2
+
+Weight: 0~
+
+@13138 = ~Amulet of protection +3~
+@13139 = ~This amulet was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +3
+– Saving Throws: +3
+
+Weight: 0~
+
+@13148 = ~Amulet of protection +4~
+@13149 = ~This amulet was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Saving Throws: +4
+
+Weight: 0~
+
+@13158 = ~Amulet of protection +5~
+@13159 = ~This amulet surpuissante was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +5
+– Saving Throws: +5
+
+Weight: 0~
+
+@13168 = ~Amulet of protection +6~
+@13169 = ~This amulet surpuissante was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +6
+– Saving Throws: +6
+
+Weight: 0~
+
+@13238 = ~Cloak of protection +3~
+@13239 = ~This cloak was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +3
+– Saving Throws: +3
+
+Weight: 3~
+
+@13248 = ~Cloak of protection +4~
+@13249 = ~This cloak was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +4
+– Saving Throws: +4
+
+Weight: 3~
+
+@13258 = ~Cloak of protection +5~
+@13259 = ~This cloak surpuissante was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +5
+– Saving Throws: +5
+
+Weight: 3~
+
+@13268 = ~Cloak of protection +6~
+@13269 = ~This cloak surpuissante was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+Equipped abilities:
+– Armor Class: +6
+– Saving Throws: +6
+
+Weight: 3~
+
+@13348 = ~Club +4~
+@13349 = ~This club was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Damage: 1d6+4 (crushing)
+Speed Factor: 0
+Proficiency Type: club
+Type: One-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@13358 = ~Club +5~
+@13359 = ~This club was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Damage: 1d6+5 (crushing)
+Speed Factor: 0
+Proficiency Type: club
+Type: One-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@13368 = ~Club +6~
+@13369 = ~This club was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Damage: 1d6+6 (crushing)
+Speed Factor: 0
+Proficiency Type: club
+Type: One-handed
+Requires: 5 Strength
+
+Weight: 0~
+
+@13438 = ~Buckler +3~
+@13439 = ~This buckler was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+PARAMETRES :
+
+– Armor Class: +4
+– No protection against missile and piercing attacks
+
+Requires: 4 Strength
+
+Weight: 1~
+
+@13448 = ~Buckler +4~
+@13449 = ~This buckler was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+PARAMETRES :
+
+– Armor Class: +5
+– No protection against missile and piercing attacks
+
+Requires: 4 Strength
+
+Weight: 1~
+
+@13458 = ~Buckler +5~
+@13459 = ~This buckler was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+PARAMETRES :
+
+– Armor Class: +6
+– No protection against missile and piercing attacks
+
+Requires: 4 Strength
+
+Weight: 0~
+
+@13468 = ~Buckler +6~
+@13469 = ~This buckler was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+PARAMETRES :
+
+– Armor Class: +7
+– No protection against missile and piercing attacks
+
+Requires: 4 Strength
+
+Weight: 0~
+
+@13548 = ~Composite Short Bow +4~
+@13549 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +4
+Dégâts : +5
+Speed Factor: 2
+Proficiency Type: shortbow
+Type: two-handed 
+Requires: 16 Strength
+
+Weight: 2~
+
+@13558 = ~Composite Short Bow +5~
+@13559 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +5
+Dégâts : +6
+Speed Factor: 1
+Proficiency Type: shortbow
+Type: two-handed 
+Requires: 16 Strength
+
+Weight: 1~
+
+@13568 = ~Composite Short Bow~
+@13569 = ~This bow was created by Kurosaï the Combiner. It required a great deal of investment, but is well worth the time and money.
+
+STATISTICS:
+
+THAC0: +6
+Dégâts : +7
+Speed Factor: 0
+Proficiency Type: shortbow
+Type: two-handed 
+Requires: 16 Strength
+
+Weight: 1~
+
+@212 = ~I'd like to exchange three daggers +1 for a dagger +2. Here are the daggers, the emerald and the gold.~
+@2121 = ~I'd like to change two daggers +1 and the Dagger of <CHARNAME> for a dagger +2. Here are the daggers, the emerald and the gold.~
+@213 = ~I'd like to exchange three daggers +2 for a dagger +3. Here are the daggers, the diamond and the gold.~
+@2131 = ~I'd like to change two daggers +2 and the Heart of the Golem +2 for a dagger +3. Here are the daggers, the diamond and the gold.~
+@2132 = ~I'd like to exchange two daggers +2 and the Ixil's Spike for a dagger +3. Here are the daggers, the diamond and the gold.~
+@214 = ~I'd like to exchange three daggers +3 for a dagger +4. Here are the daggers, the star sapphire and the gold.~
+@215 = ~I'd like to exchange three daggers +4 for a dagger +5. Here are the daggers, the king's tear and the gold.~
+@2151 = ~I'd like to exchange two daggers +4 and the Boneblade +4 for a dagger +5. Here are the daggers, the king's tear and the gold.~
+@216 = ~I'd like to exchange three daggers +5 for a dagger +6. Here are the daggers, the rogue stone and the gold.~
+
+@222 = ~I'd like to exchange three short swords +1 for a short sword +2. Here are the swords, the emerald and the gold.~
+@223 = ~I'd like to exchange three short swords +2 for a short sword +3. Here are the swords, the diamond and the gold.~
+@224 = ~I'd like to exchange three short swords +3 for a short sword +4. Here are the swords, the star sapphire and the gold.~
+@2241 = ~I'd like to exchange two short swords +3 and the Shadow's Blade +3 for a short sword +4. Here are the swords, the star sapphire and the gold.~
+@225 = ~I'd like to exchange three short swords +4 for a short sword +5. Here are the swords, the king's tear and the gold.~
+@2251 = ~I'd like to exchange two short swords +5 and the Cutthroat +4 for a short sword +5. Here are the swords, the king's tear and the gold.~
+@226 = ~I'd like to exchange three short swords +5 for a short sword +6. Here are the swords, the rogue stone and the gold.~
+
+@232 = ~I'd like to exchange three long swords +1 for a long sword +2. Here are the swords, the emerald and the gold.~
+@233 = ~I'd like to exchange three long swords +2 for a long sword +3. Here are the swords, the diamond and the gold.~
+@234 = ~I'd like to exchange three long swords +3 for a long sword +4. Here are the swords, the star sapphire and the gold.~
+@235 = ~I'd like to exchange three long swords +4 for a long sword +5. Here are the swords, the king's tear and the gold.~
+@236 = ~I'd like to exchange three long swords +5 for a long sword +6. Here are the swords, the rogue stone and the gold.~
+
+@242 = ~I'd like to exchange three scimitars +1 for a scimitar +2. Here are the scimitars, the emerald and the gold.~
+@243 = ~I'd like to exchange three scimitars +2 for a scimitar +3. Here are the scimitars, the diamond and the gold.~
+@2431 = ~I'd like to exchange two scimitars +2 and the Rashad's Talon +2 for a scimitar +3. Here are the scimitars, the diamond and the gold.~
+@244 = ~I'd like to exchange three scimitars +3 for a scimitar +4. Here are the scimitars, the star sapphire and the gold.~
+@2441 = ~I'd like to exchange two scimitars +3 and the Water's Edge +3 for a scimitar +4. Here are the scimitars, the star sapphire and the gold.~
+@245 = ~I'd like to exchange three scimitars +4 for a scimitar +5. Here are the scimitars, the king's tear and the gold.~
+@246 = ~I'd like to exchange three scimitars +5 for a scimitar +6. Here are the scimitars, the rogue stone and the gold.~
+
+@252 = ~I'd like to exchange three katanas +1 for a katana +2. Here are the katanas, the emerald and the gold.~
+@253 = ~I'd like to exchange three katanas +2 for a katana +3. Here are the katanas, the diamond and the gold.~
+@2531 = ~I'd like to exchange two katanas +2 and the Malakar +2 for a katana +3. Here are the katanas, the diamond and the gold.~
+@254 = ~I'd like to exchange three katanas +3 for a katana +4. Here are the katanas, the star sapphire and the gold.~
+@255 = ~I'd like to exchange three katanas +4 for a katana +5. Here are the katanas, the king's tear and the gold.~
+@256 = ~I'd like to exchange three katanas +5 for a katana +6. Here are the katanas, the rogue stone and the gold.~
+
+@262 = ~I'd like to exchange three bastard swords +1 for a bastard sword +2. Here are the swords, the emerald and the gold.~
+@263 = ~I'd like to exchange three bastard swords +2 for a bastard sword +3. Here are the swords, the diamond and the gold.~
+@264 = ~I'd like to exchange three bastard swords +3 for a bastard sword +4. Here are the swords, the star sapphire and the gold.~
+@265 = ~I'd like to exchange three bastard swords +4 for a bastard sword +5. Here are the swords, the king's tear and the gold.~
+@266 = ~I'd like to exchange three bastard swords +5 for a bastard sword +6. Here are the swords, the rogue stone and the gold.~
+
+@272 = ~I'd like to exchange three two-handed swords +1 for a two-handed sword +2. Here are the swords, the emerald and the gold.~
+@273 = ~I'd like to exchange three two-handed swords +2 for a two-handed sword +3. Here are the swords, the diamond and the gold.~
+@274 = ~I'd like to exchange three two-handed swords +3 for a two-handed sword +4. Here are the swords, the star sapphire and the gold.~
+@275 = ~I'd like to exchange three two-handed swords +4 for a two-handed sword +5. Here are the swords, the king's tear and the gold.~
+@2751 = ~I'd like to exchange two two-handed swords +4 and the Warblade +4 for a two-handed sword +5. Here are the swords, the king's tear and the gold.~
+@276 = ~I'd like to exchange three two-handed swords +5 for a two-handed sword +6. Here are the swords, the rogue stone and the gold.~
+
+@282 = ~I'd like to exchange three battle axes +1 for a battle axe +2. Here are the battle axes, the emerald and the gold.~
+@283 = ~I'd like to exchange three battle axes +2 for a battle axe +3. Here are the battle axes, the diamond and the gold.~
+@2831 = ~I'd like to exchange two battle axes +2 and the Battle Axe of Mauletar +2 for a battle axe +3. Here are the battle axes, the diamond and the gold.~
+@284 = ~I'd like to exchange three battle axes +3 for a battle axe +4. Here are the battle axes, the star sapphire and the gold.~
+@285 = ~I'd like to exchange three battle axes +4 for a battle axe +5. Here are the battle axes, the king's tear and the gold.~
+@286 = ~I'd like to exchange three battle axes +5 for a battle axe +6. Here are the battle axes, the rogue stone and the gold.~
+
+@292 = ~I'd like to exchange three war hammers +1 for a war hammer +2. Here are the war hammers, the emerald and the gold.~
+@293 = ~I'd like to exchange three war hammers +2 for a war hammer +3. Here are the war hammers, the diamond and the gold.~
+@294 = ~I'd like to exchange three war hammers +3 for a war hammer +4. Here are the war hammers, the star sapphire and the gold.~
+@295 = ~I'd like to exchange three war hammers +4 for a war hammer +5. Here are the war hammers, the king's tear and the gold.~
+@296 = ~I'd like to exchange three war hammers +5 for a war hammer +6. Here are the war hammers, the rogue stone and the gold.~
+
+@2102 = ~I'd like to exchange three maces +1 for a mace +2. Here are the maces, the emerald and the gold.~
+@2103 = ~I'd like to exchange three maces +2 for a mace +3. Here are the maces, the diamond and the gold.~
+@2104 = ~I'd like to exchange three maces +3 for a mace +4. Here are the maces, the star sapphire and the gold.~
+@2105 = ~I'd like to exchange three maces +4 for a mace +5. Here are the maces, the king's tear and the gold.~
+@2106 = ~I'd like to exchange three maces +5 for a mace +6. Here are the maces, the rogue stone and the gold.~
+
+@2112 = ~I'd like to exchange three morning stars +1 for a morning star +2. Here are the morning stars, the emerald and the gold.~
+@2113 = ~I'd like to exchange three morning stars +2 for a morning star +3. Here are the morning stars, the diamond and the gold.~
+@2114 = ~I'd like to exchange three morning stars +3 for a morning star +4. Here are the morning stars, the star sapphire and the gold.~
+@2115 = ~I'd like to exchange three morning stars +4 for a morning star +5. Here are the morning stars, the king's tear and the gold.~
+@2116 = ~I'd like to exchange three morning stars +5 for a morning star +6. Here are the morning stars, the rogue stone and the gold.~
+
+@2122 = ~I'd like to exchange three flails +1 for a flail +2. Here are the flails, the emerald and the gold.~
+@2123 = ~I'd like to exchange three flails +2 for a flail +3. Here are the flails, the diamond and the gold.~
+@2124 = ~I'd like to exchange three flails +3 for a flail +4. Here are the flails, the star sapphire and the gold.~
+@2125 = ~I'd like to exchange three flails +4 for a flail +5. Here are the flails, the king's tear and the gold.~
+@2126 = ~I'd like to exchange three flails +5 for a flail +6. Here are the flails, the rogue stone and the gold.~
+
+@2132 = ~I'd like to exchange three spears +1 for a spear +2. Here are the spears, the emerald and the gold.~
+@2133 = ~I'd like to exchange three spears +2 for a spear +3. Here are the spears, the diamond and the gold.~
+@2134 = ~I'd like to exchange three spears +3 for a spear +4. Here are the spears, the star sapphire and the gold.~
+@2135 = ~I'd like to exchange three spears +4 for a spear +5. Here are the spears, the king's tear and the gold.~
+@2136 = ~I'd like to exchange three spears +5 for a spear +6. Here are the spears, the rogue stone and the gold.~
+
+@2142 = ~I'd like to exchange three halberds +1 for a halberd +2. Here are the halberds, the emerald and the gold.~
+@2143 = ~I'd like to exchange three halberds +2 for a halberd +3. Here are the halberds, the diamond and the gold.~
+@21431 = ~I'd like to exchange two halberds +2 and the Suryris's Blade +2 for a halberd +3. Here are the halberds, the diamond and the gold.~
+@2144 = ~I'd like to exchange three halberds +3 for a halberd +4. Here are the halberds, the star sapphire and the gold.~
+@2145 = ~I'd like to exchange three halberds +4 for a halberd +5. Here are the halberds, the king's tear and the gold.~
+@2146 = ~I'd like to exchange three halberds +5 for a halberd +6. Here are the halberds, the rogue stone and the gold.~
+
+@2152 = ~I'd like to exchange three quarterstaffs +1 for a quarterstaff +2. Here are the staffs, the emerald and the gold.~
+@2153 = ~I'd like to exchange three quarterstaffs +2 for a quarterstaff +3. Here are the staffs, the diamond and the gold.~
+@2154 = ~I'd like to exchange three quarterstaffs +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21541 = ~I'd like to exchange two quarterstaffs +3 and the Cleric's Staff +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21542 = ~I'd like to exchange two quarterstaffs +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21543 = ~I'd like to exchange a quarterstaff +3, the Cleric's Staff +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@2155 = ~I'd like to exchange three quarterstaffs +4 for a quarterstaff +5. Here are the staffs, the king's tear and the gold.~
+@21551 = ~I'd like to exchange two quarterstaffs +4 and the Staff of Rhynn +4 for a quarterstaff +5. Here are the staffs, the king's tear and the gold.~
+@2156 = ~I'd like to exchange three quarterstaffs +5 for a quarterstaff +6. Here are the staffs, the rogue stone and the gold.~
+
+@2162 = ~I'd like to exchange three light crossbows +1 for a light crossbow +2. Here are the crossbows, the emerald and the gold.~
+@2163 = ~I'd like to exchange three light crossbows +2 for a light crossbow +3. Here are the crossbows, the diamond and the gold.~
+@2164 = ~I'd like to exchange three light crossbows +3 for a light crossbow +4. Here are the crossbows, the star sapphire and the gold.~
+@21641 = ~I'd like to exchange two light crossbows +3 and the Necaradan's Crossbow +3 for a light crossbow +4. Here are the crossbows, the star sapphire and the gold.~
+@2165 = ~I'd like to exchange three light crossbows +4 for a light crossbow +5. Here are the crossbows, the king's tear and the gold.~
+@2166 = ~I'd like to exchange three light crossbows +5 for a light crossbow +6. Here are the crossbows and the gold.~
+
+@2172 = ~I'd like to exchange three heavy crossbows +1 for a heavy crossbow +2. Here are the crossbows, the emerald and the gold.~
+@2173 = ~I'd like to exchange three heavy crossbows +2 for a heavy crossbow +3. Here are the crossbows, the diamond and the gold.~
+@2174 = ~I'd like to exchange three heavy crossbows +3 for a heavy crossbow +4. Here are the crossbows, the star sapphire and the gold.~
+@21741 = ~I'd like to exchange two heavy crossbows +3 and the Giant Hair Crossbow +3 for a heavy crossbow +4. Here are the crossbows, the star sapphire and the gold.~
+@2175 = ~I'd like to exchange three heavy crossbows +4 for a heavy crossbow +5. Here are the crossbows, the king's tear and the gold.~
+@2176 = ~I'd like to exchange three heavy crossbows +5 for a heavy crossbow +6. Here are the crossbows, the rogue stone and the gold.~
+
+@2182 = ~I'd like to exchange three shortbows +1 for a shortbow +2. Here are the bows, the emerald and the gold.~
+@2183 = ~I'd like to exchange three shortbows +2 for a shortbow +3. Here are the bows, the diamond and the gold.~
+@2184 = ~I'd like to exchange three shortbows +3 for a shortbow +4. Here are the bows, the star sapphire and the gold.~
+@2185 = ~I'd like to exchange three shortbows +4 for a shortbow +5. Here are the bows, the king's tear and the gold.~
+@2186 = ~I'd like to exchange three shortbows +5 for a shortbow +6. Here are the bows, the rogue stone and the gold.~
+
+@2192 = ~I'd like to exchange three longbows +1 for a longbow +2. Here are the bows, the emerald and the gold.~
+@2193 = ~I'd like to exchange three longbows +2 for a longbow +3. Here are the bows, the diamond and the gold.~
+@21931 = ~I'd like to exchange two longbows +2 and the Dead Shot +2 for a longbow +3. Here are the bows, the diamond and the gold.~
+@2194 = ~I'd like to exchange three longbows +3 for a longbow +4. Here are the bows, the star sapphire and the gold.~
+@21941 = ~I'd like to exchange two longbows +3 and the Elven Court Bow +3 for a longbow +4. Here are the bows, the star sapphire and the gold.~
+@2195 = ~I'd like to exchange three longbows +4 for a longbow +5. Here are the bows, the king's tear and the gold.~
+@2196 = ~I'd like to exchange three longbows +5 for a longbow +6. Here are the bows, the rogue stone and the gold.~
+
+@2202 = ~I'd like to exchange three composite longbows +1 for a composite longbow +2. Here are the bows, the emerald and the gold.~
+@2203 = ~I'd like to exchange three composite longbows +2 for a composite longbow +3. Here are the bows, the diamond and the gold.~
+@2204 = ~I'd like to exchange three composite longbows +3 for a composite longbow +4. Here are the bows, the star sapphire and the gold.~
+@2205 = ~I'd like to exchange three composite longbows +4 for a composite longbow +5. Here are the bows, the king's tear and the gold.~
+@2206 = ~I'd like to exchange three composite longbows +5 for a composite longbow +6. Here are the bows, the rogue stone and the gold.~
+
+@2212 = ~I'd like to exchange three slings +1 for a sling +2. Here are the slings, the emerald and the gold.~
+@2213 = ~I'd like to exchange three slings +2 for a sling +3. Here are the slings, the diamond and the gold.~
+@2214 = ~I'd like to exchange three slings +3 for a sling +4. Here are the slings, the star sapphire and the gold.~
+@22141 = ~I'd like to exchange two slings +3 and the Arla's Dragonbane +3 for a sling +4. Here are the slings, the star sapphire and the gold.~
+@2215 = ~I'd like to exchange three slings +4 for a sling +5. Here are the slings, the king's tear and the gold.~
+@2216 = ~I'd like to exchange three slings +5 for a sling +6. Here are the slings, the rogue stone and the gold.~
+
+@2222 = ~I'd like to exchange three leather armors +1 for a leather armor +2. Here are the armors, the emerald and the gold.~
+@2223 = ~I'd like to exchange three leather armors +2 for a leather armor +3. Here are the armors, the diamond and the gold.~
+@22231 = ~I'd like to exchange two leather armors +2 and the Protector of the Second +2 for a leather armor +3. Here are the armors, the diamond and the gold.~
+@2224 = ~I'd like to exchange three leather armors +3 for a leather armor +4. Here are the armors, the star sapphire and the gold.~
+@22241 = ~I'd like to exchange two leather armors +3 and the Karajah's Life and Death +3 for a leather armor +4. Here are the armors, the star sapphire and the gold.~
+@2225 = ~I'd like to exchange three leather armors +4 for a leather armor +5. Here are the armors, the king's tear and the gold.~
+@2226 = ~I'd like to exchange three leather armors +5 for a leather armor +6. Here are the armors, the rogue stone and the gold.~
+
+@2232 = ~I'd like to exchange three studded leather armors +1 for a studded leather armor +2. Here are the armors, the emerald and the gold.~
+@2233 = ~I'd like to exchange three studded leather armors +2 for a studded leather armor +3. Here are the armors, the diamond and the gold.~
+@2234 = ~I'd like to exchange three studded leather armors +3 for a studded leather armor +4. Here are the armors, the star sapphire and the gold.~
+@2235 = ~I'd like to exchange three studded leather armors +4 for a studded leather armor +5. Here are the armors, the king's tear and the gold.~
+@22351 = ~I'd like to exchange two studded leather armors +4 and the Armor of Deep Night +4 for a studded leather armor +5. Here are the armors, the king's tear and the gold.~
+@2236 = ~I'd like to exchange three studded leather armors +5 for a studded leather armor +6. Here are the armors, the rogue stone and the gold.~
+
+@2242 = ~I'd like to exchange three chain mails +1 for a chain mail +2. Here are the armors, the emerald and the gold.~
+@2243 = ~I'd like to exchange three chain mails +2 for a chain mail +3. Here are the armors, the diamond and the gold.~
+@22431 = ~I'd like to exchange two chain mails +2 and the Mail of the Dead +2 for a chain mail +3. Here are the armors, the diamond and the gold.~
+@2244 = ~I'd like to exchange three chain mails +3 for a chain mail +4. Here are the armors, the star sapphire and the gold.~
+@2245 = ~I'd like to exchange three chain mails +4 for a chain mail +5. Here are the armors, the king's tear and the gold.~
+@22451 = ~I'd like to exchange two chain mails +4 and the Mithral Chain Mail +4 for a chain mail +5. Here are the armors, the king's tear and the gold.~
+@22452 = ~I'd like to exchange two chain mails +4 and the Jester's Chain +4 for a chain mail +5. Here are the armors, the king's tear and the gold.~
+@22453 = ~I'd like to exchange a chain mail +4, the Mithral Chain Mail +4 and the Jester's Chain +4 for a chain mail +5. Here are the armors, the king's tear and the gold.~
+@2246 = ~I'd like to exchange three chain mails +5 for a chain mail +6. Here are the armors, the rogue stone and the gold.~
+@22461 = ~I'd like to exchange two chain mails +5 and the Crimson Chain +5 for a chain mail +6. Here are the armors, the rogue stone and the gold.~
+
+@2252 = ~I'd like to exchange three plate mails +1 for a plate mail +2. Here are the armors, the emerald and the gold.~
+@22521 = ~I'd like to exchange two plate mails +1 and the Fallorain's Plate +1 for a plate mail +2. Here are the armors, the emerald and the gold.~
+@2253 = ~I'd like to exchange three plate mails +2 for a plate mail +3. Here are the armors, the diamond and the gold.~
+@22531 = ~I'd like to exchange two plate mails +2 and an Ankheg Plate Mail for a plate mail +3. Here are the armors, the diamond and the gold.~
+@2254 = ~I'd like to exchange three plate mails +3 for a plate mail +4. Here are the armors, the star sapphire and the gold.~
+@22541 = ~I'd like to exchange two plate mails +3 and the Doomplate +3 for a plate mail +4. Here are the armors, the star sapphire and the gold.~
+@2255 = ~I'd like to exchange three plate mails +4 for a plate mail +5. Here are the armors, the king's tear and the gold.~
+@2256 = ~I'd like to exchange three plate mails +5 for a plate mail +6. Here are the armors, the rogue stone and the gold.~
+
+@2262 = ~I'd like to exchange three full plate mails +1 for a full plate mail +2. Here are the armors, the emerald and the gold.~
+@2263 = ~I'd like to exchange three full plate mails +2 for a full plate mail +3. Here are the armors, the diamond and the gold.~
+@22631 = ~I'd like to exchange two full plate mails +2 and the Pride of the Legion +2 for a full plate mail +3. Here are the armors, the diamond and the gold.~
+@2264 = ~I'd like to exchange three full plate mails +3 for a full plate mail +4. Here are the armors, the star sapphire and the gold.~
+@22641 = ~I'd like to exchange two full plate mails +3 and the Armor of the Hart +3 for a full plate mail +4. Here are the armors, the star sapphire and the gold.~
+@2265 = ~I'd like to exchange three full plate mails +4 for a full plate mail +5. Here are the armors, the king's tear and the gold.~
+@2266 = ~I'd like to exchange three full plate mails +5 for a full plate mail +6. Here are the armors, the rogue stone and the gold.~
+
+@2342 = ~I'd like to exchange three bucklers +1 for a buckler +2. Here are the shields, the emerald and the gold.~
+@2343 = ~I'd like to exchange three bucklers +2 for a buckler +3. Here are the shields, the diamond and the gold.~
+@2344 = ~I'd like to exchange three bucklers +3 for a buckler +4. Here are the shields, the star sapphire and the gold.~
+@2345 = ~I'd like to exchange three bucklers +4 for a buckler +5. Here are the shields, the king's tear and the gold.~
+@2346 = ~I'd like to exchange three bucklers +5 for a buckler +6. Here are the shields, the rogue stone and the gold.~
+
+@2272 = ~I'd like to exchange three small shields +1 for a small shield +2. Here are the shields, the emerald and the gold.~
+@2273 = ~I'd like to exchange three small shields +2 for a small shield +3. Here are the shields, the diamond and the gold.~
+@2274 = ~I'd like to exchange three small shields +3 for a small shield +4. Here are the shields, the star sapphire and the gold.~
+@2275 = ~I'd like to exchange three small shields +4 for a small shield +5. Here are the shields, the king's tear and the gold.~
+@2276 = ~I'd like to exchange three small shields +5 for a small shield +6. Here are the shields, the rogue stone and the gold.~
+
+@2282 = ~I'd like to exchange three medium shields +1 for a medium shield +2. Here are the shields, the emerald and the gold.~
+@2283 = ~I'd like to exchange three medium shields +2 for a medium shield +3. Here are the shields, the diamond and the gold.~
+@2284 = ~I'd like to exchange three medium shields +3 for a medium shield +4. Here are the shields, the star sapphire and the gold.~
+@22841 = ~I'd like to exchange two medium shields +3 and the Saving Grace +3 for a medium shield +4. Here are the shields, the star sapphire and the gold.~
+@2285 = ~I'd like to exchange three medium shields +4 for a medium shield +5. Here are the shields, the king's tear and the gold.~
+@22851 = ~I'd like to exchange two medium shields +4 and the Sentinel +4 for a medium shield +5. Here are the shields, the king's tear and the gold.~
+@2286 = ~I'd like to exchange three medium shields +5 for a medium shield +6. Here are the shields, the rogue stone and the gold.~
+
+@2292 = ~I'd like to exchange three large shields +1 for a large shield +2. Here are the shields, the emerald and the gold.~
+@2293 = ~I'd like to exchange three large shields +2 for a large shield +3. Here are the shields, the diamond and the gold.~
+@22931 = ~I'd like to exchange two medium shields +2 and the Pellan's Shield +2 for a medium shield +3. Here are the shields, the diamond and the gold.~
+@2294 = ~I'd like to exchange three large shields +3 for a large shield +4. Here are the shields, the star sapphire and the gold.~
+@2295 = ~I'd like to exchange three large shields +4 for a large shield +5. Here are the shields, the king's tear and the gold.~
+@2296 = ~I'd like to exchange three large shields +5 for a large shield +6. Here are the shields, the rogue stone and the gold.~
+
+@2302 = ~I'd like to exchange three rings of protection +1 for a ring of protection +2. Here are the rings, the emerald and the gold.~
+@23021 = ~I'd like to exchange two rings of protection +1 and the Koveras's Ring of Protection for a ring of protection +2. Here are the rings, the emerald and the gold.~
+@2303 = ~I'd like to exchange three rings of protection +2 for a ring of protection +3. Here are the rings, the diamond and the gold.~
+@2304 = ~I'd like to exchange three rings of protection +3 for a ring of protection +4. Here are the rings, the star sapphire and the gold.~
+@23041 = ~I'd like to exchange two rings of protection +3 and the Warder's Signet +3 for a ring of protection +4. Here are the rings, the star sapphire and the gold.~
+@2305 = ~I'd like to exchange three rings of protection +4 for a ring of protection +5. Here are the rings, the king's tear and the gold.~
+@2306 = ~I'd like to exchange three rings of protection +5 for a ring of protection +6. Here are the rings, the rogue stone and the gold.~
+
+@2312 = ~I'd like to exchange three amulets of protection +1 for an amulet of protection +2. Here are the amulets, the emerald and the gold.~
+@2313 = ~I'd like to exchange three amulets of protection +2 for an amulet of protection +3. Here are the amulets, the diamond and the gold.~
+@2314 = ~I'd like to exchange three amulets of protection +3 for an amulet of protection +4. Here are the amulets, the star sapphire and the gold.~
+@2315 = ~I'd like to exchange three amulets of protection +4 for an amulet of protection +5. Here are the amulets, the king's tear and the gold.~
+@2316 = ~I'd like to exchange three amulets of protection +5 for an amulet of protection +6. Here are the amulets, the rogue stone and the gold.~
+
+@2322 = ~I'd like to exchange three cloaks of protection +1 for a cloak of protection +2. Here are the cloaks, the emerald and the gold.~
+@2323 = ~I'd like to exchange three cloaks of protection +2 for a cloak of protection +3. Here are the cloaks, the diamond and the gold.~
+@2324 = ~I'd like to exchange three cloaks of protection +3 for a cloak of protection +4. Here are the cloaks, the star sapphire and the gold.~
+@2325 = ~I'd like to exchange three cloaks of protection +4 for a cloak of protection +5. Here are the cloaks, the king's tear and the gold.~
+@2326 = ~I'd like to exchange three cloaks of protection +5 for a cloak of protection +6. Here are the cloaks, the rogue stone and the gold.~
+
+//TOB
+@2334 = ~I'd like to exchange three clubs +3 for a club +4. Here are the clubs, the star sapphire and the gold.~
+@2335 = ~I'd like to exchange three clubs +4 for a club +5. Here are the clubs, the king's tear and the gold.~
+@2336 = ~I'd like to exchange three clubs +5 for a club +6. Here are the clubs, the rogue stone and the gold.~
+
+//Rogue Rebalancing
+@2352 = ~I'd like to exchange three composite short bow +1 for a composite short bow +2. Here are the bows, the emerald and the gold.~
+@2353 = ~I'd like to exchange three composite short bow +2 for a composite short bow +3. Here are the bows, the diamond and the gold.~
+@2354 = ~I'd like to exchange three composite short bow +3 for a composite short bow +4. Here are the bows, the star sapphire and the gold.~
+@2355 = ~I'd like to exchange three composite short bow +4 for a composite short bow +5. Here are the bows, the king's tear and the gold.~
+@2356 = ~I'd like to exchange three composite short bow +5 for a composite short bow +6. Here are the bows, the rogue stone and the gold.

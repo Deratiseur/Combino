@@ -1,0 +1,9 @@
+IF
+	Global("geniesgone","GLOBAL",1)
+	Global("Px_combino","GLOBAL",0)
+	AreaCheck("AR2000")
+THEN
+	RESPONSE #100
+		SetGlobal("Px_combino","GLOBAL",1)
+		CreateCreature("pxkcombi",[2232.2796],13)
+END
