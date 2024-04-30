@@ -16,7 +16,6 @@
 
 [Link to original Mod Forum](https://www.baldursgateworld.fr/viewtopic.php?p=513657#p513657)
 
-
 ## Description:
 -------------
 Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets "+x", des armes aux armures en passant par les bijoux.
