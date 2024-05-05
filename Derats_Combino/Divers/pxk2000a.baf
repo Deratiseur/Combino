@@ -1,0 +1,8 @@
+IF
+	Global("Px_combinob","GLOBAL",0)
+	AreaCheck("AR2000")
+THEN
+	RESPONSE #100
+		SetGlobal("Px_combinob","GLOBAL",1)
+		CreateCreature("trmer03",[426.2222],S)
+END
