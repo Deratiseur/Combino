@@ -1,6 +1,6 @@
-Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets "+x", des armes aux armures en passant par les bijoux.
-Il peut combiner les objets jusqu'à +6 et le prix demandé est toujours "+ désiré au carré fois mille" : exemple pour obtenir un écu +4, il demande trois écus +3 et 16000 pièces d'or (4²x1000).
-Il apparaît à Francmarché que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville.
+Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets "+x", des armes aux armures en passant par les bijoux. Depuis la v3 il peut aussi combiner les bracelets de Défense.
+Il peut combiner les objets jusqu'à +6 (CA 0 pour les bracelets de défense) et le prix demandé est toujours "+ désiré au carré fois mille" : exemple pour obtenir un écu +4, il demande trois écus +3 et 16000 pièces d'or (4²x1000). (2K pos pour les bracelets de défense CA 7/6/5, puis 4K, 9K, etc....)
+Il apparaît à Francmarché dès que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville.
 
 
 Il y a des objets que kurosaï n'inclut pas dans ses possibilités car il y a si peu d’occurrences de ces objets en jeu que jamais vous ne pourrez en cumuler assez : wakizashi, ninjatõ, armure de peau, armure feuilletée.
@@ -46,12 +46,40 @@ Anneau de protection de Koveras (+1)(Anneau)
 Chevalière de gardien +3			(Anneau)
 
 
-Il y a deux composants optionnels à installer :
+Il y a quatre composants optionnels à installer :
 - Kuroisai apparaît aussi a Amkethran :
 Kurosaï réussi à fuir Saradush et réapparaît à Amkethran. Dans ce cas il devient VRAIMENT facile d’acquérir certains objets +6.
+- Kuroisai apparaît aussi au Festival de Nashkel :
+Uniquement dans le cas d'une installation EET.
+Si vous installez ce composant, fusionner des objets en plus de vous aider dans BG1 peut vous aider à atteindre le +6 dans TOB si vous arrivez à importer vos créations. Un bon module pour ça est EET Tweaks, qui a une option pour importer tous les objets du groupe de SOD(BG1) vers SOA.
+Une autre astuce est d'installer le mod "Talanthyr Item upgrade" qui propose une formule pour convertir deux anneaux de protection +1 en un +2. Ca devient du coup plus facile de cibler l'anneau +6.
 - Les recettes coûtent moins chères mais nécessitent des gemmes rares :
-les recettes ne coûtent plus que le double du + désiré x 1000 (6000 pos pour un +3) mais demandent une gemme :
-une émeraude pour du +2, un diamant pour du +3, un saphir étoilé pour du +4, une larme de roi pour du +5 et une esseulite pour du +6.
+les recettes ne coûtent plus que le double du + désiré x 1000 (6000 pos pour un +3)(1000 pos pour les bracelets de Défense CA 7/6, 2000 pos pour les bracelets de Défense CA 5, puis 4K, 6K, etc) mais demandent une gemme :
+une émeraude pour du +2, un diamant pour du +3, un saphir étoilé pour du +4, une larme de roi pour du +5 et une esseulite pour du +6. (Une opale noir pour les bracelets de Défense CA 7/6/5)
+Si vous installez ce composant, l'installation conjointe des mods Mersetek ou Pym (bon courage pour trouver ce dernier) peut énormément vous aider.
+- Un exemplaire +1 de chaque objet dans SOA :
+Chaque objets combinable à un exemplaire +1 présent en plus dans le jeu. Ils sont tous placés dans le stock de divers magasins. Exception : pas de gourdin +1, puisque les formules ne commencent qu'au gourdin +3 à partir de TOB. Installer ce composant restaure aussi un pnj original de BG2 entièrement codé mais non utilisé.
 
 
-Ce module prend en compte les objets de Rogue Rebalancing, et note personnelle : les arcs courts composites sont vraiment cheatés, et le Rogue Rebalancing en propose assez pour fabriquer au moins un arc court composite +5.
+Ce module inclut les arcs courts composites de Rogue Rebalancing, et une note personnelle : ces arcs sont un vrai cheat, et Rogue Rebalancing en offre assez pour acheter de quoi faire au moins un arc court composite +5.
+
+
+Ce module inclut également ces objets Wares of the Planes :
+Dague d'os +1					 (Dague)
+Dague en acier vert +1			 (Dague)
+Hache de combat enchantée +1	 (Hache d'arme)
+Anneau du voyageur (+1)			 (Anneau)
+Gardemage (CA 6)			 	 (Bracelets)					
+Pavoimage (CA 4)			 	 (Bracelets)
+
+
+Historique des versions :
+v1 : Première mise en ligne
+v2 : Ajout de l'options "les recettes nécessitent des gemmes" proposée par Mornagest
+	 Ajout de l’option "Kuroisai apparaît aussi à Amkethran" après plusieurs propositions concernant TOB sur le forum.
+v3 : Les objets ne sont plus patchés, à la place ils sont copiés (pour éviter des bugs si cumulés à d'autres mods qui modifient les objets avant)
+	 Correction de la formule erronée des dagues +1 avec la Dague de <CHARNAME>.
+	 Ajout de la gestion des Bracelets de Defense.
+	 Ajout de la prise en compte des objets du mod "Wares of the planes" (21 nouvelles formules).
+	 Ajout de l'option "Un exemplaire +1 de chaque objet dans SOA".
+	 Ajout de l'option "Kuroisaï apparaît aussi au Festival de Nashkel" proposée par Le Marquis.

@@ -1,14 +1,16 @@
 BACKUP ~Derats_Combino/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v2~
+VERSION ~v3~
+
+ASK_EVERY_COMPONENT
 
 LANGUAGE ~Francais~	~French~
 	~Derats_Combino/Languages/French/pxkcombi.tra~
 LANGUAGE ~English~ ~English~
 	~Derats_Combino/Languages/English/pxkcombi.tra~
-	
+		
 BEGIN @0
-REQUIRE_PREDICATE GAME_IS ~BG2EE EET~ @0009
+REQUIRE_PREDICATE GAME_IS ~BG2EE EET~ @24
 
 EXTEND_TOP ~AR2000.BCS~	~Derats_Combino/Divers/pxk2000.baf~
 EXTEND_TOP ~AR5011.BCS~	~Derats_Combino/Divers/pxk5011.baf~
@@ -16,270 +18,158 @@ COMPILE ~Derats_Combino/Divers/pxkcombi.d~
 COPY	~Derats_Combino/Divers/pxkcombi.cre~	~override~	SAY NAME1 @1	SAY NAME2 @1
 COPY	~Derats_Combino/Objets/Bams~			~override~
 //Dagues
-COPY_EXISTING	~dagg24.itm~		~override/pxkdagg4.itm~	SAY NAME2 @1148	SAY DESC @1149
-WRITE_ASCII 0x3a ~pxkdagg4~ #8	WRITE_ASCII 0x76 ~pxkdagg4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~dagg24.itm~		~override/pxkdagg5.itm~	SAY NAME2 @1158	SAY DESC @1159
-WRITE_ASCII 0x3a ~pxkdagg5~ #8	WRITE_ASCII 0x76 ~pxkdagg5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~dagg24.itm~		~override/pxkdagg6.itm~	SAY NAME2 @1168	SAY DESC @1169
-WRITE_ASCII 0x3a ~pxkdagg6~ #8	WRITE_ASCII 0x76 ~pxkdagg6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxkdagg4.itm~	~override~	SAY NAME2 @1148	SAY DESC @1149
+COPY	~Derats_Combino/Objets/pxkdagg5.itm~	~override~	SAY NAME2 @1158	SAY DESC @1159
+COPY	~Derats_Combino/Objets/pxkdagg6.itm~	~override~	SAY NAME2 @1168	SAY DESC @1169
 //Épées courtes
-COPY_EXISTING	~sw1h74.itm~		~override/pxkcour4.itm~	SAY NAME2 @1248	SAY DESC @1249
-WRITE_ASCII 0x3a ~pxkcour4~ #8	WRITE_ASCII 0x76 ~pxkcour4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~sw1h74.itm~		~override/pxkcour5.itm~	SAY NAME2 @1258	SAY DESC @1259
-WRITE_ASCII 0x3a ~pxkcour5~ #8	WRITE_ASCII 0x76 ~pxkcour5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
-COPY_EXISTING	~pxkcour5.itm~		~override/pxkcour6.itm~	SAY NAME2 @1268	SAY DESC @1269
-WRITE_ASCII 0x3a ~pxkcour6~ #8	WRITE_ASCII 0x76 ~pxkcour6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxkcour4.itm~	~override~	SAY NAME2 @1248	SAY DESC @1249
+COPY	~Derats_Combino/Objets/pxkcour5.itm~	~override~	SAY NAME2 @1258	SAY DESC @1259
+COPY	~Derats_Combino/Objets/pxkcour6.itm~	~override~	SAY NAME2 @1268	SAY DESC @1269
 //Épées longues
-COPY_EXISTING	~sw1h73.itm~		~override/pxklong4.itm~	SAY NAME2 @1348	SAY DESC @1349
-WRITE_ASCII 0x3a ~pxklong4~ #8	WRITE_ASCII 0x76 ~pxklong4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~sw1h73.itm~		~override/pxklong5.itm~	SAY NAME2 @1358	SAY DESC @1359
-WRITE_ASCII 0x3a ~pxklong5~ #8	WRITE_ASCII 0x76 ~pxklong5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
-COPY_EXISTING	~pxklong5.itm~		~override/pxklong6.itm~	SAY NAME2 @1368	SAY DESC @1369
-WRITE_ASCII 0x3a ~pxklong6~ #8	WRITE_ASCII 0x76 ~pxklong6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxklong4.itm~	~override~	SAY NAME2 @1348	SAY DESC @1349
+COPY	~Derats_Combino/Objets/pxklong5.itm~	~override~	SAY NAME2 @1358	SAY DESC @1359
+COPY	~Derats_Combino/Objets/pxklong6.itm~	~override~	SAY NAME2 @1368	SAY DESC @1369
 //Cimeterres
-COPY_EXISTING	~sw1h76.itm~		~override/pxkcime4.itm~	SAY NAME2 @1448	SAY DESC @1449
-WRITE_ASCII 0x3a ~pxkcime4~ #8	WRITE_ASCII 0x76 ~pxkcime4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
-COPY_EXISTING	~pxkcime4.itm~		~override/pxkcime5.itm~	SAY NAME2 @1458	SAY DESC @1459
-WRITE_ASCII 0x3a ~pxkcime5~ #8	WRITE_ASCII 0x76 ~pxkcime5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~pxkcime4.itm~		~override/pxkcime6.itm~	SAY NAME2 @1468	SAY DESC @1469
-WRITE_ASCII 0x3a ~pxkcime6~ #8	WRITE_ASCII 0x76 ~pxkcime6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxkcime4.itm~	~override~	SAY NAME2 @1448	SAY DESC @1449
+COPY	~Derats_Combino/Objets/pxkcime5.itm~	~override~	SAY NAME2 @1458	SAY DESC @1459
+COPY	~Derats_Combino/Objets/pxkcime6.itm~	~override~	SAY NAME2 @1468	SAY DESC @1469
 //Katanas
-COPY_EXISTING	~sw1h75.itm~		~override/pxkkata4.itm~	SAY NAME2 @1548	SAY DESC @1549
-WRITE_ASCII 0x3a ~pxkkata4~ #8	WRITE_ASCII 0x76 ~pxkkata4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 2
-COPY_EXISTING	~sw1h75.itm~		~override/pxkkata5.itm~	SAY NAME2 @1558	SAY DESC @1559
-WRITE_ASCII 0x3a ~pxkkata5~ #8	WRITE_ASCII 0x76 ~pxkkata5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~sw1h75.itm~		~override/pxkkata6.itm~	SAY NAME2 @1568	SAY DESC @1569
-WRITE_ASCII 0x3a ~pxkkata6~ #8	WRITE_ASCII 0x76 ~pxkkata6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
+COPY	~Derats_Combino/Objets/pxkkata4.itm~	~override~	SAY NAME2 @1548	SAY DESC @1549
+COPY	~Derats_Combino/Objets/pxkkata5.itm~	~override~	SAY NAME2 @1558	SAY DESC @1559
+COPY	~Derats_Combino/Objets/pxkkata6.itm~	~override~	SAY NAME2 @1568	SAY DESC @1569
 //Épées bâtardes
-COPY_EXISTING	~sw1h72.itm~		~override/pxkbata4.itm~	SAY NAME2 @1648	SAY DESC @1649
-WRITE_ASCII 0x3a ~pxkbata4~ #8	WRITE_ASCII 0x76 ~pxkbata4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 6
-COPY_EXISTING	~sw1h72.itm~		~override/pxkbata5.itm~	SAY NAME2 @1658	SAY DESC @1659
-WRITE_ASCII 0x3a ~pxkbata5~ #8	WRITE_ASCII 0x76 ~pxkbata5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 5
-COPY_EXISTING	~sw1h72.itm~		~override/pxkbata6.itm~	SAY NAME2 @1668	SAY DESC @1669
-WRITE_ASCII 0x3a ~pxkbata6~ #8	WRITE_ASCII 0x76 ~pxkbata6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 4
+COPY	~Derats_Combino/Objets/pxkbata4.itm~	~override~	SAY NAME2 @1648	SAY DESC @1649
+COPY	~Derats_Combino/Objets/pxkbata5.itm~	~override~	SAY NAME2 @1658	SAY DESC @1659
+COPY	~Derats_Combino/Objets/pxkbata6.itm~	~override~	SAY NAME2 @1668	SAY DESC @1669
 //Épées à deux mains
-COPY_EXISTING	~sw2h09.itm~		~override/pxk2mai4.itm~	SAY NAME2 @1748	SAY DESC @1749
-WRITE_ASCII 0x3a ~pxk2mai4~ #8	WRITE_ASCII 0x76 ~pxk2mai4~ #8  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 9
-COPY_EXISTING	~sw2h09.itm~		~override/pxk2mai5.itm~	SAY NAME2 @1758	SAY DESC @1759
-WRITE_ASCII 0x3a ~pxk2mai5~ #8	WRITE_ASCII 0x76 ~pxk2mai5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 8
-COPY_EXISTING	~sw2h09.itm~		~override/pxk2mai6.itm~	SAY NAME2 @1768	SAY DESC @1769
-WRITE_ASCII 0x3a ~pxk2mai6~ #8	WRITE_ASCII 0x76 ~pxk2mai6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 7
+COPY	~Derats_Combino/Objets/pxk2mai4.itm~	~override~	SAY NAME2 @1748	SAY DESC @1749
+COPY	~Derats_Combino/Objets/pxk2mai5.itm~	~override~	SAY NAME2 @1758	SAY DESC @1759
+COPY	~Derats_Combino/Objets/pxk2mai6.itm~	~override~	SAY NAME2 @1768	SAY DESC @1769
 //Haches d'armes
-COPY_EXISTING	~ax1h17.itm~		~override/pxkhach4.itm~	SAY NAME2 @1848	SAY DESC @1849
-WRITE_ASCII 0x3a ~pxkhach4~ #8	WRITE_ASCII 0x76 ~pxkhach4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
-COPY_EXISTING	~ax1h17.itm~		~override/pxkhach5.itm~	SAY NAME2 @1858	SAY DESC @1859
-WRITE_ASCII 0x3a ~pxkhach5~ #8	WRITE_ASCII 0x76 ~pxkhach5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 2
-COPY_EXISTING	~ax1h17.itm~		~override/pxkhach6.itm~	SAY NAME2 @1868	SAY DESC @1869
-WRITE_ASCII 0x3a ~pxkhach6~ #8	WRITE_ASCII 0x76 ~pxkhach6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
+COPY	~Derats_Combino/Objets/pxkhach4.itm~	~override~	SAY NAME2 @1848	SAY DESC @1849
+COPY	~Derats_Combino/Objets/pxkhach5.itm~	~override~	SAY NAME2 @1858	SAY DESC @1859
+COPY	~Derats_Combino/Objets/pxkhach6.itm~	~override~	SAY NAME2 @1868	SAY DESC @1869
 //Marteaux de guerre
-COPY_EXISTING	~hamm12.itm~		~override/pxkhamm4.itm~	SAY NAME2 @1948	SAY DESC @1949
-WRITE_ASCII 0x3a ~pxkhamm4~ #8	WRITE_ASCII 0x76 ~pxkhamm4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
-COPY_EXISTING	~hamm12.itm~		~override/pxkhamm5.itm~	SAY NAME2 @1958	SAY DESC @1959
-WRITE_ASCII 0x3a ~pxkhamm5~ #8	WRITE_ASCII 0x76 ~pxkhamm5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 2
-COPY_EXISTING	~hamm12.itm~		~override/pxkhamm6.itm~	SAY NAME2 @1968	SAY DESC @1969
-WRITE_ASCII 0x3a ~pxkhamm6~ #8	WRITE_ASCII 0x76 ~pxkhamm6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
+COPY	~Derats_Combino/Objets/pxkhamm4.itm~	~override~	SAY NAME2 @1948	SAY DESC @1949
+COPY	~Derats_Combino/Objets/pxkhamm5.itm~	~override~	SAY NAME2 @1958	SAY DESC @1959
+COPY	~Derats_Combino/Objets/pxkhamm6.itm~	~override~	SAY NAME2 @1968	SAY DESC @1969
 //Gourdins
-COPY_EXISTING	~blun31.itm~		~override/pxkgour4.itm~	SAY NAME2 @13348	SAY DESC @13349
-WRITE_ASCII 0x3a ~pxkgour4~ #8	WRITE_ASCII 0x76 ~pxkgour4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 7
-COPY_EXISTING	~blun31.itm~		~override/pxkgour5.itm~	SAY NAME2 @13358	SAY DESC @13359
-WRITE_ASCII 0x3a ~pxkgour5~ #8	WRITE_ASCII 0x76 ~pxkgour5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 6
-COPY_EXISTING	~blun31.itm~		~override/pxkgour6.itm~	SAY NAME2 @13368	SAY DESC @13369
-WRITE_ASCII 0x3a ~pxkgour6~ #8	WRITE_ASCII 0x76 ~pxkgour6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 5
+COPY	~Derats_Combino/Objets/pxkgour4.itm~	~override~	SAY NAME2 @13348	SAY DESC @13349
+COPY	~Derats_Combino/Objets/pxkgour5.itm~	~override~	SAY NAME2 @13358	SAY DESC @13359
+COPY	~Derats_Combino/Objets/pxkgour6.itm~	~override~	SAY NAME2 @13368	SAY DESC @13369
 //Masses d'armes
-COPY_EXISTING	~blun33.itm~		~override/pxkmass4.itm~	SAY NAME2 @11048	SAY DESC @11049
-WRITE_ASCII 0x3a ~pxkmass4~ #8	WRITE_ASCII 0x76 ~pxkmass4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 5
-COPY_EXISTING	~blun33.itm~		~override/pxkmass5.itm~	SAY NAME2 @11058	SAY DESC @11059
-WRITE_ASCII 0x3a ~pxkmass5~ #8	WRITE_ASCII 0x76 ~pxkmass5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 4
-COPY_EXISTING	~blun33.itm~		~override/pxkmass6.itm~	SAY NAME2 @11068	SAY DESC @11069
-WRITE_ASCII 0x3a ~pxkmass6~ #8	WRITE_ASCII 0x76 ~pxkmass6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
+COPY	~Derats_Combino/Objets/pxkmass4.itm~	~override~	SAY NAME2 @11048	SAY DESC @11049
+COPY	~Derats_Combino/Objets/pxkmass5.itm~	~override~	SAY NAME2 @11058	SAY DESC @11059
+COPY	~Derats_Combino/Objets/pxkmass6.itm~	~override~	SAY NAME2 @11068	SAY DESC @11069
 //Morgensterns
-COPY_EXISTING	~blun34.itm~		~override/pxkmorg4.itm~	SAY NAME2 @11148	SAY DESC @11149
-WRITE_ASCII 0x3a ~pxkmorg4~ #8	WRITE_ASCII 0x76 ~pxkmorg4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 7
-COPY_EXISTING	~blun34.itm~		~override/pxkmorg5.itm~	SAY NAME2 @11158	SAY DESC @11159
-WRITE_ASCII 0x3a ~pxkmorg5~ #8	WRITE_ASCII 0x76 ~pxkmorg5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 6
-COPY_EXISTING	~blun34.itm~		~override/pxkmorg6.itm~	SAY NAME2 @11168	SAY DESC @11169
-WRITE_ASCII 0x3a ~pxkmorg6~ #8	WRITE_ASCII 0x76 ~pxkmorg6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 5
+COPY	~Derats_Combino/Objets/pxkmorg4.itm~	~override~	SAY NAME2 @11148	SAY DESC @11149
+COPY	~Derats_Combino/Objets/pxkmorg5.itm~	~override~	SAY NAME2 @11158	SAY DESC @11159
+COPY	~Derats_Combino/Objets/pxkmorg6.itm~	~override~	SAY NAME2 @11168	SAY DESC @11169
 //Fléaux d'armes
-COPY_EXISTING	~blun32.itm~		~override/pxkflea4.itm~	SAY NAME2 @11248	SAY DESC @11249
-WRITE_ASCII 0x3a ~pxkflea4~ #8	WRITE_ASCII 0x76 ~pxkflea4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 10
-COPY_EXISTING	~blun32.itm~		~override/pxkflea5.itm~	SAY NAME2 @11258	SAY DESC @11259
-WRITE_ASCII 0x3a ~pxkflea5~ #8	WRITE_ASCII 0x76 ~pxkflea5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 9
-COPY_EXISTING	~blun32.itm~		~override/pxkflea6.itm~	SAY NAME2 @11268	SAY DESC @11269
-WRITE_ASCII 0x3a ~pxkflea6~ #8	WRITE_ASCII 0x76 ~pxkflea6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 8
+COPY	~Derats_Combino/Objets/pxkflea4.itm~	~override~	SAY NAME2 @11248	SAY DESC @11249
+COPY	~Derats_Combino/Objets/pxkflea5.itm~	~override~	SAY NAME2 @11258	SAY DESC @11259
+COPY	~Derats_Combino/Objets/pxkflea6.itm~	~override~	SAY NAME2 @11268	SAY DESC @11269
 //Lances
-COPY_EXISTING	~sper06.itm~		~override/pxklanc4.itm~	SAY NAME2 @11348	SAY DESC @11349
-WRITE_ASCII 0x3a ~pxklanc4~ #8	WRITE_ASCII 0x76 ~pxklanc4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 2
-COPY_EXISTING	~sper06.itm~		~override/pxklanc5.itm~	SAY NAME2 @11358	SAY DESC @11359
-WRITE_ASCII 0x3a ~pxklanc5~ #8	WRITE_ASCII 0x76 ~pxklanc5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~sper06.itm~		~override/pxklanc6.itm~	SAY NAME2 @11368	SAY DESC @11369
-WRITE_ASCII 0x3a ~pxklanc6~ #8	WRITE_ASCII 0x76 ~pxklanc6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
+COPY	~Derats_Combino/Objets/pxklanc4.itm~	~override~	SAY NAME2 @11348	SAY DESC @11349
+COPY	~Derats_Combino/Objets/pxklanc5.itm~	~override~	SAY NAME2 @11358	SAY DESC @11359
+COPY	~Derats_Combino/Objets/pxklanc6.itm~	~override~	SAY NAME2 @11368	SAY DESC @11369
 //Hallebarde
-COPY_EXISTING	~halb12.itm~		~override/pxkhalb4.itm~	SAY NAME2 @11448	SAY DESC @11449
-WRITE_ASCII 0x3a ~pxkhalb4~ #8	WRITE_ASCII 0x76 ~pxkhalb4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 10
-COPY_EXISTING	~halb12.itm~		~override/pxkhalb5.itm~	SAY NAME2 @11458	SAY DESC @11459
-WRITE_ASCII 0x3a ~pxkhalb5~ #8	WRITE_ASCII 0x76 ~pxkhalb5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 9
-COPY_EXISTING	~halb12.itm~		~override/pxkhalb6.itm~	SAY NAME2 @11468	SAY DESC @11469
-WRITE_ASCII 0x3a ~pxkhalb6~ #8	WRITE_ASCII 0x76 ~pxkhalb6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 8
+COPY	~Derats_Combino/Objets/pxkhalb4.itm~	~override~	SAY NAME2 @11448	SAY DESC @11449
+COPY	~Derats_Combino/Objets/pxkhalb5.itm~	~override~	SAY NAME2 @11458	SAY DESC @11459
+COPY	~Derats_Combino/Objets/pxkhalb6.itm~	~override~	SAY NAME2 @11468	SAY DESC @11469
 //Bâton
-COPY_EXISTING	~staf24.itm~		~override/pxkstaf4.itm~	SAY NAME2 @11548	SAY DESC @11549
-WRITE_ASCII 0x3a ~pxkstaf4~ #8	WRITE_ASCII 0x76 ~pxkstaf4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~staf24.itm~		~override/pxkstaf5.itm~	SAY NAME2 @11558	SAY DESC @11559
-WRITE_ASCII 0x3a ~pxkstaf5~ #8	WRITE_ASCII 0x76 ~pxkstaf5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
-COPY_EXISTING	~pxkstaf5.itm~		~override/pxkstaf6.itm~	SAY NAME2 @11568	SAY DESC @11569
-WRITE_ASCII 0x3a ~pxkstaf6~ #8	WRITE_ASCII 0x76 ~pxkstaf6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxkstaf4.itm~	~override~	SAY NAME2 @11548	SAY DESC @11549
+COPY	~Derats_Combino/Objets/pxkstaf5.itm~	~override~	SAY NAME2 @11558	SAY DESC @11559
+COPY	~Derats_Combino/Objets/pxkstaf6.itm~	~override~	SAY NAME2 @11568	SAY DESC @11569
 //Arbalètes légères
-COPY_EXISTING	~xbow18.itm~		~override/pxkarbe4.itm~	SAY NAME2 @11648	SAY DESC @11649
-WRITE_ASCII 0x3a ~pxkarbe4~ #8	WRITE_ASCII 0x76 ~pxkarbe4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
-COPY_EXISTING	~xbow18.itm~		~override/pxkarbe5.itm~	SAY NAME2 @11658	SAY DESC @11659
-WRITE_ASCII 0x3a ~pxkarbe5~ #8	WRITE_ASCII 0x76 ~pxkarbe5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 2
-COPY_EXISTING	~xbow18.itm~		~override/pxkarbe6.itm~	SAY NAME2 @11668	SAY DESC @11669
-WRITE_ASCII 0x3a ~pxkarbe6~ #8	WRITE_ASCII 0x76 ~pxkarbe6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
+COPY	~Derats_Combino/Objets/pxkarbe4.itm~	~override~	SAY NAME2 @11648	SAY DESC @11649
+COPY	~Derats_Combino/Objets/pxkarbe5.itm~	~override~	SAY NAME2 @11658	SAY DESC @11659
+COPY	~Derats_Combino/Objets/pxkarbe6.itm~	~override~	SAY NAME2 @11668	SAY DESC @11669
 //Arbalètes lourdes
-COPY_EXISTING	~xbow17.itm~		~override/pxkarbo4.itm~	SAY NAME2 @11748	SAY DESC @11749
-WRITE_ASCII 0x3a ~pxkarbo4~ #8	WRITE_ASCII 0x76 ~pxkarbo4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 9
-COPY_EXISTING	~xbow17.itm~		~override/pxkarbo5.itm~	SAY NAME2 @11758	SAY DESC @11759
-WRITE_ASCII 0x3a ~pxkarbo5~ #8	WRITE_ASCII 0x76 ~pxkarbo5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 8
-COPY_EXISTING	~xbow17.itm~		~override/pxkarbo6.itm~	SAY NAME2 @11768	SAY DESC @11769
-WRITE_ASCII 0x3a ~pxkarbo6~ #8	WRITE_ASCII 0x76 ~pxkarbo6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 7
+COPY	~Derats_Combino/Objets/pxkarbo4.itm~	~override~	SAY NAME2 @11748	SAY DESC @11749
+COPY	~Derats_Combino/Objets/pxkarbo5.itm~	~override~	SAY NAME2 @11758	SAY DESC @11759
+COPY	~Derats_Combino/Objets/pxkarbo6.itm~	~override~	SAY NAME2 @11768	SAY DESC @11769
 //Arcs courts
-COPY_EXISTING	~bow26.itm~		~override/pxkarcc4.itm~	SAY NAME2 @11848	SAY DESC @11849
-WRITE_ASCII 0x3a ~pxkarcc4~ #8	WRITE_ASCII 0x76 ~pxkarcc4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
-COPY_EXISTING	~pxkarcc4.itm~		~override/pxkarcc5.itm~	SAY NAME2 @11858	SAY DESC @11859
-WRITE_ASCII 0x3a ~pxkarcc5~ #8	WRITE_ASCII 0x76 ~pxkarcc5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~pxkarcc4.itm~		~override/pxkarcc6.itm~	SAY NAME2 @11868	SAY DESC @11869
-WRITE_ASCII 0x3a ~pxkarcc6~ #8	WRITE_ASCII 0x76 ~pxkarcc6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxkarcc4.itm~	~override~	SAY NAME2 @11848	SAY DESC @11849
+COPY	~Derats_Combino/Objets/pxkarcc5.itm~	~override~	SAY NAME2 @11858	SAY DESC @11859
+COPY	~Derats_Combino/Objets/pxkarcc6.itm~	~override~	SAY NAME2 @11868	SAY DESC @11869
 //Arcs longs
-COPY_EXISTING	~bow25.itm~		~override/pxkarcl4.itm~	SAY NAME2 @11948	SAY DESC @11949
-WRITE_ASCII 0x3a ~pxkarcl4~ #8	WRITE_ASCII 0x76 ~pxkarcl4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
-COPY_EXISTING	~bow25.itm~		~override/pxkarcl5.itm~	SAY NAME2 @11958	SAY DESC @11959
-WRITE_ASCII 0x3a ~pxkarcl5~ #8	WRITE_ASCII 0x76 ~pxkarcl5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
-COPY_EXISTING	~bow25.itm~		~override/pxkarcl6.itm~	SAY NAME2 @11968	SAY DESC @11969
-WRITE_ASCII 0x3a ~pxkarcl6~ #8	WRITE_ASCII 0x76 ~pxkarcl6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
+COPY	~Derats_Combino/Objets/pxkarcl4.itm~	~override~	SAY NAME2 @11948	SAY DESC @11949
+COPY	~Derats_Combino/Objets/pxkarcl5.itm~	~override~	SAY NAME2 @11958	SAY DESC @11959
+COPY	~Derats_Combino/Objets/pxkarcl6.itm~	~override~	SAY NAME2 @11968	SAY DESC @11969
 //Arcs longs composés
-COPY_EXISTING	~bow24.itm~		~override/pxkarcp4.itm~	SAY NAME2 @12048	SAY DESC @12049
-WRITE_ASCII 0x3a ~pxkarcp4~ #8	WRITE_ASCII 0x76 ~pxkarcp4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 6
-COPY_EXISTING	~bow24.itm~		~override/pxkarcp5.itm~	SAY NAME2 @12058	SAY DESC @12059
-WRITE_ASCII 0x3a ~pxkarcp5~ #8	WRITE_ASCII 0x76 ~pxkarcp5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 5
-COPY_EXISTING	~bow24.itm~		~override/pxkarcp6.itm~	SAY NAME2 @12068	SAY DESC @12069
-WRITE_ASCII 0x3a ~pxkarcp6~ #8	WRITE_ASCII 0x76 ~pxkarcp6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 4
+COPY	~Derats_Combino/Objets/pxkarcp4.itm~	~override~	SAY NAME2 @12048	SAY DESC @12049
+COPY	~Derats_Combino/Objets/pxkarcp5.itm~	~override~	SAY NAME2 @12058	SAY DESC @12059
+COPY	~Derats_Combino/Objets/pxkarcp6.itm~	~override~	SAY NAME2 @12068	SAY DESC @12069
 //Fronde
-COPY_EXISTING	~slng10.itm~		~override/pxkfron4.itm~	SAY NAME2 @12148	SAY DESC @12149
-WRITE_ASCII 0x3a ~pxkfron4~ #8	WRITE_ASCII 0x76 ~pxkfron4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 4  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~slng10.itm~		~override/pxkfron5.itm~	SAY NAME2 @12158	SAY DESC @12159
-WRITE_ASCII 0x3a ~pxkfron5~ #8	WRITE_ASCII 0x76 ~pxkfron5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~slng10.itm~		~override/pxkfron6.itm~	SAY NAME2 @12168	SAY DESC @12169
-WRITE_ASCII 0x3a ~pxkfron6~ #8	WRITE_ASCII 0x76 ~pxkfron6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxkfron4.itm~	~override~	SAY NAME2 @12148	SAY DESC @12149
+COPY	~Derats_Combino/Objets/pxkfron5.itm~	~override~	SAY NAME2 @12158	SAY DESC @12159
+COPY	~Derats_Combino/Objets/pxkfron6.itm~	~override~	SAY NAME2 @12168	SAY DESC @12169
 //Armures de cuir
-COPY_EXISTING	~leat12.itm~		~override/pxkcuir4.itm~	SAY NAME2 @12248	SAY DESC @12249
-WRITE_ASCII 0x3a ~pxkcuir4~ #8	WRITE_ASCII 0x76 ~pxkcuir4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x106 4  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 4
-COPY_EXISTING	~leat12.itm~		~override/pxkcuir5.itm~	SAY NAME2 @12258	SAY DESC @12259
-WRITE_ASCII 0x3a ~pxkcuir5~ #8	WRITE_ASCII 0x76 ~pxkcuir5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x106 3  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
-COPY_EXISTING	~leat12.itm~		~override/pxkcuir6.itm~	SAY NAME2 @12268	SAY DESC @12269
-WRITE_ASCII 0x3a ~pxkcuir6~ #8	WRITE_ASCII 0x76 ~pxkcuir6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x106 2  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
+COPY	~Derats_Combino/Objets/pxkcuir4.itm~	~override~	SAY NAME2 @12248	SAY DESC @12249
+COPY	~Derats_Combino/Objets/pxkcuir5.itm~	~override~	SAY NAME2 @12258	SAY DESC @12259
+COPY	~Derats_Combino/Objets/pxkcuir6.itm~	~override~	SAY NAME2 @12268	SAY DESC @12269
 //Besantine
-COPY_EXISTING	~leat15.itm~		~override/pxkbesa4.itm~	SAY NAME2 @12348	SAY DESC @12349
-WRITE_ASCII 0x3a ~1leat05~ #8	WRITE_ASCII 0x76 ~1leat05~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x106 3  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 7
-COPY_EXISTING	~leat15.itm~		~override/pxkbesa5.itm~	SAY NAME2 @12358	SAY DESC @12359
-WRITE_ASCII 0x3a ~1leat07~ #8	WRITE_ASCII 0x76 ~1leat07~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x106 2  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 6
-COPY_EXISTING	~leat15.itm~		~override/pxkbesa6.itm~	SAY NAME2 @12368	SAY DESC @12369
-WRITE_ASCII 0x3a ~1leat06~ #8	WRITE_ASCII 0x76 ~1leat06~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x106 1  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 6
+COPY	~Derats_Combino/Objets/pxkbesa4.itm~	~override~	SAY NAME2 @12348	SAY DESC @12349
+COPY	~Derats_Combino/Objets/pxkbesa5.itm~	~override~	SAY NAME2 @12358	SAY DESC @12359
+COPY	~Derats_Combino/Objets/pxkbesa6.itm~	~override~	SAY NAME2 @12368	SAY DESC @12369
 //Cotte de mailles
-COPY_EXISTING	~chan07.itm~		~override/pxkcott4.itm~	SAY NAME2 @12448	SAY DESC @12449
-WRITE_ASCII 0x3a ~pxkcott4~ #8	WRITE_ASCII 0x76 ~pxkcott4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x106 1  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 9
-COPY_EXISTING	~chan07.itm~		~override/pxkcott5.itm~	SAY NAME2 @12458	SAY DESC @12459
-WRITE_ASCII 0x3a ~pxkcott5~ #8	WRITE_ASCII 0x76 ~pxkcott5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x106 0  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 8
-COPY_EXISTING	~chan07.itm~		~override/pxkcott6.itm~	SAY NAME2 @12468	SAY DESC @12469
-WRITE_ASCII 0x3a ~pxkcott6~ #8	WRITE_ASCII 0x76 ~pxkcott6~ #8	WRITE_BYTE 0x60 6	WRITE_LONG 0x106 ~-1~	WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 8
+COPY	~Derats_Combino/Objets/pxkcott4.itm~	~override~	SAY NAME2 @12448	SAY DESC @12449
+COPY	~Derats_Combino/Objets/pxkcott5.itm~	~override~	SAY NAME2 @12458	SAY DESC @12459
+COPY	~Derats_Combino/Objets/pxkcott6.itm~	~override~	SAY NAME2 @12468	SAY DESC @12469
 //Armures de plates
-COPY_EXISTING	~plat10.itm~		~override/pxkplat3.itm~	SAY NAME2 @12538	SAY DESC @12539
-WRITE_ASCII 0x3a ~pxkplat3~ #8	WRITE_ASCII 0x76 ~pxkplat3~ #8	WRITE_BYTE 0x60 3	WRITE_BYTE 0x106 0	WRITE_SHORT 0x34 6000	WRITE_BYTE 0x4c 15
-COPY_EXISTING	~plat10.itm~		~override/pxkplat4.itm~	SAY NAME2 @12548	SAY DESC @12549
-WRITE_ASCII 0x3a ~pxkplat4~ #8	WRITE_ASCII 0x76 ~pxkplat4~ #8	WRITE_BYTE 0x60 4	WRITE_LONG 0x106 ~-1~	WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 15
-COPY_EXISTING	~plat10.itm~		~override/pxkplat5.itm~	SAY NAME2 @12558	SAY DESC @12559
-WRITE_ASCII 0x3a ~1plat02~ #8	WRITE_ASCII 0x76 ~1plat02~ #8	WRITE_BYTE 0x60 5	WRITE_LONG 0x106 ~-2~	WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 10
-COPY_EXISTING	~plat10.itm~		~override/pxkplat6.itm~	SAY NAME2 @12568	SAY DESC @12569
-WRITE_ASCII 0x3a ~pxkplat6~ #8	WRITE_ASCII 0x76 ~pxkplat6~ #8	WRITE_BYTE 0x60 6	WRITE_LONG 0x106 ~-3~	WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 10
+COPY	~Derats_Combino/Objets/pxkplat3.itm~	~override~	SAY NAME2 @12538	SAY DESC @12539
+COPY	~Derats_Combino/Objets/pxkplat4.itm~	~override~	SAY NAME2 @12548	SAY DESC @12549
+COPY	~Derats_Combino/Objets/pxkplat5.itm~	~override~	SAY NAME2 @12558	SAY DESC @12559
+COPY	~Derats_Combino/Objets/pxkplat6.itm~	~override~	SAY NAME2 @12568	SAY DESC @12569
 //Armures de plates complètes
-COPY_EXISTING	~plat19.itm~		~override/pxkplac3.itm~	SAY NAME2 @12638	SAY DESC @12639
-WRITE_ASCII 0x3a ~1plat05~ #8	WRITE_ASCII 0x76 ~1plat05~ #8	WRITE_BYTE 0x60 3	WRITE_LONG 0x106 ~-2~	WRITE_SHORT 0x34 6000	WRITE_BYTE 0x4c 35
-COPY_EXISTING	~plat19.itm~		~override/pxkplac4.itm~	SAY NAME2 @12648	SAY DESC @12649
-WRITE_ASCII 0x3a ~pxkplac4~ #8	WRITE_ASCII 0x76 ~pxkplac4~ #8	WRITE_BYTE 0x60 4	WRITE_LONG 0x106 ~-3~	WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 35
-COPY_EXISTING	~plat19.itm~		~override/pxkplac5.itm~	SAY NAME2 @12658	SAY DESC @12659
-WRITE_ASCII 0x3a ~pxkplac5~ #8	WRITE_ASCII 0x76 ~pxkplac5~ #8	WRITE_BYTE 0x60 5	WRITE_LONG 0x106 ~-4~	WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 30
-COPY_EXISTING	~plat19.itm~		~override/pxkplac6.itm~	SAY NAME2 @12668	SAY DESC @12669
-WRITE_ASCII 0x3a ~1plat23b~ #8	WRITE_ASCII 0x76 ~1plat23b~ #8	WRITE_BYTE 0x60 6	WRITE_LONG 0x106 ~-5~	WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 30
+COPY	~Derats_Combino/Objets/pxkplac3.itm~	~override~	SAY NAME2 @12638	SAY DESC @12639
+COPY	~Derats_Combino/Objets/pxkplac4.itm~	~override~	SAY NAME2 @12648	SAY DESC @12649
+COPY	~Derats_Combino/Objets/pxkplac5.itm~	~override~	SAY NAME2 @12658	SAY DESC @12659
+COPY	~Derats_Combino/Objets/pxkplac6.itm~	~override~	SAY NAME2 @12668	SAY DESC @12669
 //Targes
-COPY_EXISTING	~shld17.itm~		~override/pxktarg4.itm~	SAY NAME2 @13448	SAY DESC @13449
-WRITE_ASCII 0x3a ~pxktarg4~ #8	WRITE_ASCII 0x76 ~pxktarg4~ #8	WRITE_BYTE 0x60 4	WRITE_LONG 0x166 ~-5~	WRITE_LONG 0x196 ~-5~	WRITE_BYTE 0x136 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~shld17.itm~		~override/pxktarg5.itm~	SAY NAME2 @13458	SAY DESC @13459
-WRITE_ASCII 0x3a ~pxktarg5~ #8	WRITE_ASCII 0x76 ~pxktarg5~ #8	WRITE_BYTE 0x60 5	WRITE_LONG 0x166 ~-6~	WRITE_LONG 0x196 ~-6~	WRITE_BYTE 0x136 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~shld17.itm~		~override/pxktarg6.itm~	SAY NAME2 @13468	SAY DESC @13469
-WRITE_ASCII 0x3a ~pxktarg6~ #8	WRITE_ASCII 0x76 ~pxktarg6~ #8	WRITE_BYTE 0x60 6	WRITE_LONG 0x166 ~-7~	WRITE_LONG 0x196 ~-7~	WRITE_BYTE 0x136 7  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
+COPY	~Derats_Combino/Objets/pxktarg4.itm~	~override~	SAY NAME2 @13448	SAY DESC @13449
+COPY	~Derats_Combino/Objets/pxktarg5.itm~	~override~	SAY NAME2 @13458	SAY DESC @13459
+COPY	~Derats_Combino/Objets/pxktarg6.itm~	~override~	SAY NAME2 @13468	SAY DESC @13469
 //Rondaches
-COPY_EXISTING	~shld02.itm~		~override/pxkrond3.itm~	SAY NAME2 @12738	SAY DESC @12739
-WRITE_ASCII 0x3a ~pxkrond3~ #8	WRITE_ASCII 0x76 ~pxkrond3~ #8	WRITE_BYTE 0x60 3	WRITE_LONG 0x136 ~-4~	WRITE_BYTE 0x166 4	WRITE_SHORT 0x34 6000	WRITE_BYTE 0x4c 2
-COPY_EXISTING	~shld02.itm~		~override/pxkrond4.itm~	SAY NAME2 @12748	SAY DESC @12749
-WRITE_ASCII 0x3a ~pxkrond4~ #8	WRITE_ASCII 0x76 ~pxkrond4~ #8	WRITE_BYTE 0x60 4	WRITE_LONG 0x136 ~-5~	WRITE_BYTE 0x166 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~shld02.itm~		~override/pxkrond5.itm~	SAY NAME2 @12758	SAY DESC @12759
-WRITE_ASCII 0x3a ~pxkrond5~ #8	WRITE_ASCII 0x76 ~pxkrond5~ #8	WRITE_BYTE 0x60 5	WRITE_LONG 0x136 ~-6~	WRITE_BYTE 0x166 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~shld02.itm~		~override/pxkrond6.itm~	SAY NAME2 @12768	SAY DESC @12769
-WRITE_ASCII 0x3a ~pxkrond6~ #8	WRITE_ASCII 0x76 ~pxkrond6~ #8	WRITE_BYTE 0x60 6	WRITE_LONG 0x136 ~-7~	WRITE_BYTE 0x166 7  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 0
+COPY	~Derats_Combino/Objets/pxkrond3.itm~	~override~	SAY NAME2 @12738	SAY DESC @12739
+COPY	~Derats_Combino/Objets/pxkrond4.itm~	~override~	SAY NAME2 @12748	SAY DESC @12749
+COPY	~Derats_Combino/Objets/pxkrond5.itm~	~override~	SAY NAME2 @12758	SAY DESC @12759
+COPY	~Derats_Combino/Objets/pxkrond6.itm~	~override~	SAY NAME2 @12768	SAY DESC @12769
 //Écus
-COPY_EXISTING	~shld29.itm~		~override/pxkecu3.itm~	SAY NAME2 @12838	SAY DESC @12839
-WRITE_ASCII 0x3a ~pxkecu3~ #8	WRITE_ASCII 0x76 ~pxkecu3~ #8	WRITE_BYTE 0x60 3	WRITE_BYTE 0x136 4	WRITE_SHORT 0x34 6000	WRITE_BYTE 0x4c 5
-COPY_EXISTING	~shld29.itm~		~override/pxkecu4.itm~	SAY NAME2 @12848	SAY DESC @12849
-WRITE_ASCII 0x3a ~pxkecu4~ #8	WRITE_ASCII 0x76 ~pxkecu4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x136 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 4
-COPY_EXISTING	~shld29.itm~		~override/pxkecu5.itm~	SAY NAME2 @12858	SAY DESC @12859
-WRITE_ASCII 0x3a ~pxkecu5~ #8	WRITE_ASCII 0x76 ~pxkecu5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x136 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 4
-COPY_EXISTING	~shld29.itm~		~override/pxkecu6.itm~	SAY NAME2 @12868	SAY DESC @12869
-WRITE_ASCII 0x3a ~pxkecu6~ #8	WRITE_ASCII 0x76 ~pxkecu6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x136 7  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
+COPY	~Derats_Combino/Objets/pxkecu3.itm~		~override~	SAY NAME2 @12838	SAY DESC @12839
+COPY	~Derats_Combino/Objets/pxkecu4.itm~		~override~	SAY NAME2 @12848	SAY DESC @12849
+COPY	~Derats_Combino/Objets/pxkecu5.itm~		~override~	SAY NAME2 @12858	SAY DESC @12859
+COPY	~Derats_Combino/Objets/pxkecu6.itm~		~override~	SAY NAME2 @12868	SAY DESC @12869
 //Pavois
-COPY_EXISTING	~shld30.itm~		~override/pxkpavo3.itm~	SAY NAME2 @12938	SAY DESC @12939
-WRITE_ASCII 0x3a ~pxkpavo3~ #8	WRITE_ASCII 0x76 ~pxkpavo3~ #8	WRITE_BYTE 0x60 3	WRITE_BYTE 0x136 4	WRITE_SHORT 0x34 6000	WRITE_BYTE 0x4c 4
-COPY_EXISTING	~shld30.itm~		~override/pxkpavo4.itm~	SAY NAME2 @12948	SAY DESC @12949
-WRITE_ASCII 0x3a ~pxkpavo4~ #8	WRITE_ASCII 0x76 ~pxkpavo4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x136 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 4
-COPY_EXISTING	~shld30.itm~		~override/pxkpavo5.itm~	SAY NAME2 @12958	SAY DESC @12959
-WRITE_ASCII 0x3a ~pxkpavo5~ #8	WRITE_ASCII 0x76 ~pxkpavo5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x136 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
-COPY_EXISTING	~shld30.itm~		~override/pxkpavo6.itm~	SAY NAME2 @12968	SAY DESC @12969
-WRITE_ASCII 0x3a ~pxkpavo6~ #8	WRITE_ASCII 0x76 ~pxkpavo6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x136 7  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 3
+COPY	~Derats_Combino/Objets/pxkpavo3.itm~	~override~	SAY NAME2 @12938	SAY DESC @12939
+COPY	~Derats_Combino/Objets/pxkpavo4.itm~	~override~	SAY NAME2 @12948	SAY DESC @12949
+COPY	~Derats_Combino/Objets/pxkpavo5.itm~	~override~	SAY NAME2 @12958	SAY DESC @12959
+COPY	~Derats_Combino/Objets/pxkpavo6.itm~	~override~	SAY NAME2 @12968	SAY DESC @12969
 //Anneaux
-COPY_EXISTING	~ring06.itm~		~override/pxkanno4.itm~	SAY NAME2 @13048	SAY DESC @13049	WRITE_ASCII 0x3a ~pxkanno4~ #8
-WRITE_BYTE 0x76 4	WRITE_BYTE 0xa6 4	WRITE_BYTE 0xd6 4	WRITE_BYTE 0x106 4	WRITE_BYTE 0x136 4	WRITE_BYTE 0x166 4  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~ring06.itm~		~override/pxkanno5.itm~	SAY NAME2 @13058	SAY DESC @13059	WRITE_ASCII 0x3a ~pxkanno5~ #8
-WRITE_BYTE 0x76 5	WRITE_BYTE 0xa6 5	WRITE_BYTE 0xd6 5	WRITE_BYTE 0x106 5	WRITE_BYTE 0x136 5	WRITE_BYTE 0x166 5  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~ring06.itm~		~override/pxkanno6.itm~	SAY NAME2 @13068	SAY DESC @13069	WRITE_ASCII 0x3a ~pxkanno6~ #8
-WRITE_BYTE 0x76 6	WRITE_BYTE 0xa6 6	WRITE_BYTE 0xd6 6	WRITE_BYTE 0x106 6	WRITE_BYTE 0x136 6	WRITE_BYTE 0x166 6  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~ring41.itm~		~override/pxkanno3.itm~	SAY NAME2 @13038	SAY DESC @13039
+COPY	~Derats_Combino/Objets/pxkanno4.itm~	~override~	SAY NAME2 @13048	SAY DESC @13049
+COPY	~Derats_Combino/Objets/pxkanno5.itm~	~override~	SAY NAME2 @13058	SAY DESC @13059
+COPY	~Derats_Combino/Objets/pxkanno6.itm~	~override~	SAY NAME2 @13068	SAY DESC @13069
+COPY	~Derats_Combino/Objets/pxkanno3.itm~	~override~	SAY NAME2 @13038	SAY DESC @13039
 //Amulettes
-COPY_EXISTING	~amul14.itm~		~override/pxkamul2.itm~	SAY NAME2 @13128	SAY DESC @13129	WRITE_ASCII 0x3a ~pxkamul2~ #8
-WRITE_BYTE 0x76 2	WRITE_BYTE 0xa6 2	WRITE_BYTE 0xd6 2	WRITE_BYTE 0x106 2	WRITE_BYTE 0x136 2	WRITE_BYTE 0x166 2  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~amul14.itm~		~override/pxkamul3.itm~	SAY NAME2 @13138	SAY DESC @13139	WRITE_ASCII 0x3a ~pxkamul3~ #8
-WRITE_BYTE 0x76 3	WRITE_BYTE 0xa6 3	WRITE_BYTE 0xd6 3	WRITE_BYTE 0x106 3	WRITE_BYTE 0x136 3	WRITE_BYTE 0x166 3	WRITE_SHORT 0x34 6000
-COPY_EXISTING	~amul14.itm~		~override/pxkamul4.itm~	SAY NAME2 @13148	SAY DESC @13149	WRITE_ASCII 0x3a ~pxkamul4~ #8
-WRITE_BYTE 0x76 4	WRITE_BYTE 0xa6 4	WRITE_BYTE 0xd6 4	WRITE_BYTE 0x106 4	WRITE_BYTE 0x136 4	WRITE_BYTE 0x166 4  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~amul14.itm~		~override/pxkamul5.itm~	SAY NAME2 @13158	SAY DESC @13159	WRITE_ASCII 0x3a ~pxkamul5~ #8
-WRITE_BYTE 0x76 5	WRITE_BYTE 0xa6 5	WRITE_BYTE 0xd6 5	WRITE_BYTE 0x106 5	WRITE_BYTE 0x136 5	WRITE_BYTE 0x166 5  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~amul14.itm~		~override/pxkamul6.itm~	SAY NAME2 @13168	SAY DESC @13169	WRITE_ASCII 0x3a ~pxkamul6~ #8
-WRITE_BYTE 0x76 6	WRITE_BYTE 0xa6 6	WRITE_BYTE 0xd6 6	WRITE_BYTE 0x106 6	WRITE_BYTE 0x136 6	WRITE_BYTE 0x166 6  WRITE_SHORT 0x34 8000
+COPY	~Derats_Combino/Objets/pxkamul2.itm~	~override~	SAY NAME2 @13128	SAY DESC @13129
+COPY	~Derats_Combino/Objets/pxkamul3.itm~	~override~	SAY NAME2 @13138	SAY DESC @13139
+COPY	~Derats_Combino/Objets/pxkamul4.itm~	~override~	SAY NAME2 @13148	SAY DESC @13149
+COPY	~Derats_Combino/Objets/pxkamul5.itm~	~override~	SAY NAME2 @13158	SAY DESC @13159
+COPY	~Derats_Combino/Objets/pxkamul6.itm~	~override~	SAY NAME2 @13168	SAY DESC @13169
 //Capes
-COPY_EXISTING	~clck02.itm~		~override/pxkcape3.itm~	SAY NAME2 @13238	SAY DESC @13239	WRITE_ASCII 0x3a ~pxkcape3~ #8
-WRITE_BYTE 0x76 3	WRITE_BYTE 0xa6 3	WRITE_BYTE 0xd6 3	WRITE_BYTE 0x106 3	WRITE_BYTE 0x136 3	WRITE_BYTE 0x166 3	WRITE_SHORT 0x34 6000
-COPY_EXISTING	~clck02.itm~		~override/pxkcape4.itm~	SAY NAME2 @13248	SAY DESC @13249	WRITE_ASCII 0x3a ~pxkcape4~ #8
-WRITE_BYTE 0x76 4	WRITE_BYTE 0xa6 4	WRITE_BYTE 0xd6 4	WRITE_BYTE 0x106 4	WRITE_BYTE 0x136 4	WRITE_BYTE 0x166 4  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~clck02.itm~		~override/pxkcape5.itm~	SAY NAME2 @13258	SAY DESC @13259	WRITE_ASCII 0x3a ~pxkcape5~ #8
-WRITE_BYTE 0x76 5	WRITE_BYTE 0xa6 5	WRITE_BYTE 0xd6 5	WRITE_BYTE 0x106 5	WRITE_BYTE 0x136 5	WRITE_BYTE 0x166 5  WRITE_SHORT 0x34 8000
-COPY_EXISTING	~clck02.itm~		~override/pxkcape6.itm~	SAY NAME2 @13268	SAY DESC @13269	WRITE_ASCII 0x3a ~pxkcape6~ #8
-WRITE_BYTE 0x76 6	WRITE_BYTE 0xa6 6	WRITE_BYTE 0xd6 6	WRITE_BYTE 0x106 6	WRITE_BYTE 0x136 6	WRITE_BYTE 0x166 6  WRITE_SHORT 0x34 8000
-
-ACTION_IF MOD_IS_INSTALLED SETUP-RR.TP2 7 BEGIN
+COPY	~Derats_Combino/Objets/pxkcape3.itm~	~override~	SAY NAME2 @13238	SAY DESC @13239
+COPY	~Derats_Combino/Objets/pxkcape4.itm~	~override~	SAY NAME2 @13248	SAY DESC @13249
+COPY	~Derats_Combino/Objets/pxkcape5.itm~	~override~	SAY NAME2 @13258	SAY DESC @13259
+COPY	~Derats_Combino/Objets/pxkcape6.itm~	~override~	SAY NAME2 @13268	SAY DESC @13269
 //Arc courts composites
-COPY_EXISTING	~RR#BOW05.itm~		~override/pxkarcr4.itm~	SAY NAME2 @13548	SAY DESC @13549
-WRITE_ASCII 0x3a ~pxkarcr4~ #8	WRITE_ASCII 0x76 ~pxkarcr4~ #8	WRITE_BYTE 0x60 4	WRITE_BYTE 0x86 4	WRITE_BYTE 0x8c 5  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 2
-COPY_EXISTING	~pxkarcr4.itm~		~override/pxkarcr5.itm~	SAY NAME2 @13558	SAY DESC @13559
-WRITE_ASCII 0x3a ~pxkarcr5~ #8	WRITE_ASCII 0x76 ~pxkarcr5~ #8	WRITE_BYTE 0x60 5	WRITE_BYTE 0x86 5	WRITE_BYTE 0x8c 6  WRITE_SHORT 0x34 8000	WRITE_BYTE 0x4c 1
-COPY_EXISTING	~pxkarcr4.itm~		~override/pxkarcr6.itm~	SAY NAME2 @13568	SAY DESC @13569
-WRITE_ASCII 0x3a ~pxkarcr6~ #8	WRITE_ASCII 0x76 ~pxkarcr6~ #8	WRITE_BYTE 0x60 6	WRITE_BYTE 0x86 6	WRITE_BYTE 0x8c 7  WRITE_SHORT 0x34 8000
-END
+COPY	~Derats_Combino/Objets/pxkarcr4.itm~	~override~	SAY NAME2 @13548	SAY DESC @13549
+COPY	~Derats_Combino/Objets/pxkarcr5.itm~	~override~	SAY NAME2 @13558	SAY DESC @13559
+COPY	~Derats_Combino/Objets/pxkarcr6.itm~	~override~	SAY NAME2 @13568	SAY DESC @13569
+//Bracelets
+COPY	~Derats_Combino/Objets/pxkbrac2.itm~	~override~	SAY NAME2 @13628	SAY DESC @13629
+COPY	~Derats_Combino/Objets/pxkbrac1.itm~	~override~	SAY NAME2 @13618	SAY DESC @13619
+COPY	~Derats_Combino/Objets/pxkbrac0.itm~	~override~	SAY NAME2 @13608	SAY DESC @13609
 
 BEGIN @20 //Gemmes
 REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
@@ -290,9 +180,45 @@ BEGIN @18 //Amkethran
 REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
 EXTEND_TOP ~AR5500.BCS~	~Derats_Combino/Divers/pxk5500.baf~
 
-//BEGIN @22 //un +1 de chaque objet. Problème : les +1 dans les contenants sont GRATUITS, ça fait au moins 20 +1 gratuits..............
-//REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
-//	COPY_EXISTING ~AR0300.are~							~override~
-//	PATCH_IF SOURCE_SIZE > 0x28f BEGIN
-//	LAUNCH_PATCH_FUNCTION ADD_AREA_ITEM	INT_VAR container_to_add_to = 12	STR_VAR item_to_add = blun07	END
-//	END
+BEGIN @23 //Festival de Nashkel
+REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
+REQUIRE_PREDICATE GAME_IS ~EET~ @25
+EXTEND_TOP ~BG4900.BCS~	~Derats_Combino/Divers/pxk4900.baf~
+
+BEGIN @22 //Un +1 de chaque objet dans SOA
+REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
+EXTEND_TOP ~AR2000.BCS~	~Derats_Combino/Divers/pxk2000a.baf~
+COPY_EXISTING ~ARLED.STO~					~override~  ADD_STORE_ITEM ~SW1H05~   AFTER  ~SW1H08~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~BERNARD2.STO~				~override~  ADD_STORE_ITEM ~BLUN03~   AFTER  ~BLUN02~ #0 #0 #0 ~IDENTIFIED~ #1
+														ADD_STORE_ITEM ~SW2H02~   AFTER  ~SW2H01~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~BSHOP01.STO~					~override~  ADD_STORE_ITEM ~SW1H08~   AFTER  ~SW1H07~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~CDAEMERC.STO~				~override~  ADD_STORE_ITEM ~SHLD17~   BEFORE ~SHLD02~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~GORCH.STO~					~override~  ADD_STORE_ITEM ~SW1H44~   AFTER  ~SW1H43~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~GOVWAU01.STO~				~override~  ADD_STORE_ITEM ~RING06~   AFTER  ~RING03~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~JAYES.STO~					~override~  ADD_STORE_ITEM ~SW1H02~   AFTER  ~SW1H22~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~PPSTOR01.STO~				~override~  ADD_STORE_ITEM ~HAMM02~   BEFORE ~BLUN05~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~PPUMB01.STO~					~override~  ADD_STORE_ITEM ~AMUL14~   AFTER  ~STAF19~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~RIBALD.STO~					~override~  ADD_STORE_ITEM ~BLUN07~   AFTER  ~BLUN06~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~SAHPR1.STO~					~override~  ADD_STORE_ITEM ~BRAC13~   LAST 			  #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~SHOP02.STO~					~override~  ADD_STORE_ITEM ~LEAT05~   AFTER  ~LEAT04~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~SHOP03.STO~					~override~  ADD_STORE_ITEM ~SW1H22~   AFTER  ~SW1H20~ #0 #0 #0 ~IDENTIFIED~ #1
+														ADD_STORE_ITEM ~HALB02~   AFTER  ~HALB01~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~SLSHOP01.STO~				~override~  ADD_STORE_ITEM ~SLNG02~   AFTER  ~SLNG01~ #0 #0 #0 ~IDENTIFIED~ #1
+														ADD_STORE_ITEM ~XBOW05~   AFTER  ~SW2H02~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~SLSHOP02.STO~				~override~  ADD_STORE_ITEM ~DAGG02~   AFTER  ~DAGG01~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~SUELF10.STO~					~override~  ADD_STORE_ITEM ~CLCK01~   LAST			  #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~TEMHELM.STO~					~override~  ADD_STORE_ITEM ~SHLD06~   BEFORE ~SHLD30~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~TEMLATH.STO~					~override~  ADD_STORE_ITEM ~BLUN05~   BEFORE ~STAF05~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~TEMTALOS.STO~				~override~  ADD_STORE_ITEM ~SPER02~   BEFORE ~STAF19~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~TRCAR04.STO~					~override~  ADD_STORE_ITEM ~PLAT14~   BEFORE ~LEAT05~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~TRGENI01.STO~				~override~  ADD_STORE_ITEM ~SHLD02~   BEFORE ~SHLD04~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~TRMER02.STO~					~override~  ADD_STORE_ITEM ~XBOW02~   AFTER  ~XBOW01~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~TRMER03.STO~					~override~  ADD_STORE_ITEM ~BOW02~    FIRST 		  #0 #0 #0 ~IDENTIFIED~ #1
+														ADD_STORE_ITEM ~BOW04~    FIRST			  #0 #0 #0 ~IDENTIFIED~ #1
+														ADD_STORE_ITEM ~BOW06~    FIRST			  #0 #0 #0 ~IDENTIFIED~ #1													
+COPY_EXISTING ~TRMER04.STO~					~override~  ADD_STORE_ITEM ~SHLD02~   AFTER  ~SHLD04~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~UDDROW23.STO~				~override~  ADD_STORE_ITEM ~AX1H02~   AFTER  ~AX1H01~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~UDDUER02.STO~				~override~  ADD_STORE_ITEM ~STAF02~   AFTER  ~SPER02~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~UDSVIR05.STO~				~override~  ADD_STORE_ITEM ~PLAT14~   AFTER  ~PLAT02~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~UHMER01.STO~					~override~  ADD_STORE_ITEM ~CHAN02~   AFTER  ~CHAN01~ #0 #0 #0 ~IDENTIFIED~ #1
+COPY_EXISTING ~UHMER03.STO~					~override~  ADD_STORE_ITEM ~LEAT02~   BEFORE ~LEAT05~ #0 #0 #0 ~IDENTIFIED~ #1
