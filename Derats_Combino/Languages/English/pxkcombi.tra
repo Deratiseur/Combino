@@ -8,7 +8,7 @@
 @7 = ~I see. And what items can you upgrade?~
 @8 = ~Kurosaï knows rituals for all objects. But he only works on the "+". Three '+' for a higher '+', that's the formula. And You have to give Kurosaï a number of gold coins equal to the square of the + you want to obtain times a thousand gold coins: you want a +3 bow? Then give Kurosaï three +2 bows and 9,000 gold coins.~
 @9 = ~I understand. Well, I'll be back when I need your services.~
-@10 = ~Can you also upgrade special magic weapons?~
+@10 = ~Can you also upgrade special magic items?~
 @11 = ~Yes, Kurosai can also improve mage pair of bracers. But unfortunately that's all; the venerable master Ibunibï-Saï knew other secrets, but he couldn't teach them to Kurosaï: Lady Death took him in first. May he enjoy the warm springs of the Spiritual World.~
 @12 = ~All right, I'll be back.~
 @13 = ~And here's your new item. Thank you, dear customer.~
@@ -138,9 +138,9 @@
 @1152 = ~I would like to exchange three quarterstaffs +1 for a quarterstaff +2. Here are the staffs and the gold.~
 @1153 = ~I would like to exchange three quarterstaffs +2 for a quarterstaff +3. Here are the staffs and the gold.~
 @1154 = ~I would like to exchange three quarterstaffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
-@11541 = ~I would like to exchange two quarterstaffs +3 and the Cleric's Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
-@11542 = ~I would like to exchange two quarterstaffs +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
-@11543 = ~I would like to exchange a quarterstaff +3, the Cleric's Staff +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11541 = ~I would like to exchange two quarterstaffs +3 and a Cleric's Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11542 = ~I would like to exchange two quarterstaffs +3 and a Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11543 = ~I would like to exchange a quarterstaff +3, a Cleric's Staff +3 and a Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
 @1155 = ~I would like to exchange three quarterstaffs +4 for a quarterstaff +5. Here are the staffs and the gold.~
 @11551 = ~I would like to exchange two quarterstaffs +4 and the Staff of Rhynn +4 for a quarterstaff +5. Here are the staffs and the gold.~
 @1156 = ~I would like to exchange three quarterstaffs +5 for a quarterstaff +6. Here are the staffs and the gold.~
