@@ -46,7 +46,7 @@ Koveras's Ring of Protection (+1)	(Ring)
 Warder's Signet +3					(Ring)
 
 
-There are two optional components to install:
+There are four optional components to install:
 - Kuroisai also appears in Amkethran:
 Kuroisai manages to escape Saradush and reappears in Amkethran. This makes it REALLY easy to acquire certain +6 items.
 - Kuroisai also appears at the Nashkel Carnival:
@@ -61,25 +61,37 @@ If you install this component, installing the Mersetek mods together can help yo
 Each combinable item has an extra +1 copy in the game. They are all placed in the stock of various shops. Exception: no +1 club, as the formulas only start with the +3 club from TOB. Installing this component also restores a fully coded but unused original BG2 pnj.
 
 
-This module includes Rogue Rebalancing composites short bows, and a personal note: these bows are a real cheat, and Rogue Rebalancing offers enough to buy to make at least one +5 composite shortbow.
+This module also includes items from various mods:
 
-
-This modules includes also these Wares of the Planes items:
-Bone Dagger +1						(Dagger)
-Green Steel Dagger +1				(Dagger)
-Enchanted Battle Axe +1				(Battle axe)
-Ring of the Traveler (+1)			(Ring)
-Mages Guard (AC 6)					(Bracers)
-Magus Shield (AC 4)					(Bracers)
+Composite short bow +1				(Shortbow)			Mod Rogue Rebalancing
+Composite short bow +2				(Shortbow)			Mod Rogue Rebalancing
+Composite short bow +3				(Shortbow)			Mod Rogue Rebalancing
+Buckler +1							(Bucklers)			Mod Rogue Rebalancing
+Buckler +2							(Bucklers)			Mod Rogue Rebalancing
+Buckler +3							(Bucklers)			Mod Rogue Rebalancing
+Bone Dagger +1						(Dagger)			Mod Wares of the planes
+Green Steel Dagger +1				(Dagger)			Mod Wares of the planes
+Enchanted Battle Axe +1				(Battle axe)		Mod Wares of the planes
+Ring of the Traveler (+1)			(Ring)				Mod Wares of the planes
+Mages Guard (AC 6)					(Bracers)			Mod Wares of the planes
+Magus Shield (AC 4)					(Bracers)			Mod Wares of the planes
 
 
 Version history :
 v1: First release online
-v2 : Added the option "Recipes cost less but require rare gems:" proposed by Mornagest
-	 Added the option "Kuroisai also appears in Amkethran" after several suggestions concerning TOB on the forum.
-v3 : Items are no longer patched, instead they are copied (to avoid bugs if combined with other mods that modify items beforehand)
-	 Fixed incorrect formula Dagger +1 with Dagger of <CHARNAME>.
-	 Added management of Bracers of Defense.
-	 Added support for items from the "Wares of the planes" mod (21 new formulas).
-	 Added the option "A +1 copy of each object in SOA".
-	 Added the option "Kuroisaï also appears at the Nashkel Festival".
+v2: Added the option "Recipes cost less but require rare gems:" proposed by Mornagest
+	Added the option "Kuroisai also appears in Amkethran" after several suggestions concerning TOB on the forum.
+v3: Items are no longer patched, instead they are copied (to avoid bugs if combined with other mods that modify items beforehand)
+	Fixed incorrect formula Dagger +1 with Dagger of <CHARNAME>.
+	Added management of Bracers of Defense.
+	Added support for items from the "Wares of the planes" mod (21 new formulas).
+	Added the option "A +1 copy of each object in SOA".
+	Added the option "Kuroisaï also appears at the Nashkel Festival".
+V4: Item names were taken from oBG2 whereas the mod is for BG2EE -> All names corrected.
+	Kurosaï had nothing to say at the Nashkel Festival. (removal of the messy re-encounter dialog).
+	If the "recipes require gems" option was installed, Kurosaï's presentation dialog remained the normal dialog.
+To come in a possible v5:
+	Added support for items included in more than a dozen mods.
+	Addition of pnjs' personal items.
+	Recalculation of recipes for +3 staffs, as there are several Cleric +3 and Combat +3 staffs available, whereas the recipes only calculate one of each.
+	Total: 76 new recipes and no more motivation, so you'll have to be very patient and I can't guarantee that this version will be released.

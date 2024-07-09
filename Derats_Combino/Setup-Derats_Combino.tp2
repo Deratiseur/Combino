@@ -1,6 +1,6 @@
 BACKUP ~Derats_Combino/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v3~
+VERSION ~v4~
 
 ASK_EVERY_COMPONENT
 
@@ -181,8 +181,8 @@ REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
 EXTEND_TOP ~AR5500.BCS~	~Derats_Combino/Divers/pxk5500.baf~
 
 BEGIN @23 //Festival de Nashkel
-REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
 REQUIRE_PREDICATE GAME_IS ~EET~ @25
+REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19
 EXTEND_TOP ~BG4900.BCS~	~Derats_Combino/Divers/pxk4900.baf~
 
 BEGIN @22 //Un +1 de chaque objet dans SOA
