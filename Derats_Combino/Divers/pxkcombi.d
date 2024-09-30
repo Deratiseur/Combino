@@ -1,15 +1,10 @@
 BEGIN pxkCombi
 
-IF ~AreaCheck("AR2000") Global("pxkcombi","GLOBAL",0)~ THEN BEGIN welcome1 SAY @2
+IF ~Global("pxkcombi","GLOBAL",0)~ THEN BEGIN welcome1 SAY @2
 	IF ~~ THEN REPLY @3	DO ~SetGlobal("pxkcombi","GLOBAL",1)~ GOTO welcome2
 END
 
-IF ~AreaCheck("AR5011") Global("pxkcombi","GLOBAL",0)~ THEN BEGIN welcomealt SAY @2
-	IF ~~ THEN REPLY @3	DO ~SetGlobal("pxkcombi","GLOBAL",2)~ GOTO welcome2
-END
-
 IF ~~ THEN BEGIN welcome2 SAY @4
-
 	IF ~~ THEN REPLY @5 GOTO welcome3
 END
 
@@ -26,15 +21,7 @@ IF ~~ THEN BEGIN welcome5 SAY @11
 	IF ~~ THEN REPLY @12 EXIT
 END
 
-IF ~AreaCheck("AR5011") Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcome6 SAY @2
-	IF ~~ THEN REPLY @15 GOTO welcome7
-END
-	
-IF ~~ THEN BEGIN welcome7 SAY @16
-	IF ~~ THEN REPLY @17 DO ~SetGlobal("pxkcombi","GLOBAL",2)~ EXIT
-END
-
-IF ~GlobalGT("pxkcombi","GLOBAL",0)~ THEN BEGIN welcomet
+IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
     SAY @2
 	//Dagues
 	IF ~NumItemsPartyGT("dagg02",2) PartyGoldGT(3999)~ THEN  REPLY @112
