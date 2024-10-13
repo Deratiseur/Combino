@@ -13,7 +13,7 @@
 Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets "+x", des armes aux armures en passant par les bijoux.
 Il peut combiner les objets jusqu'à +6 et le prix demandé est toujours "+ désiré au carré fois mille" : exemple pour obtenir un écu +4, il demande trois écus +3 et 16000 pièces d'or (4²x1000).
 Depuis la v3, il combine aussi les bracelets de défense (voir le lisez moi pour le coût)
-Il apparaît à Francmarché que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville.
+Il apparaît à Francmarché après que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville.
 
 Il y a quatre composants optionnels à installer :
 - Kuroisai apparaît aussi a Amkethran :
