@@ -1,6 +1,6 @@
-IF
-	Global("geniesgone","GLOBAL",1)
+	IF
 	Global("Px_combino","GLOBAL",0)
+	Global("geniesgone","GLOBAL",1)
 	AreaCheck("AR2000")
 THEN
 	RESPONSE #100
