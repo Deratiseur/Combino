@@ -15,6 +15,7 @@ La Lame de l'ombre +3				(Épée courte)
 Coupe-Gorge +4						(Épée courte)
 Serre de Rashad +2					(Cimeterre)
 Bord de l'eau +3					(Cimeterre)
+Katana de Yoshimo +1				(Katana)	
 Malakar +2							(Katana)
 Lame de guerre +4					(Épée à deux mains)
 Hache d'armes de Mauletar +2		(Hache d'arme)
@@ -24,6 +25,7 @@ Bâton de Clerc +3					(Bâton)
 Bâton de Rhynn +4					(Bâton)
 Arbalète de Necaradan +3			(Arbalète légère)
 Arbalète des Géants +3				(Arbalète lourde)
+Arc d'Arvorren +2					(Arc court)
 Le Tir Mortel +2					(Arc long)
 Arc de céremonie elfe +3			(Arc long)
 Boute-dragon d'Arla +3				(Fronde)
@@ -38,42 +40,63 @@ Armure de plates de Fallorain +1	(Armure de plates)
 Armure de plates d'ankheg (+2)		(Armure de plates)
 Armure de plates du Destin +3		(Armure de plates)
 Fierté de la Légion +2				(Armure de plates complète)
+Harnois en Mithral +2				(Armure de plates complète)
 Armure du Cerf +3					(Armure de plates complète)
 Grâce salvatrice +3					(Écu)
 Sentinelle +4						(Écu)
 Bouclier de Pellan +2				(Pavois)
+Cape de la haute forêt (+1)			(Cape)	
 Anneau de protection de Koveras (+1)(Anneau)
 Chevalière de gardien +3			(Anneau)
+Collier de Cheval de bois +2		(Amulette)
+
+Elles peuvent même inclure ces objets venant de différents mods :
+Targe +1							(Targe)					Mod Rogue Rebalancing
+Targe +2							(Targe)					Mod Rogue Rebalancing
+Targe +3							(Targe)					Mod Rogue Rebalancing
+Dague en os +1					 	(Dague)					Mod Wares of the planes
+Dague d'acier vert +1			 	(Dague)					Mod Wares of the planes
+Dague spectrale +3					(Dague)					Mod Wares of the planes
+Hache de combat enchantée +1	 	(Hache d'arme)			Mod Wares of the planes
+Anneau du voyageur (+1)			 	(Anneau)				Mod Wares of the planes
+Pavoimage (CA 4)			 	 	(Bracelets)				Mod Wares of the planes
+Gardemage (CA 6)			 	 	(Bracelets)				Mod Wares of the planes
+Brise-Crâne (+5)					(Marteau)				Mod Todd le super gars testeur
+Arc d'Auriel (+3)					(Arc long) 				Mod Todd le super gars testeur
+Arc de douleur (+4)					(Arc long) 				Mod Todd le super gars testeur
+Couteau à beurre du Baldurien (+2)	(Dague)					Mod Com_Encounters
+Bracelets d'Argent de Kedl (CA 2)	(Bracelets)				Mod Com_Encounters
+Lame de lune +3	(éteinte)			(Épée longue)			Mod Xan for BG2
+Armure de Aurumvorax +2				(Armure de cuir) 		Mod Darron
+Armure Sanglante (+4)				(Armure de plates) 		Mod Vampires Tales
+Pavois renforcé +2					(Pavois)				Mod Trial of the Luremaster
+Anneau de Défense (+1)				(Anneau)				Mod Dungeon Crawl
+L'anneau de mariage de Saerileth (+3)(Anneau)				Mod Saerileth
+Cape du mage (+2)					(Cape)					Mod Stuff of The Magi
+Bracelets de défense AC 2			(Bracelets)				Mod IRStore
+	
+
 
 Il y a quatre composants optionnels à installer :
 - Kuroisai apparaît aussi a Amkethran :
 Dans ce cas il devient VRAIMENT facile d’acquérir certains objets +6.
 - Kuroisai apparaît aussi au Festival de Nashkel : (Uniquement dans le cas d'une installation EET)
-Si vous installez ce composant, fusionner des objets en plus de vous aider dans BG1 peut vous aider à atteindre le +6 dans TOB si vous arrivez à importer vos créations. Un bon module pour ça est EET Tweaks, qui a une option pour importer tous les objets du groupe de SOD(BG1) vers SOA.
+Si vous installez ce composant, fusionner des objets en plus de vous aider dans BG1 peut vous aider à atteindre le +6 dans TOB si vous arrivez à importer vos créations. Un bon module pour ça est EET Tweaks, qui a une option pour importer tous les objets du groupe de BG1(SOD) vers SOA.
 Une autre astuce est d'installer le mod "Talanthyr Item upgrade" qui propose une formule pour convertir deux anneaux de protection +1 en un +2. Ça devient du coup plus facile de cibler l'anneau +6.
 - Les recettes coûtent moins chères mais nécessitent des gemmes rares :
-les recettes ne coûtent plus que le double du + désiré x 1000 (6000 pos pour un +3)(1000 pos pour les bracelets de Défense CA 7/6, 2000 pos pour les bracelets de Défense CA 5, puis 4K, 6K, etc) mais demandent une gemme :
-une émeraude pour du +2, un diamant pour du +3, un saphir étoilé pour du +4, une larme de roi pour du +5 et une esseulite pour du +6. (Une opale noir pour les bracelets de Défense CA 7/6/5)
+les recettes ne coûtent plus que le + désiré x2000 (6000 pos pour un +3)(1000 pos pour les bracelets de Défense CA 7/6, 2000 pos pour les bracelets de Défense CA 5, puis 4K, 6K, etc) mais demandent une gemme :
+	- une émeraude pour du +2
+	- un diamant pour du +3
+	- un saphir étoilé pour du +4
+	- une larme de roi pour du +5
+	- une esseulite pour du +6
+	- une opale noire pour les bracelets de Défense CA 7/6/5.
 Si vous installez ce composant, l'installation conjointe des mods Mersetek ou Pym (bon courage pour trouver ce dernier) peut énormément vous aider.
 - Un exemplaire +1 de chaque objet dans SOA :
 Chaque objets combinable à un exemplaire +1 présent en plus dans le jeu. Ils sont tous placés dans le stock de divers magasins. Exception : pas de gourdin +1, puisque les formules ne commencent qu'au gourdin +3 à partir de TOB. Installer ce composant restaure aussi un pnj original de BG2 entièrement codé mais non utilisé.
 
 
-Ce module inclut également ces objets venant de différents mods :
-Arcs court composite +1				(Arc court)			Mod Rogue Rebalancing
-Arcs court composite +2				(Arc court)			Mod Rogue Rebalancing
-Arcs court composite +3				(Arc court)			Mod Rogue Rebalancing
-Targe +1							(Targe)				Mod Rogue Rebalancing
-Targe +2							(Targe)				Mod Rogue Rebalancing
-Targe +3							(Targe)				Mod Rogue Rebalancing
-Dague d'os +1					 	(Dague)				Mod Wares of the planes
-Dague en acier vert +1			 	(Dague)				Mod Wares of the planes
-Hache de combat enchantée +1	 	(Hache d'arme)		Mod Wares of the planes
-Anneau du voyageur (+1)			 	(Anneau)			Mod Wares of the planes
-Pavoimage (CA 4)			 	 	(Bracelets)			Mod Wares of the planes
-Gardemage (CA 6)			 	 	(Bracelets)			Mod Wares of the planes	
-	
-	
+
 Historique des versions :
 v1 : Première mise en ligne
 v2 : Ajout de l'options "les recettes nécessitent des gemmes" proposée par Mornagest
@@ -87,8 +110,8 @@ v3 : Les objets ne sont plus patchés, à la place ils sont copiés (pour évite
 V4 : Les noms des objets étaient tirés de oBG2 alors que le mod est pour BG2EE -> Corrections de tous les noms.
 	 Kurosaï n'avait rien à dire au Festival de Nashkel. (suppression du dialogue de re-rencontre qui mettait le souk)
 	 Si l'option "les recettes demandent des gemmes" était installé le dialogue de présentation de Kurosaï restait le dialogue normal.
-A venir dans une éventuelle v5 :
-	Ajout de la prise en compte des objets inclus dans plus d'une dizaine de mods.
-	Ajout des objets personnels des pnjs.
-	Recalcul des recettes pour les bâtons +3 car il y a plusieurs bâtons de Clerc +3 et Bâton de Combat +3 accessibles alors que les recettes n'en calculent qu'un de chaque.
-	Total : 76 nouvelle recettes et plus de motivation donc va falloir être tréééééééés patient et je ne garanti pas que cette version sortira.
+v5 : Ajout de la prise en compte des objets inclus dans plus d'une dizaine de mods (parmi ceux disponibles en fr)
+	 Ajout des objets personnels des pnjs.
+	 Recalcul des recettes pour les bâtons +3 car il y a plusieurs bâtons de Clerc +3 et Bâton de Combat +3 accessibles alors que les recettes n'en calculent qu'un de chaque.
+	 Prise en compte d'une épée +3 dropée dans la tour de garde qui a tout d'une épée longue +3 mais a une référence unique.
+	 Total : 39x2 nouvelle recettes.
