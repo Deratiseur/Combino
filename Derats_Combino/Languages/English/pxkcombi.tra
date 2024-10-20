@@ -42,7 +42,12 @@
 @113 = ~I would like to exchange three daggers +2 for a dagger +3. Here are the daggers and the gold.~
 @1131 = ~I would like to change two daggers +2 and the Heart of the Golem +2 for a dagger +3. Here are the daggers and the gold.~
 @1132 = ~I would like to exchange two daggers +2 and the Ixil's Spike for a dagger +3. Here are the daggers and the gold.~
+@1133 = ~I would like to exchange two daggers +2 and the Butter Knife of Balduran for a dagger +3. Here are the daggers and the gold.~
+@1134 = ~I would like to change a dagger +2, the Heart of the Golem +2 and the Butter Knife of Balduran for a dagger +2. Here are the daggers and the gold.~
+@1135 = ~I would like to change a dagger +2, the Ixil's Spike and the Butter Knife of Balduran for a dagger +2. Here are the daggers and the gold.~
+@1136 = ~I would like to change the Heart of the Golem +2, the Ixil's Spike and the Butter Knife of Balduran for a dagger +2. Here are the daggers and the gold.~
 @114 = ~I would like to exchange three daggers +3 for a dagger +4. Here are the daggers and the gold.~
+@1141 = ~I would like to exchange two daggers +3 and the Phantom Dagger +3 for a dagger +4. Here are the daggers and the gold.~
 @115 = ~I would like to exchange three daggers +4 for a dagger +5. Here are the daggers and the gold.~
 @1151 = ~I would like to exchange two daggers +4 and the Boneblade +4 for a dagger +5. Here are the daggers and the gold.~
 @116 = ~I would like to exchange three daggers +5 for a dagger +6. Here are the daggers and the gold.~
@@ -58,6 +63,7 @@
 @132 = ~I would like to exchange three long swords +1 for a long sword +2. Here are the swords and the gold.~
 @133 = ~I would like to exchange three long swords +2 for a long sword +3. Here are the swords and the gold.~
 @134 = ~I would like to exchange three long swords +3 for a long sword +4. Here are the swords and the gold.~
+@1341 = ~I would like to exchange two long swords +3 and this Moonsword +3 for a long sword +4. Here are the swords and the gold.~
 @135 = ~I would like to exchange three long swords +4 for a long sword +5. Here are the swords and the gold.~
 @136 = ~I would like to exchange three long swords +5 for a long sword +6. Here are the swords and the gold.~
 
@@ -70,6 +76,7 @@
 @146 = ~I would like to exchange three scimitars +5 for a scimitar +6. Here are the scimitars and the gold.~
 
 @152 = ~I would like to exchange three katanas +1 for a katana +2. Here are the katanas and the gold.~
+@1521 = ~I would like to exchange two katanas +1 and the Yoshimo's Katana +1 for a katana +2. Here are the katanas and the gold.~
 @153 = ~I would like to exchange three katanas +2 for a katana +3. Here are the katanas and the gold.~
 @1531 = ~I would like to exchange two katanas +2 and the Malakar +2 for a katana +3. Here are the katanas and the gold.~
 @154 = ~I would like to exchange three katanas +3 for a katana +4. Here are the katanas and the gold.~
@@ -141,6 +148,12 @@
 @11541 = ~I would like to exchange two quarterstaffs +3 and a Cleric's Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
 @11542 = ~I would like to exchange two quarterstaffs +3 and a Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
 @11543 = ~I would like to exchange a quarterstaff +3, a Cleric's Staff +3 and a Martial Staff +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11544 = ~I would like to exchange three Cleric's Staffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11545 = ~I would like to exchange three Martial Staffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11546 = ~I would like to exchange a quarterstaff +3 and two Cleric's Staffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11547 = ~I would like to exchange a quarterstaff +3 and two Martial Staffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11548 = ~I would like to exchange a Cleric's Staff +3 and two Martial Staffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
+@11549 = ~I would like to exchange a Martial Staff +3 and two Cleric's Staffs +3 for a quarterstaff +4. Here are the staffs and the gold.~
 @1155 = ~I would like to exchange three quarterstaffs +4 for a quarterstaff +5. Here are the staffs and the gold.~
 @11551 = ~I would like to exchange two quarterstaffs +4 and the Staff of Rhynn +4 for a quarterstaff +5. Here are the staffs and the gold.~
 @1156 = ~I would like to exchange three quarterstaffs +5 for a quarterstaff +6. Here are the staffs and the gold.~
@@ -161,6 +174,7 @@
 
 @1182 = ~I would like to exchange three shortbows +1 for a shortbow +2. Here are the bows and the gold.~
 @1183 = ~I would like to exchange three shortbows +2 for a shortbow +3. Here are the bows and the gold.~
+@11831 = ~I would like to exchange two shortbows +2 and the Bow of Arvoreen +2 for a shortbow +3. Here are the bows and the gold.~
 @1184 = ~I would like to exchange three shortbows +3 for a shortbow +4. Here are the bows and the gold.~
 @1185 = ~I would like to exchange three shortbows +4 for a shortbow +5. Here are the bows and the gold.~
 @1186 = ~I would like to exchange three shortbows +5 for a shortbow +6. Here are the bows and the gold.~
@@ -170,7 +184,10 @@
 @11931 = ~I would like to exchange two longbows +2 and the Dead Shot +2 for a longbow +3. Here are the bows and the gold.~
 @1194 = ~I would like to exchange three longbows +3 for a longbow +4. Here are the bows and the gold.~
 @11941 = ~I would like to exchange two longbows +3 and the Elven Court Bow +3 for a longbow +4. Here are the bows and the gold.~
+@11942 = ~I would like to exchange two longbows +3 and the Auriel's Bow for a longbow +4. Here are the bows and the gold.~
+@11943 = ~I would like to exchange a longbow +3, the Elven Court Bow +3 and the Auriel's Bow for a longbow +4. Here are the bows and the gold.~
 @1195 = ~I would like to exchange three longbows +4 for a longbow +5. Here are the bows and the gold.~
+@11951 = ~I would like to exchange two longbows +4 and the Bow of Damage for a longbow +5. Here are the bows and the gold.~
 @1196 = ~I would like to exchange three longbows +5 for a longbow +6. Here are the bows and the gold.~
 
 @1202 = ~I would like to exchange three composite longbows +1 for a composite longbow +2. Here are the bows and the gold.~
@@ -189,6 +206,8 @@
 @1222 = ~I would like to exchange three leather armors +1 for a leather armor +2. Here are the armors and the gold.~
 @1223 = ~I would like to exchange three leather armors +2 for a leather armor +3. Here are the armors and the gold.~
 @12231 = ~I would like to exchange two leather armors +2 and the Protector of the Second +2 for a leather armor +3. Here are the armors and the gold.~
+@12232 = ~I would like to exchange two leather armors +2 and the Aurumvorax Armor +2 for a leather armor +3. Here are the armors and the gold.~
+@12233 = ~I would like to exchange a leather armor +2, the Protector of the Second +2 and the Aurumvorax Armor +2 for a leather armor +3. Here are the armors and the gold.~
 @1224 = ~I would like to exchange three leather armors +3 for a leather armor +4. Here are the armors and the gold.~
 @12241 = ~I would like to exchange two leather armors +3 and the Karajah's Life and Death +3 for a leather armor +4. Here are the armors and the gold.~
 @1225 = ~I would like to exchange three leather armors +4 for a leather armor +5. Here are the armors and the gold.~
@@ -219,11 +238,14 @@
 @1254 = ~I would like to exchange three plate mails +3 for a plate mail +4. Here are the armors and the gold.~
 @12541 = ~I would like to exchange two plate mails +3 and the Doomplate +3 for a plate mail +4. Here are the armors and the gold.~
 @1255 = ~I would like to exchange three plate mails +4 for a plate mail +5. Here are the armors and the gold.~
+@12551 = ~I would like to exchange two plate mails +4 and the Bathed-In-Blood armor for a plate mail +5. Here are the armors and the gold.~
 @1256 = ~I would like to exchange three plate mails +5 for a plate mail +6. Here are the armors and the gold.~
 
 @1262 = ~I would like to exchange three full plate mails +1 for a full plate mail +2. Here are the armors and the gold.~
 @1263 = ~I would like to exchange three full plate mails +2 for a full plate mail +3. Here are the armors and the gold.~
 @12631 = ~I would like to exchange two full plate mails +2 and the Pride of the Legion +2 for a full plate mail +3. Here are the armors and the gold.~
+@12632 = ~I would like to exchange two full plate mails +2 and the Mithral Field Plate +2 for a full plate mail +3. Here are the armors and the gold.~
+@12633 = ~I would like to exchange a full plate mail +2, the Pride of the Legion +2 and the Mithral Field Plate +2 for a full plate mail +3. Here are the armors and the gold.~
 @1264 = ~I would like to exchange three full plate mails +3 for a full plate mail +4. Here are the armors and the gold.~
 @12641 = ~I would like to exchange two full plate mails +3 and the Armor of the Hart +3 for a full plate mail +4. Here are the armors and the gold.~
 @1265 = ~I would like to exchange three full plate mails +4 for a full plate mail +5. Here are the armors and the gold.~
@@ -252,6 +274,8 @@
 @1292 = ~I would like to exchange three large shields +1 for a large shield +2. Here are the shields and the gold.~
 @1293 = ~I would like to exchange three large shields +2 for a large shield +3. Here are the shields and the gold.~
 @12931 = ~I would like to exchange two medium shields +2 and the Pellan's Shield +2 for a medium shield +3. Here are the shields and the gold.~
+@12932 = ~I would like to exchange two medium shields +2 and the Reinforced Large Shield +2 for a medium shield +3. Here are the shields and the gold.~
+@12933 = ~I would like to exchange a medium shield +2, the Pellan's Shield +2 and the Reinforced Large Shield +2 for a medium shield +3. Here are the shields and the gold.~
 @1294 = ~I would like to exchange three large shields +3 for a large shield +4. Here are the shields and the gold.~
 @1295 = ~I would like to exchange three large shields +4 for a large shield +5. Here are the shields and the gold.~
 @1296 = ~I would like to exchange three large shields +5 for a large shield +6. Here are the shields and the gold.~
@@ -259,23 +283,33 @@
 @1302 = ~I would like to exchange three rings of protection +1 for a ring of protection +2. Here are the rings and the gold.~
 @13021 = ~I would like to exchange two rings of protection +1 and the Koveras's Ring of Protection for a ring of protection +2. Here are the rings and the gold.~
 @13022 = ~I would like to exchange two rings of protection +1 and a Ring of the Traveler for a ring of protection +2. Here are the rings and the gold.~
-@13023 = ~I would like to exchange a rings of protection +1 and two Rings of the Traveler for a ring of protection +2. Here are the rings and the gold.~
+@13023 = ~I would like to exchange a ring of protection +1 and two Rings of the Traveler for a ring of protection +2. Here are the rings and the gold.~
 @13024 = ~I would like to exchange two Ring of the Traveler and the Koveras's Ring of Protection for a ring of protection +2. Here are the rings and the gold.~
 @13025 = ~I would like to exchange a rings of protection +1, a Ring of the Traveler and the Koveras's Ring of Protection for a ring of protection +2. Here are the rings and the gold.~
+@13026 = ~I would like to exchange two rings of protection +1 and the Ring of Defense for a ring of protection +2. Here are the rings and the gold.~
+@13027 = ~I would like to exchange two Rings of the Traveler and the Ring of Defense for a ring of protection +2. Here are the rings and the gold.~
+@13028 = ~I would like to exchange a rings of protection +1, a Ring of the Traveler and the Ring of Defense for a ring of protection +2. Here are the rings and the gold.~
+@13029 = ~I would like to exchange a ring of protection +1, the Ring of Defense and the Koveras's Ring for a ring of protection +2. Here are the rings and the gold.~
+@130210 = ~I would like to exchange a Ring of the Traveler +1, the Ring of Defense and the Koveras's Ring for a ring of protection +2. Here are the rings and the gold.~
 @1303 = ~I would like to exchange three rings of protection +2 for a ring of protection +3. Here are the rings and the gold.~
 @1304 = ~I would like to exchange three rings of protection +3 for a ring of protection +4. Here are the rings and the gold.~
 @13041 = ~I would like to exchange two rings of protection +3 and the Warder's Signet +3 for a ring of protection +4. Here are the rings and the gold.~
+@13042 = ~I would like to exchange two rings of protection +3 and the Saerileth's Wedding Ring for a ring of protection +4. Here are the rings and the gold.~
+@13043 = ~I would like to exchange a ring of protection +3, the Warder's Signet +3 and the Saerileth's Wedding Ring for a ring of protection +4. Here are the rings and the gold.~
 @1305 = ~I would like to exchange three rings of protection +4 for a ring of protection +5. Here are the rings and the gold.~
 @1306 = ~I would like to exchange three rings of protection +5 for a ring of protection +6. Here are the rings and the gold.~
 
 @1312 = ~I would like to exchange three amulets of protection +1 for an amulet of protection +2. Here are the amulets and the gold.~
 @1313 = ~I would like to exchange three amulets of protection +2 for an amulet of protection +3. Here are the amulets and the gold.~
+@13131 = ~I would like to exchange two amulets of protection +2 and the Wooden Horse Necklace for an amulet of protection +3. Here are the amulets and the gold.~
 @1314 = ~I would like to exchange three amulets of protection +3 for an amulet of protection +4. Here are the amulets and the gold.~
 @1315 = ~I would like to exchange three amulets of protection +4 for an amulet of protection +5. Here are the amulets and the gold.~
 @1316 = ~I would like to exchange three amulets of protection +5 for an amulet of protection +6. Here are the amulets and the gold.~
 
 @1322 = ~I would like to exchange three cloaks of protection +1 for a cloak of protection +2. Here are the cloaks and the gold.~
+@13221 = ~I would like to exchange two cloaks of protection +1 and the Cloak of the High Forest +1 for a cloak of protection +2. Here are the cloaks and the gold.~
 @1323 = ~I would like to exchange three cloaks of protection +2 for a cloak of protection +3. Here are the cloaks and the gold.~
+@13231 = ~I would like to exchange two cloaks of protection +2 and the Cloak of the Magi for a cloak of protection +3. Here are the cloaks and the gold.~
 @1324 = ~I would like to exchange three cloaks of protection +3 for a cloak of protection +4. Here are the cloaks and the gold.~
 @1325 = ~I would like to exchange three cloaks of protection +4 for a cloak of protection +5. Here are the cloaks and the gold.~
 @1326 = ~I would like to exchange three cloaks of protection +5 for a cloak of protection +6. Here are the cloaks and the gold.~
@@ -290,6 +324,7 @@
 @13631 = ~I would like to exchange two pairs of bracers of Defence AC 4 and the Magus Shield for a pair of bracers of Defence AC 3. Here are the pair of bracers and the gold.~
 @1362 = ~I would like to exchange three pairs of bracers of Defence AC 3 for a pair of bracers of Defence AC 2. Here are the pair of bracers and the gold.~
 @1361 = ~I would like to exchange three pairs of bracers of Defence AC 2 for a pair of bracers of Defence AC 1. Here are the pair of bracers and the gold.~
+@13611 = ~I would like to exchange two pairs of bracers of Defence AC 2 and the Silver Bracers of Kedl for a pair of bracers of Defence AC 1. Here are the pair of bracers and the gold.~
 @1360 = ~I would like to exchange three pairs of bracers of Defence AC 1 for a pair of bracers of Defence AC 0. Here are the pair of bracers and the gold.~
 
 //TOB
@@ -1827,7 +1862,12 @@ Weight: 2~
 @213 = ~I would like to exchange three daggers +2 for a dagger +3. Here are the daggers, the diamond and the gold.~
 @2131 = ~I would like to change two daggers +2 and the Heart of the Golem +2 for a dagger +3. Here are the daggers, the diamond and the gold.~
 @2132 = ~I would like to exchange two daggers +2 and the Ixil's Spike for a dagger +3. Here are the daggers, the diamond and the gold.~
+@2133 = ~I would like to exchange two daggers +2 and the Butter Knife of Balduran for a dagger +3. Here are the daggers, the diamond and the gold.~
+@2134 = ~I would like to change a dagger +2, the Heart of the Golem +2 and the Butter Knife of Balduran for a dagger +2. Here are the daggers, the diamond and the gold.~
+@2135 = ~I would like to change a dagger +2, the Ixil's Spike and the Butter Knife of Balduran for a dagger +2. Here are the daggers, the diamond and the gold.~
+@2136 = ~I would like to change the Heart of the Golem +2, the Ixil's Spike and the Butter Knife of Balduran for a dagger +2. Here are the daggers, the diamond and the gold.~
 @214 = ~I would like to exchange three daggers +3 for a dagger +4. Here are the daggers, the star sapphire and the gold.~
+@2141 = ~I would like to exchange two daggers +3 and the Phantom Dagger +3 for a dagger +4. Here are the daggers, the star sapphire and the gold.~
 @215 = ~I would like to exchange three daggers +4 for a dagger +5. Here are the daggers, the king's tear and the gold.~
 @2151 = ~I would like to exchange two daggers +4 and the Boneblade +4 for a dagger +5. Here are the daggers, the king's tear and the gold.~
 @216 = ~I would like to exchange three daggers +5 for a dagger +6. Here are the daggers, the rogue stone and the gold.~
@@ -1843,6 +1883,7 @@ Weight: 2~
 @232 = ~I would like to exchange three long swords +1 for a long sword +2. Here are the swords, the emerald and the gold.~
 @233 = ~I would like to exchange three long swords +2 for a long sword +3. Here are the swords, the diamond and the gold.~
 @234 = ~I would like to exchange three long swords +3 for a long sword +4. Here are the swords, the star sapphire and the gold.~
+@2341 = ~I would like to exchange two long swords +3 and this Moonsword +3 for a long sword +4. Here are the swords, the star sapphire and the gold.~
 @235 = ~I would like to exchange three long swords +4 for a long sword +5. Here are the swords, the king's tear and the gold.~
 @236 = ~I would like to exchange three long swords +5 for a long sword +6. Here are the swords, the rogue stone and the gold.~
 
@@ -1855,6 +1896,7 @@ Weight: 2~
 @246 = ~I would like to exchange three scimitars +5 for a scimitar +6. Here are the scimitars, the rogue stone and the gold.~
 
 @252 = ~I would like to exchange three katanas +1 for a katana +2. Here are the katanas, the emerald and the gold.~
+@2521 = ~I would like to exchange two katanas +1 and the Yoshimo's Katana +1 for a katana +2. Here are the katanas, the emerald and the gold.~
 @253 = ~I would like to exchange three katanas +2 for a katana +3. Here are the katanas, the diamond and the gold.~
 @2531 = ~I would like to exchange two katanas +2 and the Malakar +2 for a katana +3. Here are the katanas, the diamond and the gold.~
 @254 = ~I would like to exchange three katanas +3 for a katana +4. Here are the katanas, the star sapphire and the gold.~
@@ -1926,6 +1968,12 @@ Weight: 2~
 @21541 = ~I would like to exchange two quarterstaffs +3 and the Cleric's Staff +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
 @21542 = ~I would like to exchange two quarterstaffs +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
 @21543 = ~I would like to exchange a quarterstaff +3, the Cleric's Staff +3 and the Martial Staff +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21544 = ~I would like to exchange three Cleric's Staffs +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21545 = ~I would like to exchange three Martial Staffs +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21546 = ~I would like to exchange a quarterstaff +3 and two Cleric's Staffs +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21547 = ~I would like to exchange a quarterstaff +3 and two Martial Staffs +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21548 = ~I would like to exchange a Cleric's Staff +3 and two Martial Staffs +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
+@21549 = ~I would like to exchange a Martial Staff +3 and two Cleric's Staffs +3 for a quarterstaff +4. Here are the staffs, the star sapphire and the gold.~
 @2155 = ~I would like to exchange three quarterstaffs +4 for a quarterstaff +5. Here are the staffs, the king's tear and the gold.~
 @21551 = ~I would like to exchange two quarterstaffs +4 and the Staff of Rhynn +4 for a quarterstaff +5. Here are the staffs, the king's tear and the gold.~
 @2156 = ~I would like to exchange three quarterstaffs +5 for a quarterstaff +6. Here are the staffs, the rogue stone and the gold.~
@@ -1946,6 +1994,7 @@ Weight: 2~
 
 @2182 = ~I would like to exchange three shortbows +1 for a shortbow +2. Here are the bows, the emerald and the gold.~
 @2183 = ~I would like to exchange three shortbows +2 for a shortbow +3. Here are the bows, the diamond and the gold.~
+@21831 = ~I would like to exchange two shortbows +2 and the Bow of Arvoreen +2 for a shortbow +3. Here are the bows, the diamond and the gold.~
 @2184 = ~I would like to exchange three shortbows +3 for a shortbow +4. Here are the bows, the star sapphire and the gold.~
 @2185 = ~I would like to exchange three shortbows +4 for a shortbow +5. Here are the bows, the king's tear and the gold.~
 @2186 = ~I would like to exchange three shortbows +5 for a shortbow +6. Here are the bows, the rogue stone and the gold.~
@@ -1955,7 +2004,10 @@ Weight: 2~
 @21931 = ~I would like to exchange two longbows +2 and the Dead Shot +2 for a longbow +3. Here are the bows, the diamond and the gold.~
 @2194 = ~I would like to exchange three longbows +3 for a longbow +4. Here are the bows, the star sapphire and the gold.~
 @21941 = ~I would like to exchange two longbows +3 and the Elven Court Bow +3 for a longbow +4. Here are the bows, the star sapphire and the gold.~
+@21942 = ~I would like to exchange two longbows +3 and the Auriel's Bow for a longbow +4. Here are the bows, the star sapphire and the gold.~
+@21943 = ~I would like to exchange a longbow +3, the Elven Court Bow +3 and the Auriel's Bow for a longbow +4. Here are the bows, the star sapphire and the gold.~
 @2195 = ~I would like to exchange three longbows +4 for a longbow +5. Here are the bows, the king's tear and the gold.~
+@21951 = ~I would like to exchange two longbows +4 and the Bow of Damage for a longbow +5. Here are the bows, the king's tear and the gold.~
 @2196 = ~I would like to exchange three longbows +5 for a longbow +6. Here are the bows, the rogue stone and the gold.~
 
 @2202 = ~I would like to exchange three composite longbows +1 for a composite longbow +2. Here are the bows, the emerald and the gold.~
@@ -1974,6 +2026,8 @@ Weight: 2~
 @2222 = ~I would like to exchange three leather armors +1 for a leather armor +2. Here are the armors, the emerald and the gold.~
 @2223 = ~I would like to exchange three leather armors +2 for a leather armor +3. Here are the armors, the diamond and the gold.~
 @22231 = ~I would like to exchange two leather armors +2 and the Protector of the Second +2 for a leather armor +3. Here are the armors, the diamond and the gold.~
+@22232 = ~I would like to exchange two leather armors +2 and the Aurumvorax Armor +2 for a leather armor +3. Here are the armors, the diamond and the gold.~
+@22233 = ~I would like to exchange a leather armor +2, the Protector of the Second +2 and the Aurumvorax Armor +2 for a leather armor +3. Here are the armors, the diamond and the gold.~
 @2224 = ~I would like to exchange three leather armors +3 for a leather armor +4. Here are the armors, the star sapphire and the gold.~
 @22241 = ~I would like to exchange two leather armors +3 and the Karajah's Life and Death +3 for a leather armor +4. Here are the armors, the star sapphire and the gold.~
 @2225 = ~I would like to exchange three leather armors +4 for a leather armor +5. Here are the armors, the king's tear and the gold.~
@@ -2004,11 +2058,14 @@ Weight: 2~
 @2254 = ~I would like to exchange three plate mails +3 for a plate mail +4. Here are the armors, the star sapphire and the gold.~
 @22541 = ~I would like to exchange two plate mails +3 and the Doomplate +3 for a plate mail +4. Here are the armors, the star sapphire and the gold.~
 @2255 = ~I would like to exchange three plate mails +4 for a plate mail +5. Here are the armors, the king's tear and the gold.~
+@22551 = ~I would like to exchange two plate mails +4 and the Bathed-In-Blood armor for a plate mail +5. Here are the armors, the king's tear and the gold.~
 @2256 = ~I would like to exchange three plate mails +5 for a plate mail +6. Here are the armors, the rogue stone and the gold.~
 
 @2262 = ~I would like to exchange three full plate mails +1 for a full plate mail +2. Here are the armors, the emerald and the gold.~
 @2263 = ~I would like to exchange three full plate mails +2 for a full plate mail +3. Here are the armors, the diamond and the gold.~
 @22631 = ~I would like to exchange two full plate mails +2 and the Pride of the Legion +2 for a full plate mail +3. Here are the armors, the diamond and the gold.~
+@22632 = ~I would like to exchange two full plate mails +2 and the Mithral Field Plate +2 for a full plate mail +3. Here are the armors, the diamond and the gold.~
+@22633 = ~I would like to exchange a full plate mail +2, the Pride of the Legion +2 and the Mithral Field Plate +2 for a full plate mail +3. Here are the armors, the diamond and the gold.~
 @2264 = ~I would like to exchange three full plate mails +3 for a full plate mail +4. Here are the armors, the star sapphire and the gold.~
 @22641 = ~I would like to exchange two full plate mails +3 and the Armor of the Hart +3 for a full plate mail +4. Here are the armors, the star sapphire and the gold.~
 @2265 = ~I would like to exchange three full plate mails +4 for a full plate mail +5. Here are the armors, the king's tear and the gold.~
@@ -2037,6 +2094,8 @@ Weight: 2~
 @2292 = ~I would like to exchange three large shields +1 for a large shield +2. Here are the shields, the emerald and the gold.~
 @2293 = ~I would like to exchange three large shields +2 for a large shield +3. Here are the shields, the diamond and the gold.~
 @22931 = ~I would like to exchange two medium shields +2 and the Pellan's Shield +2 for a medium shield +3. Here are the shields, the diamond and the gold.~
+@22932 = ~I would like to exchange two medium shields +2 and the Reinforced Large Shield +2 for a medium shield +3. Here are the shields, the diamond and the gold.~
+@22933 = ~I would like to exchange a medium shield +2, the Pellan's Shield +2 and the Reinforced Large Shield +2 for a medium shield +3. Here are the shields, the diamond and the gold.~
 @2294 = ~I would like to exchange three large shields +3 for a large shield +4. Here are the shields, the star sapphire and the gold.~
 @2295 = ~I would like to exchange three large shields +4 for a large shield +5. Here are the shields, the king's tear and the gold.~
 @2296 = ~I would like to exchange three large shields +5 for a large shield +6. Here are the shields, the rogue stone and the gold.~
@@ -2047,20 +2106,30 @@ Weight: 2~
 @23023 = ~I would like to exchange a rings of protection +1 and two Rings of the Traveler for a ring of protection +2. Here are the rings, the emerald and the gold.~
 @23024 = ~I would like to exchange two Ring of the Traveler and the Koveras's Ring of Protection for a ring of protection +2. Here are the rings, the emerald and the gold.~
 @23025 = ~I would like to exchange a rings of protection +1, a Ring of the Traveler and the Koveras's Ring of Protection for a ring of protection +2. Here are the rings, the emerald and the gold.~
+@23026 = ~I would like to exchange two rings of protection +1 and the Ring of Defense for a ring of protection +2. Here are the rings, the emerald and the gold.~
+@23027 = ~I would like to exchange two Rings of the Traveler and the Ring of Defense for a ring of protection +2. Here are the rings, the emerald and the gold.~
+@23028 = ~I would like to exchange a rings of protection +1, a Ring of the Traveler and the Ring of Defense for a ring of protection +2. Here are the rings, the emerald and the gold.~
+@23029 = ~I would like to exchange a ring of protection +1, the Ring of Defense and the Koveras's Ring for a ring of protection +2. Here are the rings, the emerald and the gold.~
+@230210 = ~I would like to exchange a Ring of the Traveler +1, the Ring of Defense and the Koveras's Ring for a ring of protection +2. Here are the rings, the emerald and the gold.~
 @2303 = ~I would like to exchange three rings of protection +2 for a ring of protection +3. Here are the rings, the diamond and the gold.~
 @2304 = ~I would like to exchange three rings of protection +3 for a ring of protection +4. Here are the rings, the star sapphire and the gold.~
 @23041 = ~I would like to exchange two rings of protection +3 and the Warder's Signet +3 for a ring of protection +4. Here are the rings, the star sapphire and the gold.~
+@23042 = ~I would like to exchange two rings of protection +3 and the Saerileth's Wedding Ring for a ring of protection +4. Here are the rings, the star sapphire and the gold.~
+@23043 = ~I would like to exchange a ring of protection +3, the Warder's Signet +3 and the Saerileth's Wedding Ring for a ring of protection +4. Here are the rings, the star sapphire and the gold.~
 @2305 = ~I would like to exchange three rings of protection +4 for a ring of protection +5. Here are the rings, the king's tear and the gold.~
 @2306 = ~I would like to exchange three rings of protection +5 for a ring of protection +6. Here are the rings, the rogue stone and the gold.~
 
 @2312 = ~I would like to exchange three amulets of protection +1 for an amulet of protection +2. Here are the amulets, the emerald and the gold.~
 @2313 = ~I would like to exchange three amulets of protection +2 for an amulet of protection +3. Here are the amulets, the diamond and the gold.~
+@23131 = ~I would like to exchange two amulets of protection +2 and the Wooden Horse Necklace for an amulet of protection +3. Here are the amulets, the diamond and the gold.~
 @2314 = ~I would like to exchange three amulets of protection +3 for an amulet of protection +4. Here are the amulets, the star sapphire and the gold.~
 @2315 = ~I would like to exchange three amulets of protection +4 for an amulet of protection +5. Here are the amulets, the king's tear and the gold.~
 @2316 = ~I would like to exchange three amulets of protection +5 for an amulet of protection +6. Here are the amulets, the rogue stone and the gold.~
 
 @2322 = ~I would like to exchange three cloaks of protection +1 for a cloak of protection +2. Here are the cloaks, the emerald and the gold.~
+@23221 = ~I would like to exchange two cloaks of protection +1 and the Cloak of the High Forest +1 for a cloak of protection +2. Here are the cloaks, the emerald and the gold.~
 @2323 = ~I would like to exchange three cloaks of protection +2 for a cloak of protection +3. Here are the cloaks, the diamond and the gold.~
+@23231 = ~I would like to exchange two cloaks of protection +2 and the Cloak of the Magi for a cloak of protection +3. Here are the cloaks, the diamond and the gold.~
 @2324 = ~I would like to exchange three cloaks of protection +3 for a cloak of protection +4. Here are the cloaks, the star sapphire and the gold.~
 @2325 = ~I would like to exchange three cloaks of protection +4 for a cloak of protection +5. Here are the cloaks, the king's tear and the gold.~
 @2326 = ~I would like to exchange three cloaks of protection +5 for a cloak of protection +6. Here are the cloaks, the rogue stone and the gold.~
@@ -2075,6 +2144,7 @@ Weight: 2~
 @23631 = ~I would like to exchange two pairs of bracers of Defence AC 4 and the Magus Shield for a pair of bracers of Defence AC 3. Here are the pair of bracers, the diamond and the gold.~
 @2362 = ~I would like to exchange three pairs of bracers of Defence AC 3 for a pair of bracers of Defence AC 2. Here are the pair of bracers, the star sapphire and the gold.~
 @2361 = ~I would like to exchange three pairs of bracers of Defence AC 2 for a pair of bracers of Defence AC 1. Here are the pair of bracers, the king's tear and the gold.~
+@23611 = ~I would like to exchange two pairs of bracers of Defence AC 2 and the Silver Bracers of Kedl for a pair of bracers of Defence AC 1. Here are the pair of bracers, the king's tear and the gold.~
 @2360 = ~I would like to exchange three pairs of bracers of Defence AC 1 for a pair of bracers of Defence AC 0. Here are the pair of bracers, the rogue stone and the gold.~
 
 //TOB

@@ -43,10 +43,12 @@
 @113 = ~Je voudrais changer trois dagues +2 pour une dague +3. Voilà les dagues et l'or.~
 @1131 = ~Je voudrais changer deux dagues +2 et le Cœur du golem +2 pour une dague +3. Voilà les dagues et l'or.~
 @1132 = ~Je voudrais changer deux dagues +2 et la Pointe d'Ixil +2 pour une dague +3. Voilà les dagues et l'or.~
-//@1133 = ~Je voudrais changer deux dagues +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues et l'or.~
-//@1134 = ~Je voudrais changer une dague +2, le Cœur du golem +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues et l'or.~
+@1133 = ~Je voudrais changer deux dagues +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues et l'or.~
+@1134 = ~Je voudrais changer une dague +2, le Cœur du golem +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues et l'or.~
+@1135 = ~Je voudrais changer une dague +2, la Pointe d'Ixil +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues et l'or.~
+@1136 = ~Je voudrais changer le Cœur du golem +2, la Pointe d'Ixil +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues et l'or.~
 @114 = ~Je voudrais changer trois dagues +3 pour une dague +4. Voilà les dagues et l'or.~
-//@1141 = ~Je voudrais changer deux dagues +3 et la Dague Fantôme +3 pour une dague +4. Voilà les dagues et l'or.~
+@1141 = ~Je voudrais changer deux dagues +3 et la Dague Spectrale +3 pour une dague +4. Voilà les dagues et l'or.~
 @115 = ~Je voudrais changer trois dagues +4 pour une dague +5. Voilà les dagues et l'or.~
 @1151 = ~Je voudrais changer deux dagues +4 et la Lame d'Os +4 pour une dague +5. Voilà les dagues et l'or.~
 @116 = ~Je voudrais changer trois dagues +5 pour une dague +6. Voilà les dagues et l'or.~
@@ -62,8 +64,8 @@
 @132 = ~Je voudrais changer trois épées longues +1 pour une épée longue +2. Voilà les épées et l'or.~
 @133 = ~Je voudrais changer trois épées longues +2 pour une épée longue +3. Voilà les épées et l'or.~
 @134 = ~Je voudrais changer trois épées longues +3 pour une épée longue +4. Voilà les épées et l'or.~
-//+//@134 = ~Je voudrais changer trois épées longues +3 pour une épée longue +4. Voilà les épées et l'or.~
-//@1341 = ~Je voudrais changer deux épées longues +2 et la Lame de lune -3 pour une épée longue +4. Voilà les épées et l'or.~
+@134 = ~Je voudrais changer trois épées longues +3 pour une épée longue +4. Voilà les épées et l'or.~
+@1341 = ~Je voudrais changer deux épées longues +3 et cette Lame de lune +3 pour une épée longue +4. Voilà les épées et l'or.~
 @135 = ~Je voudrais changer trois épées longues +4 pour une épée longue +5. Voilà les épées et l'or.~
 @136 = ~Je voudrais changer trois épées longues +5 pour une épée longue +6. Voilà les épées et l'or.~
 
@@ -76,7 +78,7 @@
 @146 = ~Je voudrais changer trois cimeterres +5 pour un cimeterre +6. Voilà les cimeterres et l'or.~
 
 @152 = ~Je voudrais changer trois katanas +1 pour un katana +2. Voilà les katanas et l'or.~
-//@1521 = ~Je voudrais changer deux katanas +1 et le katana de Yoshimo +1 pour un katana +2. Voilà les katanas et l'or.~
+@1521 = ~Je voudrais changer deux katanas +1 et le katana de Yoshimo +1 pour un katana +2. Voilà les katanas et l'or.~
 @153 = ~Je voudrais changer trois katanas +2 pour un katana +3. Voilà les katanas et l'or.~
 @1531 = ~Je voudrais changer deux katanas +2 et Malakar +2 pour un katana +3. Voilà les katanas et l'or.~
 @154 = ~Je voudrais changer trois katanas +3 pour un katana +4. Voilà les katanas et l'or.~
@@ -148,12 +150,12 @@
 @11541 = ~Je voudrais changer deux bâtons +3 et un Bâton de clerc +3 pour un bâton +4. Voilà les bâtons et l'or.~
 @11542 = ~Je voudrais changer deux bâtons +3 et un Bâton de combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
 @11543 = ~Je voudrais changer un bâton +3, un Bâton de clerc +3 et un Bâton de combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
-//@11544 = ~Je voudrais changer trois bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons et l'or.~
-//@11545 = ~Je voudrais changer trois bâtons de Combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
-//@11546 = ~Je voudrais changer un bâton +3 et deux Bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons et l'or.~
-//@11547 = ~Je voudrais changer un bâton +3 et deux Bâtons de Combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
-//@11548 = ~Je voudrais changer un bâton de Clerc +3 et deux Bâtons de Combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
-//@11549 = ~Je voudrais changer un bâton de Combat +3 et deux Bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons et l'or.~
+@11544 = ~Je voudrais changer trois bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons et l'or.~
+@11545 = ~Je voudrais changer trois bâtons de Combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
+@11546 = ~Je voudrais changer un bâton +3 et deux Bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons et l'or.~
+@11547 = ~Je voudrais changer un bâton +3 et deux Bâtons de Combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
+@11548 = ~Je voudrais changer un bâton de Clerc +3 et deux Bâtons de Combat +3 pour un bâton +4. Voilà les bâtons et l'or.~
+@11549 = ~Je voudrais changer un bâton de Combat +3 et deux Bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons et l'or.~
 @1155 = ~Je voudrais changer trois bâtons +4 pour un bâton +5. Voilà les bâtons et l'or.~
 @11551 = ~Je voudrais changer deux bâtons +4 et le Bâton de Rhynn +4 pour un bâton +5. Voilà les bâtons et l'or.~
 @1156 = ~Je voudrais changer trois bâtons +5 pour un bâton +6. Voilà les bâtons et l'or.~
@@ -174,7 +176,7 @@
 
 @1182 = ~Je voudrais changer trois arc courts +1 pour un arc court +2. Voilà les arcs et l'or.~
 @1183 = ~Je voudrais changer trois arc courts +2 pour un arc court +3. Voilà les arcs et l'or.~
-//@11831 = ~Je voudrais changer deux arc courts +2 et l'Arc d'Arvorren +2 pour un arc court +3. Voilà les arcs et l'or.~
+@11831 = ~Je voudrais changer deux arc courts +2 et l'Arc d'Arvorren +2 pour un arc court +3. Voilà les arcs et l'or.~
 @1184 = ~Je voudrais changer trois arc courts +3 pour un arc court +4. Voilà les arcs et l'or.~
 @1185 = ~Je voudrais changer trois arc courts +4 pour un arc court +5. Voilà les arcs et l'or.~
 @1186 = ~Je voudrais changer trois arc courts +5 pour un arc court +6. Voilà les arcs et l'or.~
@@ -184,10 +186,10 @@
 @11931 = ~Je voudrais changer deux arc longs +2 et Le Tir Mortel +2 pour un arc long +3. Voilà les arcs et l'or.~
 @1194 = ~Je voudrais changer trois arc longs +3 pour un arc long +4. Voilà les arcs et l'or.~
 @11941 = ~Je voudrais changer deux arc longs +3 et l'Arc de la Cour Elfique +3 pour un arc long +4. Voilà les arcs et l'or.~
-//@11942 = ~Je voudrais changer deux arc longs +3 et l'Arc d'Auriel pour un arc long +4. Voilà les arcs et l'or.~
-//@11943 = ~Je voudrais changer un arc long +3, l'Arc de la Cour Elfique +3 et l'Arc d'Auriel pour un arc long +4. Voilà les arcs et l'or.~
+@11942 = ~Je voudrais changer deux arc longs +3 et l'Arc d'Auriel pour un arc long +4. Voilà les arcs et l'or.~
+@11943 = ~Je voudrais changer un arc long +3, l'Arc de la Cour Elfique +3 et l'Arc d'Auriel pour un arc long +4. Voilà les arcs et l'or.~
 @1195 = ~Je voudrais changer trois arc longs +4 pour un arc long +5. Voilà les arcs et l'or.~
-//@11951 = ~Je voudrais changer deux arc longs +4 et l'Arc de Douleur pour un arc long +5. Voilà les arcs et l'or.~
+@11951 = ~Je voudrais changer deux arc longs +4 et l'Arc de Douleur pour un arc long +5. Voilà les arcs et l'or.~
 @1196 = ~Je voudrais changer trois arc longs +5 pour un arc long +6. Voilà les arcs et l'or.~
 
 @1202 = ~Je voudrais changer trois arc longs composés +1 pour un arc long composé +2. Voilà les arcs et l'or.~
@@ -206,8 +208,8 @@
 @1222 = ~Je voudrais changer trois armures de cuir +1 pour une armure de cuir +2. Voilà les armures et l'or.~
 @1223 = ~Je voudrais changer trois armures de cuir +2 pour une armure de cuir +3. Voilà les armures et l'or.~
 @12231 = ~Je voudrais changer deux armures de cuir +2 et le Protecteur du second +2 pour une armure de cuir +3. Voilà les armures et l'or.~
-//@12232 = ~Je voudrais changer deux armures de cuir +2 et l'Armure de Aurumvorax +2 pour une armure de cuir +3. Voilà les armures et l'or.~
-//@12233 = ~Je voudrais changer une armure de cuir +2, le Protecteur du second +2 et l'Armure de Aurumvorax +2 pour une armure de cuir +3. Voilà les armures et l'or.~
+@12232 = ~Je voudrais changer deux armures de cuir +2 et l'Armure de Aurumvorax +2 pour une armure de cuir +3. Voilà les armures et l'or.~
+@12233 = ~Je voudrais changer une armure de cuir +2, le Protecteur du second +2 et l'Armure de Aurumvorax +2 pour une armure de cuir +3. Voilà les armures et l'or.~
 @1224 = ~Je voudrais changer trois armures de cuir +3 pour une armure de cuir +4. Voilà les armures et l'or.~
 @12241 = ~Je voudrais changer deux armures de cuir +3 et la Vie et Mort de Karajah +3 pour une armure de cuir +4. Voilà les armures et l'or.~
 @1225 = ~Je voudrais changer trois armures de cuir +4 pour une armure de cuir +5. Voilà les armures et l'or.~
@@ -238,14 +240,14 @@
 @1254 = ~Je voudrais changer trois armures de plates +3 pour une armure de plates +4. Voilà les armures et l'or.~
 @12541 = ~Je voudrais changer deux armures de plates +3 et l'Armure de plates du Destin +3 pour une armure de plates +4. Voilà les armures et l'or.~
 @1255 = ~Je voudrais changer trois armures de plates +4 pour une armure de plates +5. Voilà les armures et l'or.~
-//@12551 = ~Je voudrais changer deux armures de plates +4 et l'Armure Sanglante pour une armure de plates +5. Voilà les armures et l'or.~
+@12551 = ~Je voudrais changer deux armures de plates +4 et l'Armure Sanglante pour une armure de plates +5. Voilà les armures et l'or.~
 @1256 = ~Je voudrais changer trois armures de plates +5 pour une armure de plates +6. Voilà les armures et l'or.~
 
 @1262 = ~Je voudrais changer trois armures de plates complète +1 pour une armure de plates complète +2. Voilà les armures et l'or.~
 @1263 = ~Je voudrais changer trois armures de plates complète +2 pour une armure de plates complète +3. Voilà les armures et l'or.~
 @12631 = ~Je voudrais changer deux armures de plates complète +2 et la Fierté de la Légion +2 pour une armure de plates complète +3. Voilà les armures et l'or.~
-//@12632 = ~Je voudrais changer deux armures de plates complète +2 et le harnois en Mithral +2 pour une armure de plates complète +3. Voilà les armures et l'or.~
-//@12633 = ~Je voudrais changer une armure de plates complète +2, la Fierté de la Légion +2 et le harnois en Mithral +2 pour une armure de plates complète +3. Voilà les armures et l'or.~
+@12632 = ~Je voudrais changer deux armures de plates complète +2 et le harnois en Mithral +2 pour une armure de plates complète +3. Voilà les armures et l'or.~
+@12633 = ~Je voudrais changer une armure de plates complète +2, la Fierté de la Légion +2 et le harnois en Mithral +2 pour une armure de plates complète +3. Voilà les armures et l'or.~
 @1264 = ~Je voudrais changer trois armures de plates complète +3 pour une armure de plates complète +4. Voilà les armures et l'or.~
 @12641 = ~Je voudrais changer deux armures de plates complète +3 et l'Armure du Cerf +3 pour une armure de plates complète +4. Voilà les armures et l'or.~
 @1265 = ~Je voudrais changer trois armures de plates complète +4 pour une armure de plates complète +5. Voilà les armures et l'or.~
@@ -274,8 +276,8 @@
 @1292 = ~Je voudrais changer trois pavois +1 pour un pavois +2. Voilà les boucliers et l'or.~
 @1293 = ~Je voudrais changer trois pavois +2 pour un pavois +3. Voilà les boucliers et l'or.~
 @12931 = ~Je voudrais changer deux pavois +2 et le Bouclier de Pellan +2 pour un pavois +3. Voilà les boucliers et l'or.~
-//@12932 = ~Je voudrais changer deux pavois +2 et le Pavois renforcé +2 pour un pavois +3. Voilà les boucliers et l'or.~
-//@12933 = ~Je voudrais changer un pavois +2, le Bouclier de Pellan +2 et le Pavois renforcé +2 pour un pavois +3. Voilà les boucliers et l'or.~
+@12932 = ~Je voudrais changer deux pavois +2 et le Pavois renforcé +2 pour un pavois +3. Voilà les boucliers et l'or.~
+@12933 = ~Je voudrais changer un pavois +2, le Bouclier de Pellan +2 et le Pavois renforcé +2 pour un pavois +3. Voilà les boucliers et l'or.~
 @1294 = ~Je voudrais changer trois pavois +3 pour un pavois +4. Voilà les boucliers et l'or.~
 @1295 = ~Je voudrais changer trois pavois +4 pour un pavois +5. Voilà les boucliers et l'or.~
 @1296 = ~Je voudrais changer trois pavois +5 pour un pavois +6. Voilà les boucliers et l'or.~
@@ -286,30 +288,30 @@
 @13023 = ~Je voudrais changer un anneau de protection +1 et deux Anneaux du voyageur pour un anneau de protection +2. Voilà les anneaux et l'or.~
 @13024 = ~Je voudrais changer deux Anneaux du voyageur et l'Anneau de protection de Koveras +1 pour un anneau de protection +2. Voilà les anneaux et l'or.~
 @13025 = ~Je voudrais changer un anneau de protection +1, un Anneau du voyageur et l'Anneau de protection de Koveras +1 pour un anneau de protection +2. Voilà les anneaux et l'or.~
-//@13026 = ~Je voudrais changer deux anneaux de protection +1 et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux et l'or.~
-//@13027 = ~Je voudrais changer un anneau de protection +1, un Anneau du voyageur et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux et l'or.~
-//@13028 = ~Je voudrais changer deux Anneaux du voyageur et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux et l'or.~
-//@13029 = ~Je voudrais changer un anneau de protection +1, l'Anneau de Défense et l'Anneau de protection de Koveras pour un anneau de protection +2. Voilà les anneaux et l'or.~
-//@130210 = ~Je voudrais changer un Anneau du voyageur, l'Anneau de Défense et l'Anneau de protection de Koveras pour un anneau de protection +2. Voilà les anneaux et l'or.~
+@13026 = ~Je voudrais changer deux anneaux de protection +1 et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux et l'or.~
+@13027 = ~Je voudrais changer deux Anneaux du voyageur et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux et l'or.~
+@13028 = ~Je voudrais changer un anneau de protection +1, un Anneau du voyageur et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux et l'or.~
+@13029 = ~Je voudrais changer un anneau de protection +1, l'Anneau de Défense et l'Anneau de protection de Koveras +1 pour un anneau de protection +2. Voilà les anneaux et l'or.~
+@130210 = ~Je voudrais changer un Anneau du voyageur, l'Anneau de Défense et l'Anneau de protection de Koveras +1 pour un anneau de protection +2. Voilà les anneaux et l'or.~
 @1303 = ~Je voudrais changer trois anneaux de protection +2 pour un anneau de protection +3. Voilà les anneaux et l'or.~
 @1304 = ~Je voudrais changer trois anneaux de protection +3 pour un anneau de protection +4. Voilà les anneaux et l'or.~
 @13041 = ~Je voudrais changer deux anneaux de protection +3 et la Chevalière de gardien +3 pour un anneau de protection +4. Voilà les anneaux et l'or.~
-//@13042 = ~Je voudrais changer deux anneaux de protection +3 et l'Anneau de mariage de Saerileth pour un anneau de protection +4. Voilà les anneaux et l'or.~
-//@13043 = ~Je voudrais changer un anneau de protection +3, la Chevalière de gardien +3 et l'Anneau de mariage de Saerileth pour un anneau de protection +4. Voilà les anneaux et l'or.~
+@13042 = ~Je voudrais changer deux anneaux de protection +3 et l'Anneau de mariage de Saerileth pour un anneau de protection +4. Voilà les anneaux et l'or.~
+@13043 = ~Je voudrais changer un anneau de protection +3, la Chevalière de gardien +3 et l'Anneau de mariage de Saerileth pour un anneau de protection +4. Voilà les anneaux et l'or.~
 @1305 = ~Je voudrais changer trois anneaux de protection +4 pour un anneau de protection +5. Voilà les anneaux et l'or.~
 @1306 = ~Je voudrais changer trois anneaux de protection +5 pour un anneau de protection +6. Voilà les anneaux et l'or.~
 
 @1312 = ~Je voudrais changer trois amulettes de protection +1 pour une amulette de protection +2. Voilà les amulettes et l'or.~
 @1313 = ~Je voudrais changer trois amulettes de protection +2 pour une amulette de protection +3. Voilà les amulettes et l'or.~
-//@13131 = ~Je voudrais changer deux amulettes de protection +2 et le Collier de Cheval de bois +2 pour une amulette de protection +3. Voilà les amulettes et l'or.~
+@13131 = ~Je voudrais changer deux amulettes de protection +2 et le Collier de Cheval de bois +2 pour une amulette de protection +3. Voilà les amulettes et l'or.~
 @1314 = ~Je voudrais changer trois amulettes de protection +3 pour une amulette de protection +4. Voilà les amulettes et l'or.~
 @1315 = ~Je voudrais changer trois amulettes de protection +4 pour une amulette de protection +5. Voilà les amulettes et l'or.~
 @1316 = ~Je voudrais changer trois amulettes de protection +5 pour une amulette de protection +6. Voilà les amulettes et l'or.~
 
 @1322 = ~Je voudrais changer trois capes de protection +1 pour une cape de protection +2. Voilà les capes et l'or.~
-//@13221 = ~Je voudrais changer deux capes de protection +1 et la Cape de la haute forêt pour une cape de protection +2. Voilà les capes et l'or.~
+@13221 = ~Je voudrais changer deux capes de protection +1 et la Cape de la haute forêt pour une cape de protection +2. Voilà les capes et l'or.~
 @1323 = ~Je voudrais changer trois capes de protection +2 pour une cape de protection +3. Voilà les capes et l'or.~
-//@13231 = ~Je voudrais changer deux capes de protection +2 et la Cape du Mage pour une cape de protection +3. Voilà les capes et l'or.~
+@13231 = ~Je voudrais changer deux capes de protection +2 et la Cape du Mage pour une cape de protection +3. Voilà les capes et l'or.~
 @1324 = ~Je voudrais changer trois capes de protection +3 pour une cape de protection +4. Voilà les capes et l'or.~
 @1325 = ~Je voudrais changer trois capes de protection +4 pour une cape de protection +5. Voilà les capes et l'or.~
 @1326 = ~Je voudrais changer trois capes de protection +5 pour une cape de protection +6. Voilà les capes et l'or.~
@@ -324,9 +326,7 @@
 @13631 = ~Je voudrais changer deux paires de bracelets de Défense CA 4 et un pavoimage pour une paire de bracelets de défense CA 3. Voilà les bracelets et l'or.~
 @1362 = ~Je voudrais changer trois paires de bracelets de Défense CA 3 pour une paire de bracelets de défense CA 2. Voilà les bracelets et l'or.~
 @1361 = ~Je voudrais changer trois paires de bracelets de Défense CA 2 pour une paire de bracelets de défense CA 1. Voilà les bracelets et l'or.~
-//+//@1361 = ~Je voudrais changer trois paires de bracelets de Défense CA 2 pour une paire de bracelets de défense CA 1. Voilà les bracelets et l'or.~
-//@1362 = ~Je voudrais changer deux paires de bracelets de Défense CA 2 et les Bracelets d'Argent de Kedl pour une paire de bracelets de défense CA 1. Voilà les bracelets et l'or.~
-//+//@1362 = ~Je voudrais changer deux paires de bracelets de Défense CA 2 et les Bracelets d'Argent de Kedl pour une paire de bracelets de défense CA 1. Voilà les bracelets et l'or.~
+@13611 = ~Je voudrais changer deux paires de bracelets de Défense CA 2 et les Bracelets d'Argent de Kedl pour une paire de bracelets de défense CA 1. Voilà les bracelets et l'or.~
 @1360 = ~Je voudrais changer trois paires de bracelets de Défense CA 1 pour une paire de bracelets de défense CA 0. Voilà les bracelets et l'or.~
 
 //TOB
@@ -1855,7 +1855,12 @@ Poids : 2~
 @213 = ~Je voudrais changer trois dagues +2 pour une dague +3. Voilà les dagues, le diamant et l'or.~
 @2131 = ~Je voudrais changer deux dagues +2 et le Cœur du golem +2 pour une dague +3. Voilà les dagues, le diamant et l'or.~
 @2132 = ~Je voudrais changer deux dagues +2 et la Pointe d'Ixil pour une dague +3. Voilà les dagues, le diamant et l'or.~
+//21133 = ~Je voudrais changer deux dagues +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues, le diamant et l'or.~
+@2134 = ~Je voudrais changer une dague +2, le Cœur du golem +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues, le diamant et l'or.~
+@2135 = ~Je voudrais changer une dague +2, la Pointe d'Ixil +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues, le diamant et l'or.~
+@2136 = ~Je voudrais changer le Cœur du golem +2, la Pointe d'Ixil +2 et le Couteau à beurre du Baldurien pour une dague +3. Voilà les dagues, le diamant et l'or.~
 @214 = ~Je voudrais changer trois dagues +3 pour une dague +4. Voilà les dagues, le saphir étoilé et l'or.~
+@2141 = ~Je voudrais changer deux dagues +3 et la Dague Spectrale +3 pour une dague +4. Voilà les dagues, le saphir étoilé et l'or.~
 @215 = ~Je voudrais changer trois dagues +4 pour une dague +5. Voilà les dagues, la larme de roi et l'or.~
 @2151 = ~Je voudrais changer deux dagues +4 et la Lame d'Os +4 pour une dague +5. Voilà les dagues, la larme de roi et l'or.~
 @216 = ~Je voudrais changer trois dagues +5 pour une dague +6. Voilà les dagues, l'esseulite et l'or.~
@@ -1866,13 +1871,15 @@ Poids : 2~
 @2241 = ~Je voudrais changer deux épées courtes +3 et la Lame de l'ombre +3	pour une épée courte +4. Voilà les épées, le saphir étoilé et l'or.~
 @225 = ~Je voudrais changer trois épées courtes +4 pour une épée courte +5. Voilà les épées, la larme de roi et l'or.~
 @2251 = ~Je voudrais changer deux épées courtes +4 et Coupe-Gorge +4 pour une épée courte +5. Voilà les épées, la larme de roi et l'or.~
-@226 = ~Je voudrais changer trois épées courtes +5 pour une épée courte +6. Voilà les épées, l'esseulite  et l'or.~
+@226 = ~Je voudrais changer trois épées courtes +5 pour une épée courte +6. Voilà les épées, l'esseulite et l'or.~
 
 @232 = ~Je voudrais changer trois épées longues +1 pour une épée longue +2. Voilà les épées, l'émeraude et l'or.~
 @233 = ~Je voudrais changer trois épées longues +2 pour une épée longue +3. Voilà les épées, le diamant et l'or.~
 @234 = ~Je voudrais changer trois épées longues +3 pour une épée longue +4. Voilà les épées, le saphir étoilé et l'or.~
+@234 = ~Je voudrais changer trois épées longues +3 pour une épée longue +4. Voilà les épées, le saphir étoilé et l'or.~
+@2341 = ~Je voudrais changer deux épées longues +3 et la Lame de lune +3 pour une épée longue +4. Voilà les épées, le saphir étoilé et l'or.~
 @235 = ~Je voudrais changer trois épées longues +4 pour une épée longue +5. Voilà les épées, la larme de roi et l'or.~
-@236 = ~Je voudrais changer trois épées longues +5 pour une épée longue +6. Voilà les épées, l'esseulite  et l'or.~
+@236 = ~Je voudrais changer trois épées longues +5 pour une épée longue +6. Voilà les épées, l'esseulite et l'or.~
 
 @242 = ~Je voudrais changer trois cimeterres +1 pour un cimeterre +2. Voilà les cimeterres, l'émeraude et l'or.~
 @243 = ~Je voudrais changer trois cimeterres +2 pour un cimeterre +3. Voilà les cimeterres, le diamant et l'or.~
@@ -1880,27 +1887,28 @@ Poids : 2~
 @244 = ~Je voudrais changer trois cimeterres +3 pour un cimeterre +4. Voilà les cimeterres, le saphir étoilé et l'or.~
 @2441 = ~Je voudrais changer deux cimeterres +3 et Bord de l'eau +3 pour un cimeterre +4. Voilà les cimeterres, le saphir étoilé et l'or.~
 @245 = ~Je voudrais changer trois cimeterres +4 pour un cimeterre +5. Voilà les cimeterres, la larme de roi et l'or.~
-@246 = ~Je voudrais changer trois cimeterres +5 pour un cimeterre +6. Voilà les cimeterres, l'esseulite  et l'or.~
+@246 = ~Je voudrais changer trois cimeterres +5 pour un cimeterre +6. Voilà les cimeterres, l'esseulite et l'or.~
 
 @252 = ~Je voudrais changer trois katanas +1 pour un katana +2. Voilà les katanas, l'émeraude et l'or.~
+@2521 = ~Je voudrais changer deux katanas +1 et le katana de Yoshimo +1 pour un katana +2. Voilà les katanas, l'émeraude et l'or.~
 @253 = ~Je voudrais changer trois katanas +2 pour un katana +3. Voilà les katanas, le diamant et l'or.~
 @2531 = ~Je voudrais changer deux katanas +2 et Malakar +2 pour un katana +3. Voilà les katanas, le diamant et l'or.~
 @254 = ~Je voudrais changer trois katanas +3 pour un katana +4. Voilà les katanas, le saphir étoilé et l'or.~
 @255 = ~Je voudrais changer trois katanas +4 pour un katana +5. Voilà les katanas, la larme de roi et l'or.~
-@256 = ~Je voudrais changer trois katanas +5 pour un katana +6. Voilà les katanas, l'esseulite  et l'or.~
+@256 = ~Je voudrais changer trois katanas +5 pour un katana +6. Voilà les katanas, l'esseulite et l'or.~
 
 @262 = ~Je voudrais changer trois épées bâtardes +1 pour une épée bâtarde +2. Voilà les épées, l'émeraude et l'or.~
 @263 = ~Je voudrais changer trois épées bâtardes +2 pour une épée bâtarde +3. Voilà les épées, le diamant et l'or.~
 @264 = ~Je voudrais changer trois épées bâtardes +3 pour une épée bâtarde +4. Voilà les épées, le saphir étoilé et l'or.~
 @265 = ~Je voudrais changer trois épées bâtardes +4 pour une épée bâtarde +5. Voilà les épées, la larme de roi et l'or.~
-@266 = ~Je voudrais changer trois épées bâtardes +5 pour une épée bâtarde +6. Voilà les épées, l'esseulite  et l'or.~
+@266 = ~Je voudrais changer trois épées bâtardes +5 pour une épée bâtarde +6. Voilà les épées, l'esseulite et l'or.~
 
 @272 = ~Je voudrais changer trois épées à deux mains +1 pour une épée à deux mains +2. Voilà les épées, l'émeraude et l'or.~
 @273 = ~Je voudrais changer trois épées à deux mains +2 pour une épée à deux mains +3. Voilà les épées, le diamant et l'or.~
 @274 = ~Je voudrais changer trois épées à deux mains +3 pour une épée à deux mains +4. Voilà les épées, le saphir étoilé et l'or.~
 @275 = ~Je voudrais changer trois épées à deux mains +4 pour une épée à deux mains +5. Voilà les épées, la larme de roi et l'or.~
 @2751 = ~Je voudrais changer deux épées à deux mains +4 et la Lame de guerre +4 pour une épée à deux mains +5. Voilà les épées, la larme de roi et l'or.~
-@276 = ~Je voudrais changer trois épées à deux mains +5 pour une épée à deux mains +6. Voilà les épées, l'esseulite  et l'or.~
+@276 = ~Je voudrais changer trois épées à deux mains +5 pour une épée à deux mains +6. Voilà les épées, l'esseulite et l'or.~
 
 @282 = ~Je voudrais changer trois haches +1 pour une hache +2. Voilà les haches, l'émeraude et l'or.~
 @2821 = ~Je voudrais changer deux haches +1 et une Hache d'arme enchantée +1 pour une hache +2. Voilà les haches, l'émeraude et l'or.~
@@ -1909,44 +1917,44 @@ Poids : 2~
 @2831 = ~Je voudrais changer deux haches +2 et la Hache d'armes de Mauletar +2 pour une hache +3. le diamant Voilà les haches et l'or.~
 @284 = ~Je voudrais changer trois haches +3 pour une hache +4. Voilà les haches, le saphir étoilé et l'or.~
 @285 = ~Je voudrais changer trois haches +4 pour une hache +5. Voilà les haches, la larme de roi et l'or.~
-@286 = ~Je voudrais changer trois haches +5 pour une hache +6. Voilà les haches, l'esseulite  et l'or.~
+@286 = ~Je voudrais changer trois haches +5 pour une hache +6. Voilà les haches, l'esseulite et l'or.~
 
 @292 = ~Je voudrais changer trois marteaux +1 pour un marteau +2. Voilà les marteaux, l'émeraude et l'or.~
 @293 = ~Je voudrais changer trois marteaux +2 pour un marteau +3. Voilà les marteaux, le diamant et l'or.~
 @294 = ~Je voudrais changer trois marteaux +3 pour un marteau +4. Voilà les marteaux, le saphir étoilé et l'or.~
 @295 = ~Je voudrais changer trois marteaux +4 pour un marteau +5. Voilà les marteaux, la larme de roi et l'or.~
-@296 = ~Je voudrais changer trois marteaux +5 pour un marteau +6. Voilà les marteaux, l'esseulite  et l'or.~
+@296 = ~Je voudrais changer trois marteaux +5 pour un marteau +6. Voilà les marteaux, l'esseulite et l'or.~
 
 @2102 = ~Je voudrais changer trois masses d'armes +1 pour un masse d'armes +2. Voilà les masses d'armes, l'émeraude et l'or.~
 @2103 = ~Je voudrais changer trois masses d'armes +2 pour un masse d'armes +3. Voilà les masses d'armes, le diamant et l'or.~
 @2104 = ~Je voudrais changer trois masses d'armes +3 pour un masse d'armes +4. Voilà les masses d'armes, le saphir étoilé et l'or.~
 @2105 = ~Je voudrais changer trois masses d'armes +4 pour un masse d'armes +5. Voilà les masses d'armes, la larme de roi et l'or.~
-@2106 = ~Je voudrais changer trois masses d'armes +5 pour un masse d'armes +6. Voilà les masses d'armes, l'esseulite  et l'or.~
+@2106 = ~Je voudrais changer trois masses d'armes +5 pour un masse d'armes +6. Voilà les masses d'armes, l'esseulite et l'or.~
 
 @2112 = ~Je voudrais changer trois étoiles du matin +1 pour une étoile du matin +2. Voilà les étoiles du matin, l'émeraude et l'or.~
 @2113 = ~Je voudrais changer trois étoiles du matin +2 pour une étoile du matin +3. Voilà les étoiles du matin, le diamant et l'or.~
 @2114 = ~Je voudrais changer trois étoiles du matin +3 pour une étoile du matin +4. Voilà les étoiles du matin, le saphir étoilé et l'or.~
 @2115 = ~Je voudrais changer trois étoiles du matin +4 pour une étoile du matin +5. Voilà les étoiles du matin, la larme de roi et l'or.~
-@2116 = ~Je voudrais changer trois étoiles du matin +5 pour une étoile du matin +6. Voilà les étoiles du matin, l'esseulite  et l'or.~
+@2116 = ~Je voudrais changer trois étoiles du matin +5 pour une étoile du matin +6. Voilà les étoiles du matin, l'esseulite et l'or.~
 
 @2122 = ~Je voudrais changer trois fléaux +1 pour un fléau +2. Voilà les fléaux, l'émeraude et l'or.~
 @2123 = ~Je voudrais changer trois fléaux +2 pour un fléau +3. Voilà les fléaux, le diamant et l'or.~
 @2124 = ~Je voudrais changer trois fléaux +3 pour un fléau +4. Voilà les fléaux, le saphir étoilé et l'or.~
 @2125 = ~Je voudrais changer trois fléaux +4 pour un fléau +5. Voilà les fléaux, la larme de roi et l'or.~
-@2126 = ~Je voudrais changer trois fléaux +5 pour un fléau +6. Voilà les fléaux, l'esseulite  et l'or.~
+@2126 = ~Je voudrais changer trois fléaux +5 pour un fléau +6. Voilà les fléaux, l'esseulite et l'or.~
 
 @2132 = ~Je voudrais changer trois lances +1 pour une lance +2. Voilà les lances, l'émeraude et l'or.~
 @2133 = ~Je voudrais changer trois lances +2 pour une lance +3. Voilà les lances, le diamant et l'or.~
 @2134 = ~Je voudrais changer trois lances +3 pour une lance +4. Voilà les lances, le saphir étoilé et l'or.~
 @2135 = ~Je voudrais changer trois lances +4 pour une lance +5. Voilà les lances, la larme de roi et l'or.~
-@2136 = ~Je voudrais changer trois lances +5 pour une lance +6. Voilà les lances, l'esseulite  et l'or.~
+@2136 = ~Je voudrais changer trois lances +5 pour une lance +6. Voilà les lances, l'esseulite et l'or.~
 
 @2142 = ~Je voudrais changer trois hallebardes +1 pour une hallebarde +2. Voilà les hallebardes, l'émeraude et l'or.~
 @2143 = ~Je voudrais changer trois hallebardes +2 pour une hallebarde +3. Voilà les hallebardes, le diamant et l'or.~
 @21431 = ~Je voudrais changer deux hallebardes +2 et la Lame de Suryris +2 pour une hallebarde +3. Voilà les hallebardes, le diamant et l'or.~
 @2144 = ~Je voudrais changer trois hallebardes +3 pour une hallebarde +4. Voilà les hallebardes, le saphir étoilé et l'or.~
 @2145 = ~Je voudrais changer trois hallebardes +4 pour une hallebarde +5. Voilà les hallebardes, la larme de roi et l'or.~
-@2146 = ~Je voudrais changer trois hallebardes +5 pour une hallebarde +6. Voilà les hallebardes, l'esseulite  et l'or.~
+@2146 = ~Je voudrais changer trois hallebardes +5 pour une hallebarde +6. Voilà les hallebardes, l'esseulite et l'or.~
 
 @2152 = ~Je voudrais changer trois bâtons +1 pour un bâton +2. Voilà les bâtons, l'émeraude et l'or.~
 @2153 = ~Je voudrais changer trois bâtons +2 pour un bâton +3. Voilà les bâtons, le diamant et l'or.~
@@ -1954,65 +1962,77 @@ Poids : 2~
 @21541 = ~Je voudrais changer deux bâtons +3 et le Bâton de Clerc +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
 @21542 = ~Je voudrais changer deux bâtons +3 et le Bâton de Combat +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
 @21543 = ~Je voudrais changer un bâton +3, le Bâton de Clerc +3 et le Bâton de combat +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
+@21544 = ~Je voudrais changer trois bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
+@21545 = ~Je voudrais changer trois bâtons de Combat +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
+@21546 = ~Je voudrais changer un bâton +3 et deux Bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
+@21547 = ~Je voudrais changer un bâton +3 et deux Bâtons de Combat +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
+@21548 = ~Je voudrais changer un bâton de Clerc +3 et deux Bâtons de Combat +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
+@21549 = ~Je voudrais changer un bâton de Combat +3 et deux Bâtons de Clerc +3 pour un bâton +4. Voilà les bâtons, le saphir étoilé et l'or.~
 @2155 = ~Je voudrais changer trois bâtons +4 pour un bâton +5. Voilà les bâtons, la larme de roi et l'or.~
 @21551 = ~Je voudrais changer deux bâtons +4 et le Bâton de Rhynn +4 pour un bâton +5. Voilà les bâtons, la larme de roi et l'or.~
-@2156 = ~Je voudrais changer trois bâtons +5 pour un bâton +6. Voilà les bâtons, l'esseulite  et l'or.~
+@2156 = ~Je voudrais changer trois bâtons +5 pour un bâton +6. Voilà les bâtons, l'esseulite et l'or.~
 
 @2162 = ~Je voudrais changer trois arbalètes légères +1 pour une arbalète légère +2. Voilà les arbalètes, l'émeraude et l'or.~
 @2163 = ~Je voudrais changer trois arbalètes légères +2 pour une arbalète légère +3. Voilà les arbalètes, le diamant et l'or.~
 @2164 = ~Je voudrais changer trois arbalètes légères +3 pour une arbalète légère +4. Voilà les arbalètes, le saphir étoilé et l'or.~
 @21641 = ~Je voudrais changer deux arbalètes légères +3 et l'Arbalète de Necaradan +3 pour une arbalète légère +4. Voilà les arbalètes, le saphir étoilé et l'or.~
 @2165 = ~Je voudrais changer trois arbalètes légères +4 pour une arbalète légère +5. Voilà les arbalètes, la larme de roi et l'or.~
-@2166 = ~Je voudrais changer trois arbalètes légères +5 pour une arbalète légère +6. Voilà les arbalètes, l'esseulite  et l'or.~
+@2166 = ~Je voudrais changer trois arbalètes légères +5 pour une arbalète légère +6. Voilà les arbalètes, l'esseulite et l'or.~
 
 @2172 = ~Je voudrais changer trois arbalètes lourdes +1 pour une arbalète lourde +2. Voilà les arbalètes, l'émeraude et l'or.~
 @2173 = ~Je voudrais changer trois arbalètes lourdes +2 pour une arbalète lourde +3. Voilà les arbalètes, le diamant et l'or.~
 @2174 = ~Je voudrais changer trois arbalètes lourdes +3 pour une arbalète lourde +4. Voilà les arbalètes, le saphir étoilé et l'or.~
 @21741 = ~Je voudrais changer deux arbalètes lourdes +3 et l'Arbalète des Géants +3 pour une arbalète lourde +4. Voilà les arbalètes, le saphir étoilé et l'or.~
 @2175 = ~Je voudrais changer trois arbalètes lourdes +4 pour une arbalète lourde +5. Voilà les arbalètes, la larme de roi et l'or.~
-@2176 = ~Je voudrais changer trois arbalètes lourdes +5 pour une arbalète lourde +6. Voilà les arbalètes, l'esseulite  et l'or.~
+@2176 = ~Je voudrais changer trois arbalètes lourdes +5 pour une arbalète lourde +6. Voilà les arbalètes, l'esseulite et l'or.~
 
 @2182 = ~Je voudrais changer trois arc courts +1 pour un arc court +2. l'émeraude Voilà les arcs et l'or.~
 @2183 = ~Je voudrais changer trois arc courts +2 pour un arc court +3. Voilà les arcs, le diamant et l'or.~
+@21831 = ~Je voudrais changer deux arc courts +2 et l'Arc d'Arvorren +2 pour un arc court +3. Voilà les arcs, le diamant et l'or.~
 @2184 = ~Je voudrais changer trois arc courts +3 pour un arc court +4. Voilà les arcs, le saphir étoilé et l'or.~
 @2185 = ~Je voudrais changer trois arc courts +4 pour un arc court +5. Voilà les arcs, la larme de roi et l'or.~
-@2186 = ~Je voudrais changer trois arc courts +5 pour un arc court +6. Voilà les arcs, l'esseulite  et l'or.~
+@2186 = ~Je voudrais changer trois arc courts +5 pour un arc court +6. Voilà les arcs, l'esseulite et l'or.~
 
 @2192 = ~Je voudrais changer trois arc longs +1 pour un arc long +2. Voilà les arcs, l'émeraude et l'or.~
 @2193 = ~Je voudrais changer trois arc longs +2 pour un arc long +3. Voilà les arcs, le diamant et l'or.~
 @21931 = ~Je voudrais changer deux arc longs +2 et Le Tir Mortel +2 pour un arc long +3. Voilà les arcs, le diamant et l'or.~
 @2194 = ~Je voudrais changer trois arc longs +3 pour un arc long +4. Voilà les arcs, le saphir étoilé et l'or.~
 @21941 = ~Je voudrais changer deux arc longs +3 et l'Arc de la Cour Elfique +3 pour un arc long +4. Voilà les arcs, le saphir étoilé et l'or.~
+@21942 = ~Je voudrais changer deux arc longs +3 et l'Arc d'Auriel pour un arc long +4. Voilà les arcs, le saphir étoilé et l'or.~
+@21943 = ~Je voudrais changer un arc long +3, l'Arc de la Cour Elfique +3 et l'Arc d'Auriel pour un arc long +4. Voilà les arcs, le saphir étoilé et l'or.~
 @2195 = ~Je voudrais changer trois arc longs +4 pour un arc long +5. Voilà les arcs, la larme de roi et l'or.~
-@2196 = ~Je voudrais changer trois arc longs +5 pour un arc long +6. Voilà les arcs, l'esseulite  et l'or.~
+@21951 = ~Je voudrais changer deux arc longs +4 et l'Arc de Douleur pour un arc long +5. Voilà les arcs, la larme de roi et l'or.~
+@2196 = ~Je voudrais changer trois arc longs +5 pour un arc long +6. Voilà les arcs, l'esseulite et l'or.~
 
 @2202 = ~Je voudrais changer trois arc longs composés +1 pour un arc long composé +2. Voilà les arcs, l'émeraude et l'or.~
 @2203 = ~Je voudrais changer trois arc longs composés +2 pour un arc long composé +3. Voilà les arcs, le diamant et l'or.~
 @2204 = ~Je voudrais changer trois arc longs composés +3 pour un arc long composé +4. Voilà les arcs, le saphir étoilé et l'or.~
 @2205 = ~Je voudrais changer trois arc longs composés +4 pour un arc long composé +5. Voilà les arcs, la larme de roi et l'or.~
-@2206 = ~Je voudrais changer trois arc longs composés +5 pour un arc long composé +6. Voilà les arcs, l'esseulite  et l'or.~
+@2206 = ~Je voudrais changer trois arc longs composés +5 pour un arc long composé +6. Voilà les arcs, l'esseulite et l'or.~
 
 @2212 = ~Je voudrais changer trois frondes +1 pour une fronde +2. Voilà les frondes, l'émeraude et l'or.~
 @2213 = ~Je voudrais changer trois frondes +2 pour une fronde +3. Voilà les frondes, le diamant et l'or.~
 @2214 = ~Je voudrais changer trois frondes +3 pour une fronde +4. Voilà les frondes, le saphir étoilé et l'or.~
 @22141 = ~Je voudrais changer deux frondes +3 et la Boute-dragon d'Arla +3 pour une fronde +4. Voilà les frondes, le saphir étoilé et l'or.~
 @2215 = ~Je voudrais changer trois frondes +4 pour une fronde +5. Voilà les frondes, la larme de roi et l'or.~
-@2216 = ~Je voudrais changer trois frondes +5 pour une fronde +6. Voilà les frondes, l'esseulite  et l'or.~
+@2216 = ~Je voudrais changer trois frondes +5 pour une fronde +6. Voilà les frondes, l'esseulite et l'or.~
 
 @2222 = ~Je voudrais changer trois armures de cuir +1 pour une armure de cuir +2. Voilà les armures, l'émeraude et l'or.~
 @2223 = ~Je voudrais changer trois armures de cuir +2 pour une armure de cuir +3. Voilà les armures, le diamant et l'or.~
 @22231 = ~Je voudrais changer deux armures de cuir +2 et l2 Protecteur du second +2 pour une armure de cuir +3. Voilà les armures, le diamant et l'or.~
+@22232 = ~Je voudrais changer deux armures de cuir +2 et l'Armure de Aurumvorax +2 pour une armure de cuir +3. Voilà les armures, le diamant et l'or.~
+@22233 = ~Je voudrais changer une armure de cuir +2, le Protecteur du second +2 et l'Armure de Aurumvorax +2 pour une armure de cuir +3. Voilà les armures, le diamant et l'or.~
 @2224 = ~Je voudrais changer trois armures de cuir +3 pour une armure de cuir +4. Voilà les armures, le saphir étoilé et l'or.~
 @22241 = ~Je voudrais changer deux armures de cuir +3 et la Vie et Mort de Karajah +3 pour une armure de cuir +4. Voilà les armures, le saphir étoilé et l'or.~
 @2225 = ~Je voudrais changer trois armures de cuir +4 pour une armure de cuir +5. Voilà les armures, la larme de roi et l'or.~
-@2226 = ~Je voudrais changer trois armures de cuir +5 pour une armure de cuir +6. Voilà les armures, l'esseulite  et l'or.~
+@2226 = ~Je voudrais changer trois armures de cuir +5 pour une armure de cuir +6. Voilà les armures, l'esseulite et l'or.~
 
 @2232 = ~Je voudrais changer trois besantines +1 pour une besantine +2. Voilà les armures, l'émeraude et l'or.~
 @2233 = ~Je voudrais changer trois besantines +2 pour une besantine +3. Voilà les armures, le diamant et l'or.~
 @2234 = ~Je voudrais changer trois besantines +3 pour une besantine +4. Voilà les armures, le saphir étoilé et l'or.~
 @2235 = ~Je voudrais changer trois besantines +4 pour une besantine +5. Voilà les armures et l'or.~
 @22351 = ~Je voudrais changer deux besantines +4 et l'Armure de nuit noire +4 pour une besantine +5. Voilà les armures, la larme de roi et l'or.~
-@2236 = ~Je voudrais changer trois besantines +5 pour une besantine +6. Voilà les armures, l'esseulite  et l'or.~
+@2236 = ~Je voudrais changer trois besantines +5 pour une besantine +6. Voilà les armures, l'esseulite et l'or.~
 
 @2242 = ~Je voudrais changer trois cottes de mailles +1 pour une cotte de mailles +2. Voilà les armures, l'émeraude et l'or.~
 @2243 = ~Je voudrais changer trois cottes de mailles +2 pour une cotte de mailles +3. Voilà les armures, le diamant et l'or.~
@@ -2022,8 +2042,8 @@ Poids : 2~
 @22451 = ~Je voudrais changer deux cottes de mailles +4 et la Cottes de mailles en mithral +4 pour une cotte de mailles +5. Voilà les armures, la larme de roi et l'or.~
 @22452 = ~Je voudrais changer deux cottes de mailles +4 et la Cotte de mailles du bouffon +4 pour une cotte de mailles +5. Voilà les armures, la larme de roi et l'or.~
 @22453 = ~Je voudrais changer une cotte de mailles +4, la Cottes de mailles en mithral +4 et la Cotte de mailles du bouffon +4 pour une cotte de mailles +5. Voilà les armures, la larme de roi et l'or.~
-@2246 = ~Je voudrais changer trois cottes de mailles +5 pour une cotte de mailles +6. Voilà les armures, l'esseulite  et l'or.~
-@22461 = ~Je voudrais changer deux cottes de mailles +5 et la Cottes de mailles pourpre +5 pour une cotte de mailles +6. Voilà les armures, l'esseulite  et l'or.~
+@2246 = ~Je voudrais changer trois cottes de mailles +5 pour une cotte de mailles +6. Voilà les armures, l'esseulite et l'or.~
+@22461 = ~Je voudrais changer deux cottes de mailles +5 et la Cottes de mailles pourpre +5 pour une cotte de mailles +6. Voilà les armures, l'esseulite et l'or.~
 
 @2252 = ~Je voudrais changer trois armures de plates +1 pour une armure de plates +2. Voilà les armures, l'émeraude et l'or.~
 @22521 = ~Je voudrais changer deux armures de plates +1 et l'Armure de plates de Fallorain +1 pour une armure de plates +2. Voilà les armures, l'émeraude et l'or.~
@@ -2032,27 +2052,30 @@ Poids : 2~
 @2254 = ~Je voudrais changer trois armures de plates +3 pour une armure de plates +4. Voilà les armures, le saphir étoilé et l'or.~
 @22541 = ~Je voudrais changer deux armures de plates +3 et l'Armure de plates du Destin +3 pour une armure de plates +4. Voilà les armures, le saphir étoilé et l'or.~
 @2255 = ~Je voudrais changer trois armures de plates +4 pour une armure de plates +5. Voilà les armures, la larme de roi et l'or.~
-@2256 = ~Je voudrais changer trois armures de plates +5 pour une armure de plates +6. Voilà les armures, l'esseulite  et l'or.~
+@22551 = ~Je voudrais changer deux armures de plates +4 et l'Armure Sanglante pour une armure de plates +5. Voilà les armures, la larme de roi et l'or.~
+@2256 = ~Je voudrais changer trois armures de plates +5 pour une armure de plates +6. Voilà les armures, l'esseulite et l'or.~
 
 @2262 = ~Je voudrais changer trois armures de plates complète +1 pour une armure de plates complète +2. Voilà les armures, l'émeraude et l'or.~
 @2263 = ~Je voudrais changer trois armures de plates complète +2 pour une armure de plates complète +3. Voilà les armures, le diamant et l'or.~
 @22631 = ~Je voudrais changer deux armures de plates complète +2 et la Fierté de la Légion +2 pour une armure de plates complète +3. Voilà les armures, le diamant et l'or.~
+@22632 = ~Je voudrais changer deux armures de plates complète +2 et le harnois en Mithral +2 pour une armure de plates complète +3. Voilà les armures, le diamant et l'or.~
+@22633 = ~Je voudrais changer une armure de plates complète +2, la Fierté de la Légion +2 et le harnois en Mithral +2 pour une armure de plates complète +3. Voilà les armures, le diamant et l'or.~
 @2264 = ~Je voudrais changer trois armures de plates complète +3 pour une armure de plates complète +4. Voilà les armures, le saphir étoilé et l'or.~
 @22641 = ~Je voudrais changer deux armures de plates complète +3 et l'Armure du Cerf +3 pour une armure de plates complète +4. Voilà les armures, le saphir étoilé et l'or.~
 @2265 = ~Je voudrais changer trois armures de plates complète +4 pour une armure de plates complète +5. Voilà les armures, la larme de roi et l'or.~
-@2266 = ~Je voudrais changer trois armures de plates complète +5 pour une armure de plates complète +6. Voilà les armures, l'esseulite  et l'or.~
+@2266 = ~Je voudrais changer trois armures de plates complète +5 pour une armure de plates complète +6. Voilà les armures, l'esseulite et l'or.~
 
 @2342 = ~Je voudrais changer trois targes +1 pour une targe +2. Voilà les targes, l'émeraude et l'or.~
 @2343 = ~Je voudrais changer trois targes +2 pour une targe +3. Voilà les targes, le diamant et l'or.~
 @2344 = ~Je voudrais changer trois targes +3 pour une targe +4. Voilà les targes, le saphir étoilé et l'or.~
 @2345 = ~Je voudrais changer trois targes +4 pour une targe +5. Voilà les targes, la larme de roi et l'or.~
-@2346 = ~Je voudrais changer trois targes +5 pour une targe +6. Voilà les targes, l'esseulite  et l'or.~
+@2346 = ~Je voudrais changer trois targes +5 pour une targe +6. Voilà les targes, l'esseulite et l'or.~
 
 @2272 = ~Je voudrais changer trois rondaches +1 pour une rondache +2. Voilà les boucliers, l'émeraude et l'or.~
 @2273 = ~Je voudrais changer trois rondaches +2 pour une rondache +3. Voilà les boucliers, le diamant et l'or.~
 @2274 = ~Je voudrais changer trois rondaches +3 pour une rondache +4. Voilà les boucliers, le saphir étoilé et l'or.~
 @2275 = ~Je voudrais changer trois rondaches +4 pour une rondache +5. Voilà les boucliers, la larme de roi et l'or.~
-@2276 = ~Je voudrais changer trois rondaches +5 pour une rondache +6. Voilà les boucliers, l'esseulite  et l'or.~
+@2276 = ~Je voudrais changer trois rondaches +5 pour une rondache +6. Voilà les boucliers, l'esseulite et l'or.~
 
 @2282 = ~Je voudrais changer trois écus +1 pour un écu +2. Voilà les boucliers, l'émeraude et l'or.~
 @2283 = ~Je voudrais changer trois écus +2 pour un écu +3. Voilà les boucliers, le diamant et l'or.~
@@ -2060,14 +2083,16 @@ Poids : 2~
 @22841 = ~Je voudrais changer deux écus +3 et la Grâce salvatrice +3 pour un écu +4. Voilà les boucliers, le saphir étoilé et l'or.~
 @2285 = ~Je voudrais changer trois écus +4 pour un écu +5. Voilà les boucliers, la larme de roi et l'or.~
 @22851 = ~Je voudrais changer deux écus +4 et la Sentinelle +4 pour un écu +5. Voilà les boucliers, la larme de roi et l'or.~
-@2286 = ~Je voudrais changer trois écus +5 pour un écu +6. Voilà les boucliers, l'esseulite  et l'or.~
+@2286 = ~Je voudrais changer trois écus +5 pour un écu +6. Voilà les boucliers, l'esseulite et l'or.~
 
 @2292 = ~Je voudrais changer trois pavois +1 pour un pavois +2. Voilà les boucliers, l'émeraude et l'or.~
 @2293 = ~Je voudrais changer trois pavois +2 pour un pavois +3. Voilà les boucliers, le diamant et l'or.~
 @22931 = ~Je voudrais changer deux pavois +2 et le Bouclier de Pellan +2 pour un pavois +3. Voilà les boucliers, le diamant et l'or.~
+@22932 = ~Je voudrais changer deux pavois +2 et le Pavois renforcé +2 pour un pavois +3. Voilà les boucliers, le diamant et l'or.~
+@22933 = ~Je voudrais changer un pavois +2, le Bouclier de Pellan +2 et le Pavois renforcé +2 pour un pavois +3. Voilà les boucliers, le diamant et l'or.~
 @2294 = ~Je voudrais changer trois pavois +3 pour un pavois +4. Voilà les boucliers, le saphir étoilé et l'or.~
 @2295 = ~Je voudrais changer trois pavois +4 pour un pavois +5. Voilà les boucliers, la larme de roi et l'or.~
-@2296 = ~Je voudrais changer trois pavois +5 pour un pavois +6. Voilà les boucliers, l'esseulite  et l'or.~
+@2296 = ~Je voudrais changer trois pavois +5 pour un pavois +6. Voilà les boucliers, l'esseulite et l'or.~
 
 @2302 = ~Je voudrais changer trois anneaux de protection +1 pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
 @23021 = ~Je voudrais changer deux anneaux de protection +1 et l'Anneau de protection de Koveras +1 pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
@@ -2075,23 +2100,33 @@ Poids : 2~
 @23023 = ~Je voudrais changer un anneau de protection +1 et deux Anneaux du voyageur pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
 @23024 = ~Je voudrais changer deux Anneaux du voyageur et l'Anneau de protection de Koveras +1 pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
 @23025 = ~Je voudrais changer un anneau de protection +1, un Anneau du voyageur et l'Anneau de protection de Koveras +1 pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
+@23026 = ~Je voudrais changer deux anneaux de protection +1 et l'Anneau de Défense pour un anneau de protection +2.  Voilà les anneaux, l'émeraude et l'or.~
+@23027 = ~Je voudrais changer un anneau de protection +1, un Anneau du voyageur et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
+@23028 = ~Je voudrais changer deux Anneaux du voyageur et l'Anneau de Défense pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
+@23029 = ~Je voudrais changer un anneau de protection +1, l'Anneau de Défense et l'Anneau de protection de Koveras pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
+@230210 = ~Je voudrais changer un Anneau du voyageur, l'Anneau de Défense et l'Anneau de protection de Koveras pour un anneau de protection +2. Voilà les anneaux, l'émeraude et l'or.~
 @2303 = ~Je voudrais changer trois anneaux de protection +2 pour un anneau de protection +3. Voilà les anneaux, le diamant et l'or.~
 @2304 = ~Je voudrais changer trois anneaux de protection +3 pour un anneau de protection +4. Voilà les anneaux, le saphir étoilé et l'or.~
 @23041 = ~Je voudrais changer deux anneaux de protection +3 et la Chevalière de gardien +3 pour un anneau de protection +4. Voilà les anneaux, le saphir étoilé et l'or.~
+@23042 = ~Je voudrais changer deux anneaux de protection +3 et l'Anneau de mariage de Saerileth pour un anneau de protection +4. Voilà les anneaux, le saphir étoilé et l'or.~
+@23043 = ~Je voudrais changer un anneau de protection +3, la Chevalière de gardien +3 et l'Anneau de mariage de Saerileth pour un anneau de protection +4. Voilà les anneaux, le saphir étoilé et l'or.~
 @2305 = ~Je voudrais changer trois anneaux de protection +4 pour un anneau de protection +5. Voilà les anneaux, la larme de roi et l'or.~
 @2306 = ~Je voudrais changer trois anneaux de protection +5 pour un anneau de protection +6. Voilà les anneaux, l'esseulite et l'or.~
 
 @2312 = ~Je voudrais changer trois amulettes de protection +1 pour une amulette de protection +2. Voilà les amulettes, l'émeraude et l'or.~
 @2313 = ~Je voudrais changer trois amulettes de protection +2 pour une amulette de protection +3. Voilà les amulettes, le diamant et l'or.~
+@23131 = ~Je voudrais changer deux amulettes de protection +2 et le Collier de Cheval de bois +2 pour une amulette de protection +3. Voilà les amulettes, le diamant et l'or.~
 @2314 = ~Je voudrais changer trois amulettes de protection +3 pour une amulette de protection +4. Voilà les amulettes, le saphir étoilé et l'or.~
 @2315 = ~Je voudrais changer trois amulettes de protection +4 pour une amulette de protection +5. Voilà les amulettes, la larme de roi et l'or.~
-@2316 = ~Je voudrais changer trois amulettes de protection +5 pour une amulette de protection +6. Voilà les amulettes, l'esseulite  et l'or.~
+@2316 = ~Je voudrais changer trois amulettes de protection +5 pour une amulette de protection +6. Voilà les amulettes, l'esseulite et l'or.~
 
 @2322 = ~Je voudrais changer trois capes de protection +1 pour une cape de protection +2. Voilà les capes, l'émeraude et l'or.~
+@23221 = ~Je voudrais changer deux capes de protection +1 et la Cape de la haute forêt pour une cape de protection +2.  Voilà les capes, l'émeraude et l'or.~
 @2323 = ~Je voudrais changer trois capes de protection +2 pour une cape de protection +3. Voilà les capes, le diamant et l'or.~
+@23231 = ~Je voudrais changer deux capes de protection +2 et la Cape du Mage pour une cape de protection +3. Voilà les capes, le diamant et l'or.~
 @2324 = ~Je voudrais changer trois capes de protection +3 pour une cape de protection +4. Voilà les capes, le saphir étoilé et l'or.~
 @2325 = ~Je voudrais changer trois capes de protection +4 pour une cape de protection +5. Voilà les capes, la larme de roi et l'or.~
-@2326 = ~Je voudrais changer trois capes de protection +5 pour une cape de protection +6. Voilà les capes, l'esseulite  et l'or.~
+@2326 = ~Je voudrais changer trois capes de protection +5 pour une cape de protection +6. Voilà les capes, l'esseulite et l'or.~
 
 @2367 = ~Je voudrais changer trois paires de bracelets de Défense CA 8 pour une paire de bracelets de défense CA 7. Voilà les bracelets, l'opale noire et l'or.~
 @2366 = ~Je voudrais changer trois paires de bracelets de Défense CA 7 pour une paire de bracelets de défense CA 6. Voilà les bracelets, l'opale noire et l'or.~
@@ -2103,16 +2138,18 @@ Poids : 2~
 @23631 = ~Je voudrais changer deux paires de bracelets de Défense CA 4 et un pavoimage pour une paire de bracelets de défense CA 3. Voilà les bracelets, le diamant et l'or.~
 @2362 = ~Je voudrais changer trois paires de bracelets de Défense CA 3 pour une paire de bracelets de défense CA 2. Voilà les bracelets, le saphir étoilé et l'or.~
 @2361 = ~Je voudrais changer trois paires de bracelets de Défense CA 2 pour une paire de bracelets de défense CA 1. Voilà les bracelets, la larme de roi et l'or.~
+@2361 = ~Je voudrais changer trois paires de bracelets de Défense CA 2 pour une paire de bracelets de défense CA 1. Voilà les bracelets, la larme de roi et l'or.~
+@23611 = ~Je voudrais changer deux paires de bracelets de Défense CA 2 et les Bracelets d'Argent de Kedl pour une paire de bracelets de défense CA 1. Voilà les bracelets, la larme de roi et l'or.~
 @2360 = ~Je voudrais changer trois paires de bracelets de Défense CA 1 pour une paire de bracelets de défense CA 0. Voilà les bracelets, l'esseulite et l'or.~
 
 //TOB
 @2334 = ~Je voudrais changer trois gourdins +3 pour un gourdin +4. Voilà les gourdins, le saphir étoilé et l'or.~
 @2335 = ~Je voudrais changer trois gourdins +4 pour un gourdin +5. Voilà les gourdins, la larme de roi et l'or.~
-@2336 = ~Je voudrais changer trois gourdins +5 pour un gourdin +6. Voilà les gourdins, l'esseulite  et l'or.~
+@2336 = ~Je voudrais changer trois gourdins +5 pour un gourdin +6. Voilà les gourdins, l'esseulite et l'or.~
 
 //Rogue Rebalancing
 @2352 = ~Je voudrais changer trois arcs courts composites +1 pour un arc court composite +2. Voilà les arcs, l'émeraude et l'or.~
 @2353 = ~Je voudrais changer trois arcs courts composites +2 pour un arc court composite +3. Voilà les arcs, le diamant et l'or.~
 @2354 = ~Je voudrais changer trois arcs courts composites +3 pour un arc court composite +4. Voilà les arcs, le saphir étoilé et l'or.~
 @2355 = ~Je voudrais changer trois arcs courts composites +4 pour un arc court composite +5. Voilà les arcs, la larme de roi et l'or.~
-@2356 = ~Je voudrais changer trois arcs courts composites +5 pour un arc court composite +6. Voilà les arcs, l'esseulite  et l'or.~
+@2356 = ~Je voudrais changer trois arcs courts composites +5 pour un arc court composite +6. Voilà les arcs, l'esseulite et l'or.~
