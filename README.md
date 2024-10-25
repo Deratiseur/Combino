@@ -5,7 +5,7 @@
 ![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BG2EE%20%7C%20EET%20%7C&color=dodgerblue)
 
 Test :
-![GitHub release (latest by date)](https://img.shields.io/github/downloads/Deratiseur/Combino/latest/total?color=gold&label=downloads%20latest%20release%20-%20t%C3%A9l%C3%A9chargements%20dernière%20version&style=plastic)
+![GitHub release (tag=v5)](https://img.shields.io/github/downloads/Deratiseur/Combino/latest/total?color=gold&label=downloads%20latest%20release%20-%20t%C3%A9l%C3%A9chargements%20dernière%20version&style=plastic)
 
 **Autor** : **Deratiseur**
 
