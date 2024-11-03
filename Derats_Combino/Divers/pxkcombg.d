@@ -1,4 +1,4 @@
-BEGIN pxkCombi
+BEGIN pxkCombg
 
 IF ~Global("pxkcombi","GLOBAL",0)~ THEN BEGIN welcome1 SAY @2
 	IF ~~ THEN REPLY @3	DO ~SetGlobal("pxkcombi","GLOBAL",1)~ GOTO welcome2
