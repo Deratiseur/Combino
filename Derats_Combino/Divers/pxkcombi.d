@@ -28,175 +28,175 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg02",3) DestroyItem("dagg02") DestroyItem("dagg02") DestroyItem("dagg02")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg02",1) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @1121
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg02",2) DestroyItem("dagg02") DestroyItem("dagg02")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg02",1) NumItemsParty("A7-DG02",1) PartyGoldGT(3999)~ THEN  REPLY @11221
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg02",2) DestroyItem("dagg02") DestroyItem("dagg02")
 	  TakePartyItemNum("A7-DG02",1) DestroyItem("A7-DG02")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsParty("dagg02",1) NumItemsPartyGT("A7-DG02",1) PartyGoldGT(3999)~ THEN  REPLY @11222
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg02",1) DestroyItem("dagg01")
 	  TakePartyItemNum("A7-DG02",2) DestroyItem("A7-DG02") DestroyItem("A7-DG02")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg02",0) NumItemsPartyGT("A7-DG02",0) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @11223
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg02",1) DestroyItem("dagg01")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
 	  TakePartyItemNum("A7-DG02",1) DestroyItem("A7-DG02")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("A7-DG02",1) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @11224
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("A7-DG02",2) DestroyItem("A7-DG02") DestroyItem("A7-DG02")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg02",1) NumItemsParty("A7-DG10",1) PartyGoldGT(3999)~ THEN  REPLY @11231
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg02",2) DestroyItem("dagg02") DestroyItem("dagg02")
 	  TakePartyItemNum("A7-DG10",1) DestroyItem("A7-DG10")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsParty("dagg02",1) NumItemsPartyGT("A7-DG10",1) PartyGoldGT(3999)~ THEN  REPLY @11232
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg02",1) DestroyItem("dagg01")
 	  TakePartyItemNum("A7-DG10",2) DestroyItem("A7-DG10") DestroyItem("A7-DG10")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg02",0) NumItemsPartyGT("A7-DG10",0) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @11233
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg10",1) DestroyItem("dagg10")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
 	  TakePartyItemNum("A7-DG10",1) DestroyItem("A7-DG10")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("A7-DG02",1) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @11234
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("A7-DG10",2) DestroyItem("A7-DG10") DestroyItem("A7-DG10")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("A7-DG10",1) NumItemsParty("A7-DG02",1) PartyGoldGT(3999)~ THEN  REPLY @11241
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("A7-DG10",2) DestroyItem("A7-DG10") DestroyItem("A7-DG10")
 	  TakePartyItemNum("A7-DG02",1) DestroyItem("A7-DG02")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish	
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish	
 	IF ~NumItemsPartyGT("A7-DG02",1) NumItemsParty("A7-DG10",1) PartyGoldGT(3999)~ THEN  REPLY @11242
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("A7-DG02",2) DestroyItem("A7-DG02") DestroyItem("A7-DG02")
 	  TakePartyItemNum("A7-DG10",1) DestroyItem("A7-DG10")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish	
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish	
 	IF ~NumItemsPartyGT("A7-DG02",0) NumItemsPartyGT("A7-DG10",0) NumItemsParty("dagg10",1) PartyGoldGT(3999)~ THEN  REPLY @11243
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("A7-DG02",1) DestroyItem("A7-DG02")
 	  TakePartyItemNum("dagg10",1) DestroyItem("dagg10")
 	  TakePartyItemNum("A7-DG10",1) DestroyItem("A7-DG10")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("A7-DG02",0) NumItemsPartyGT("A7-DG10",0) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @11244
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("A7-DG02",1) DestroyItem("A7-DG02")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
 	  TakePartyItemNum("A7-DG10",1) DestroyItem("A7-DG10")
-	  CreateItem("dagge15",0,0,0)
-	  SetItemFlags("dagge15",IDENTIFIED,TRUE)
-	  GiveItem("dagge15",LastTalkedToBy())~	GOTO Finish	  
+	  CreateItem("dagg15",0,0,0)
+	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
+	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish	  
 	IF ~NumItemsPartyGT("dagg015",2) PartyGoldGT(8999)~ THEN  REPLY @113
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg15",3) DestroyItem("dagg15") DestroyItem("dagg15") DestroyItem("dagg15")
-	  CreateItem("dagge24",0,0,0)
-	  SetItemFlags("dagge24",IDENTIFIED,TRUE)
-	  GiveItem("dagge24",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg24",0,0,0)
+	  SetItemFlags("dagg24",IDENTIFIED,TRUE)
+	  GiveItem("dagg24",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg15",1) NumItemsParty("dagg03",1) PartyGoldGT(8999)~ THEN  REPLY @1131
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg15",2) DestroyItem("dagg15") DestroyItem("dagg15")
 	  TakePartyItemNum("dagg03",1) DestroyItem("dagg03")
-	  CreateItem("dagge24",0,0,0)
-	  SetItemFlags("dagge24",IDENTIFIED,TRUE)
-	  GiveItem("dagge24",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg24",0,0,0)
+	  SetItemFlags("dagg24",IDENTIFIED,TRUE)
+	  GiveItem("dagg24",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg15",1) NumItemsParty("dagg23",1) PartyGoldGT(8999)~ THEN  REPLY @1132
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg15",2) DestroyItem("dagg15") DestroyItem("dagg15")
 	  TakePartyItemNum("dagg23",1) DestroyItem("dagg23")
-	  CreateItem("dagge24",0,0,0)
-	  SetItemFlags("dagge24",IDENTIFIED,TRUE)
-	  GiveItem("dagge24",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg24",0,0,0)
+	  SetItemFlags("dagg24",IDENTIFIED,TRUE)
+	  GiveItem("dagg24",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg15",1) NumItemsParty("CMDAG01",1) PartyGoldGT(8999)~ THEN  REPLY @1133
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg15",2) DestroyItem("dagg15") DestroyItem("dagg15")
 	  TakePartyItemNum("CMDAG01",1) DestroyItem("CMDAG01")
-	  CreateItem("dagge24",0,0,0)
-	  SetItemFlags("dagge24",IDENTIFIED,TRUE)
-	  GiveItem("dagge24",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg24",0,0,0)
+	  SetItemFlags("dagg24",IDENTIFIED,TRUE)
+	  GiveItem("dagg24",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsParty("dagg15",1) NumItemsParty("dagg03",1) NumItemsParty("CMDAG01",1) PartyGoldGT(8999)~ THEN  REPLY @1134
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg15",1) DestroyItem("dagg15")
 	  TakePartyItemNum("dagg03",1) DestroyItem("dagg03")
 	  TakePartyItemNum("CMDAG01",1) DestroyItem("CMDAG01")
-	  CreateItem("dagge24",0,0,0)
-	  SetItemFlags("dagge24",IDENTIFIED,TRUE)
-	  GiveItem("dagge24",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg24",0,0,0)
+	  SetItemFlags("dagg24",IDENTIFIED,TRUE)
+	  GiveItem("dagg24",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsParty("dagg15",1) NumItemsParty("dagg23",1) NumItemsParty("CMDAG01",1) PartyGoldGT(8999)~ THEN  REPLY @1135
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg15",1) DestroyItem("dagg15")
 	  TakePartyItemNum("dagg23",1) DestroyItem("dagg23")
 	  TakePartyItemNum("CMDAG01",1) DestroyItem("CMDAG01")
-	  CreateItem("dagge24",0,0,0)
-	  SetItemFlags("dagge24",IDENTIFIED,TRUE)
-	  GiveItem("dagge24",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg24",0,0,0)
+	  SetItemFlags("dagg24",IDENTIFIED,TRUE)
+	  GiveItem("dagg24",LastTalkedToBy())~	GOTO Finish
 	 IF ~NumItemsParty("dagg03",1) NumItemsParty("dagg23",1) NumItemsParty("CMDAG01",1) PartyGoldGT(8999)~ THEN  REPLY @1136
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg03",1) DestroyItem("dagg03")
 	  TakePartyItemNum("dagg23",1) DestroyItem("dagg23")
 	  TakePartyItemNum("CMDAG01",1) DestroyItem("CMDAG01")
-	  CreateItem("dagge24",0,0,0)
-	  SetItemFlags("dagge24",IDENTIFIED,TRUE)
-	  GiveItem("dagge24",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("dagg24",0,0,0)
+	  SetItemFlags("dagg24",IDENTIFIED,TRUE)
+	  GiveItem("dagg24",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("dagg24",2) PartyGoldGT(15999)~ THEN  REPLY @114
       DO ~TakePartyGold(16000) DestroyGold(16000)
 	  CreateVisualEffectObject("icccmdsi",myself)
