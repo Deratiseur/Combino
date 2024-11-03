@@ -3,7 +3,6 @@
 ![Language](https://img.shields.io/static/v1?label=language&message=english%20%7C%20french%20%7C%20&color=informational)
 ![Platform](https://img.shields.io/static/v1?label=platform&message=windows%20%7C%20macOS%20%7C%20&color=informational)
 ![Supported games](https://img.shields.io/static/v1?label=supported%20games&message=BG2EE%20%7C%20EET%20%7C&color=dodgerblue)
-![GitHub all releases](https://img.shields.io/github/downloads/Deratiseur/Combino/total?label=out%20of%20-%20sur%20un%20total%20de&color=yellow&style=plastic)
 
 **Autor** : **Deratiseur**
 
