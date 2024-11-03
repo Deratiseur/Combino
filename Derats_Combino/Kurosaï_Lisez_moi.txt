@@ -115,3 +115,4 @@ v5 : Ajout de la prise en compte des objets inclus dans plus d'une dizaine de mo
 	 Recalcul des recettes pour les bâtons +3 car il y a plusieurs bâtons de Clerc +3 et Bâton de Combat +3 accessibles alors que les recettes n'en calculent qu'un de chaque.
 	 Prise en compte d'une épée +3 dropée dans la tour de garde qui a tout d'une épée longue +3 mais a une référence unique.
 	 Total : 39x2 nouvelle recettes.
+v5.1 : Correction de bugs signalés par Loupgris, Selphira et Rivvers et corrigé par Seplhira. Merci à eux :)
