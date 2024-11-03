@@ -116,3 +116,5 @@ v5 : Ajout de la prise en compte des objets inclus dans plus d'une dizaine de mo
 	 Prise en compte d'une épée +3 dropée dans la tour de garde qui a tout d'une épée longue +3 mais a une référence unique.
 	 Total : 39x2 nouvelle recettes.
 v5.1 : Correction de bugs signalés par Loupgris, Selphira et Rivvers et corrigé par Seplhira. Merci à eux :)
+v5.2 : Si on installait l'option "Les recettes demandent des gemmes" kurosaï n'avait rien à dire.
+	   Ajout des Labels pour Selphira.

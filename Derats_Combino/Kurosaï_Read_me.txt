@@ -118,3 +118,6 @@ v5: Added support for items included in more than a dozen mods.
 	Recalculation of recipes for +3 staffs, as there are several Cleric's Staff +3 and Martial Staff +3 staffs available, whereas recipes only calculate one of each.
 	Consideration of a +3 sword dropped in the Watcher's Keep, which looks like a +3 longsword but has a unique reference.
 	Total: 39x2 new recipes.
+v5.1: Bug fixes reported by Loupgris, Selphira and Rivvers and corrected by Seplhira. Thanks to them :)
+v5.2: If the "Recipes require gems" option was installed, Kurosai had nothing to say.
+	  Labels added for Selphira.
