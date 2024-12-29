@@ -2365,7 +2365,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkarcr6",0,0,0)
 	  SetItemFlags("pxkarcr6",IDENTIFIED,TRUE)
 	  GiveItem("pxkarcr6",LastTalkedToBy())~	GOTO Finish
-	IF ~~ THEN REPLY @24 EXIT
+	IF ~~ THEN REPLY 14 EXIT
 END
 
 IF ~~ THEN BEGIN Finish
