@@ -121,3 +121,4 @@ v5: Added support for items included in more than a dozen mods.
 v5.1: Bug fixes reported by Loupgris, Selphira and Rivvers and corrected by Seplhira. Thanks to them :)
 v5.2: If the "Recipes require gems" option was installed, Kurosai had nothing to say.
 	  Labels added for Selphira.
+v5.3: Correction of a typo in one of the dialog files. Correction of spelling mistakes. Thanks to Le Marquis.
