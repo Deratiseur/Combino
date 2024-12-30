@@ -23,8 +23,7 @@ Kurosaï peut être utilisé dans TOB. Dans ce cas il devient VRAIMENT facile d�
 Kurosaï peut aussi être utilisé dans BG1. Pour maximiser ce composant, utilisez EET tweak pour importer toutes vous fusions de BG1 vers SOA.
 - Les recettes coûtent moins chères mais nécessitent des gemmes rares :
 Les recettes ne coûtent plus que le double du + désiré x 1000 (6000 pos pour un +3) mais demandent une gemme :
-une émeraude pour du +2, un diamant pour du +3, un saphir étoilé pour du +4, une larme de roi pour du +5 et une esseulite pour du +6.
-
+une émeraude pour du +2, un diamant pour du +3, un saphir étoilé pour du +4, une larme de roi pour du +5 et une esseulite pour du +6.  
 (si vous installez cette option, une bonne idée est d'installer aussi le mod [Mersetek](https://github.com/Plutonium-X/SHOP_Mersetek)).
 - Un exemplaire +1 de chaque objet dans SOA :
 Chaque objet combinable à un exemplaire de plus dans SOA, placé dans le stock de divers marchands.
