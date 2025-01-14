@@ -12,8 +12,8 @@
 ## Description:
 -------------
 Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Cela marche pour presque tous les objets "+x", des armes aux armures en passant par les bijoux.
-Il peut combiner les objets jusqu'à +6 et le prix demandé est toujours "+ désiré au carré fois mille" : exemple pour obtenir un écu +4, il demande trois écus +3 et 16000 pièces d'or (4²x1000).
-Depuis la v3, il combine aussi les bracelets de défense (voir le lisez moi pour le coût)
+Il peut combiner les objets jusqu'à +6 et le prix demandé est toujours "+ désiré au carré fois mille" : exemple pour obtenir un écu +4, il demande trois écus +3 et 16000 pièces d'or (4²x1000).  
+Depuis la v3, il combine aussi les bracelets de défense (voir le lisez moi pour le coût)  
 Il apparaît à Francmarché après que les Daos soient partis. Plus tard dans le jeu il se déplacera à Saradush, et il disparaîtra avec la destruction de la ville.
 
 Il y a quatre composants optionnels à installer :
@@ -32,9 +32,9 @@ Chaque objet combinable à un exemplaire de plus dans SOA, placé dans le stock 
 
 Kurosai is a BG2EE pnj who, for a lot of gold, can combine three +x items into one +x+1 item. This works for almost all '+x' items, from weapons to armour to jewellery.
 He can combine items up to +6 and the price asked is always "+ desired squared times a thousand": for example, to obtain a +4 shield, he asks for three +3 shields and 16,000 gold coins (4²x1000).
-Since v3, it also combines bracers of defence (see read me for cost).
-He appears in Trademeet after the Daos have left. Later in the game he will move to Saradush, and disappear with the destruction of the town.
-
+Since v3, it also combines bracers of defence (see read me for cost).   
+He appears in Trademeet after the Daos have left. Later in the game he will move to Saradush, and disappear with the destruction of the town.  
+ 
 There are four optional components to install:
 - Kuroisai also appears in Amkethran:
 Kurosai can be used in TOB. This makes it REALLY easy to acquire certain +6 items.
