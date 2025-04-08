@@ -7,7 +7,7 @@
 
 **Autor** : **Deratiseur**
 
-[Link to original Mod Forum](https://https://www.baldursgateworld.fr/viewtopic.php?t=34841)
+[Link to original Mod Forum](https://www.baldursgateworld.fr/viewtopic.php?t=34425)
 
 ## Description:
 -------------
