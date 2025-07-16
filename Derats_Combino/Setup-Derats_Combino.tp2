@@ -1,6 +1,6 @@
 BACKUP ~Derats_Combino/Backup~
 AUTHOR ~Deratiseur, at the_deratiseur@hotmail.com~
-VERSION ~v5.3~
+VERSION ~v6~
 
 ASK_EVERY_COMPONENT
 
@@ -170,6 +170,38 @@ COPY	~Derats_Combino/Objets/pxkarcr6.itm~	~override~	SAY NAME2 @13568	SAY DESC @
 COPY	~Derats_Combino/Objets/pxkbrac2.itm~	~override~	SAY NAME2 @13628	SAY DESC @13629
 COPY	~Derats_Combino/Objets/pxkbrac1.itm~	~override~	SAY NAME2 @13618	SAY DESC @13619
 COPY	~Derats_Combino/Objets/pxkbrac0.itm~	~override~	SAY NAME2 @13608	SAY DESC @13609
+
+APPEND ~ITEMEXCL.2DA~ ~pxkanno3 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkanno4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkanno5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkanno6 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkamul2 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkamul3 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkamul4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkamul5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkamul6 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcape3 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcape4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcape5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcape6 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcuir4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcuir5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcuir6 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkbesa4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkbesa5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkbesa6 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcott3 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcott4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcott5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkcott6 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplat3 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplat4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplat5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplat6 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplac3 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplac4 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplac5 1~
+APPEND ~ITEMEXCL.2DA~ ~pxkplac6 1~
 
 BEGIN @20 DESIGNATED 1 LABEL PX_Combino_gemmes
 REQUIRE_COMPONENT ~Setup-Derats_Combino.tp2~ 0 @19

@@ -119,3 +119,4 @@ v5.1 : Correction de bugs signalés par Loupgris, Selphira et Rivvers et corrig�
 v5.2 : Si on installait l'option "Les recettes demandent des gemmes" kurosaï n'avait rien à dire.
 	   Ajout des Labels pour Selphira.
 v5.3 : Correction d'un coquille dans un des fichiers dialogue. Correction de fautes d'orthographe. Merci à Le Marquis.
+V6 : Tous les anneaux, amulettes, capes et armures +x ne peuvent plus être portés conjointement à d'autres objets similaires.
