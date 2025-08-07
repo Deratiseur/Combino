@@ -333,7 +333,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxklong4",0,0,0)
 	  SetItemFlags("pxklong4",IDENTIFIED,TRUE)
 	  GiveItem("pxklong4",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("sw1h73",1) NumItemsParty("TELSWD",1) NumItemsPartyGT("misc41",0) PartyGoldGT(15999)~ THEN  REPLY @234 // le coût en gold ne correspond pas
+	IF ~NumItemsPartyGT("sw1h73",1) NumItemsParty("TELSWD",1) NumItemsPartyGT("misc41",0) PartyGoldGT(7999)~ THEN  REPLY @234
       DO ~TakePartyGold(8000) DestroyGold(8000) TakePartyItemNum("misc41",1) DestroyItem("misc41")
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h73",2) DestroyItem("sw1h73") DestroyItem("sw1h73")
@@ -341,7 +341,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxklong4",0,0,0)
 	  SetItemFlags("pxklong4",IDENTIFIED,TRUE)
 	  GiveItem("pxklong4",LastTalkedToBy())~	GOTO Finish
-	 IF ~NumItemsParty("sw1h73",1) NumItemsPartyGT("TELSWD",1) NumItemsPartyGT("misc41",0) PartyGoldGT(15999)~ THEN  REPLY @234 // le coût en gold ne correspond pas
+	 IF ~NumItemsParty("sw1h73",1) NumItemsPartyGT("TELSWD",1) NumItemsPartyGT("misc41",0) PartyGoldGT(7999)~ THEN  REPLY @234
       DO ~TakePartyGold(8000) DestroyGold(8000) TakePartyItemNum("misc41",1) DestroyItem("misc41")
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h73",1) DestroyItem("sw1h73")
@@ -2222,15 +2222,15 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  GiveItem("pxkcape6",LastTalkedToBy())~	GOTO Finish
 	  
 	//Bracelets
-	IF ~NumItemsPartyGT("brac01",2) NumItemsPartyGT("misc38",0) PartyGoldGT(1999)~ THEN  REPLY @2367 // le coût ne correspond pas
-      DO ~TakePartyGold(1000) DestroyGold(1000) TakePartyItemNum("misc38",1) DestroyItem("misc38")
+	IF ~NumItemsPartyGT("brac01",2) NumItemsPartyGT("misc38",0) PartyGoldGT(1999)~ THEN  REPLY @2367
+      DO ~TakePartyGold(2000) DestroyGold(2000) TakePartyItemNum("misc38",1) DestroyItem("misc38")
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("brac01",3) DestroyItem("brac01") DestroyItem("brac01") DestroyItem("brac01")
 	  CreateItem("brac02",0,0,0)
 	  SetItemFlags("brac02",IDENTIFIED,TRUE)
 	  GiveItem("brac02",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("brac02",2) NumItemsPartyGT("misc38",0) PartyGoldGT(1999)~ THEN  REPLY @2366 // le coût ne correspond pas
-      DO ~TakePartyGold(1000) DestroyGold(1000) TakePartyItemNum("misc38",1) DestroyItem("misc38")
+	IF ~NumItemsPartyGT("brac02",2) NumItemsPartyGT("misc38",0) PartyGoldGT(1999)~ THEN  REPLY @2366
+      DO ~TakePartyGold(2000) DestroyGold(2000) TakePartyItemNum("misc38",1) DestroyItem("misc38")
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("brac02",3) DestroyItem("brac02") DestroyItem("brac02") DestroyItem("brac02")
 	  CreateItem("brac03",0,0,0)
@@ -2295,7 +2295,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkbrac1",0,0,0)
 	  SetItemFlags("pxkbrac1",IDENTIFIED,TRUE)
 	  GiveItem("pxkbrac1",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("pxkbrac2",1)  NumItemsParty("PEIRBRAC",1) NumItemsPartyGT("misc44",0) PartyGoldGT(6999)~ THEN  REPLY @2361 // le coût ne correspond pas
+	IF ~NumItemsPartyGT("pxkbrac2",1)  NumItemsParty("PEIRBRAC",1) NumItemsPartyGT("misc44",0) PartyGoldGT(9999)~ THEN  REPLY @2361
       DO ~TakePartyGold(10000) DestroyGold(10000) TakePartyItemNum("misc44",1) DestroyItem("misc44")
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("pxkbrac2",2) DestroyItem("pxkbrac2") DestroyItem("pxkbrac2")
@@ -2303,7 +2303,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkbrac1",0,0,0)
 	  SetItemFlags("pxkbrac1",IDENTIFIED,TRUE)
 	  GiveItem("pxkbrac1",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("pxkbrac2",1)  NumItemsParty("KEDL",1) NumItemsPartyGT("misc44",0) PartyGoldGT(6999)~ THEN  REPLY @23611 // le coût ne correspond pas
+	IF ~NumItemsPartyGT("pxkbrac2",1)  NumItemsParty("KEDL",1) NumItemsPartyGT("misc44",0) PartyGoldGT(9999)~ THEN  REPLY @23611
       DO ~TakePartyGold(10000) DestroyGold(10000) TakePartyItemNum("misc44",1) DestroyItem("misc44")
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("pxkbrac2",2) DestroyItem("pxkbrac2") DestroyItem("pxkbrac2")
@@ -2311,7 +2311,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkbrac1",0,0,0)
 	  SetItemFlags("pxkbrac1",IDENTIFIED,TRUE)
 	  GiveItem("pxkbrac1",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("pxkbrac2",0)  NumItemsParty("PEIRBRAC",1)  NumItemsParty("KEDL",1) NumItemsPartyGT("misc44",0) PartyGoldGT(6999)~ THEN  REPLY @23611 // le coût ne correspond pas
+	IF ~NumItemsPartyGT("pxkbrac2",0)  NumItemsParty("PEIRBRAC",1)  NumItemsParty("KEDL",1) NumItemsPartyGT("misc44",0) PartyGoldGT(9999)~ THEN  REPLY @23611
      DO ~TakePartyGold(10000) DestroyGold(10000) TakePartyItemNum("misc44",1) DestroyItem("misc44")
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("pxkbrac2",1) DestroyItem("pxkbrac2")
