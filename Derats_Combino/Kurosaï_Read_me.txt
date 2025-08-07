@@ -123,3 +123,4 @@ v5.2: If the "Recipes require gems" option was installed, Kurosai had nothing to
 	  Labels added for Selphira.
 v5.3: Correction of a typo in one of the dialog files. Correction of spelling mistakes. Thanks to Le Marquis.
 v6: All +x rings, amulets, cloaks and armors +x can no longer be worn in conjunction with other similar items.
+v7: Rivvers corrected several errors in the formulas. Thanks to him :)
