@@ -50,7 +50,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsParty("dagg02",1) NumItemsPartyGT("A7-DG02",1) PartyGoldGT(3999)~ THEN  REPLY @11222
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("dagg02",1) DestroyItem("dagg01")
+	  TakePartyItemNum("dagg02",1) DestroyItem("dagg02")
 	  TakePartyItemNum("A7-DG02",2) DestroyItem("A7-DG02") DestroyItem("A7-DG02")
 	  CreateItem("dagg15",0,0,0)
 	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
@@ -58,7 +58,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsPartyGT("dagg02",0) NumItemsPartyGT("A7-DG02",0) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @11223
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("dagg02",1) DestroyItem("dagg01")
+	  TakePartyItemNum("dagg02",1) DestroyItem("dagg02")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
 	  TakePartyItemNum("A7-DG02",1) DestroyItem("A7-DG02")
 	  CreateItem("dagg15",0,0,0)
@@ -83,7 +83,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsParty("dagg02",1) NumItemsPartyGT("A7-DG10",1) PartyGoldGT(3999)~ THEN  REPLY @11232
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("dagg02",1) DestroyItem("dagg01")
+	  TakePartyItemNum("dagg02",1) DestroyItem("dagg02")
 	  TakePartyItemNum("A7-DG10",2) DestroyItem("A7-DG10") DestroyItem("A7-DG10")
 	  CreateItem("dagg15",0,0,0)
 	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
@@ -91,7 +91,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsPartyGT("dagg02",0) NumItemsPartyGT("A7-DG10",0) NumItemsParty("dagg19",1) PartyGoldGT(3999)~ THEN  REPLY @11233
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("dagg10",1) DestroyItem("dagg10")
+	  TakePartyItemNum("dagg02",1) DestroyItem("dagg02")
 	  TakePartyItemNum("dagg19",1) DestroyItem("dagg19")
 	  TakePartyItemNum("A7-DG10",1) DestroyItem("A7-DG10")
 	  CreateItem("dagg15",0,0,0)
@@ -139,7 +139,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("dagg15",0,0,0)
 	  SetItemFlags("dagg15",IDENTIFIED,TRUE)
 	  GiveItem("dagg15",LastTalkedToBy())~	GOTO Finish	  
-	IF ~NumItemsPartyGT("dagg015",2) PartyGoldGT(8999)~ THEN  REPLY @113
+	IF ~NumItemsPartyGT("dagg15",2) PartyGoldGT(8999)~ THEN  REPLY @113
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("dagg15",3) DestroyItem("dagg15") DestroyItem("dagg15") DestroyItem("dagg15")
@@ -254,26 +254,26 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h29",3) DestroyItem("sw1h29") DestroyItem("sw1h29") DestroyItem("sw1h29")
-	  CreateItem("sw1h09",0,0,0)
-	  SetItemFlags("sw1h09",IDENTIFIED,TRUE)
-	  GiveItem("sw1h09",LastTalkedToBy())~	GOTO Finish
+	  CreateItem("sw1h74",0,0,0)
+	  SetItemFlags("sw1h74",IDENTIFIED,TRUE)
+	  GiveItem("sw1h74",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("sw1h09",1) NumItemsParty("sw1h29",1) PartyGoldGT(8999)~ THEN  REPLY @123
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h09",2) DestroyItem("sw1h09") DestroyItem("sw1h09")
 	  TakePartyItemNum("sw1h29",1) DestroyItem("sw1h29")
-	  CreateItem("sw1h09",0,0,0)
-	  SetItemFlags("sw1h09",IDENTIFIED,TRUE)
-	  GiveItem("sw1h09",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsParty("sw1h09",1) NumItemsPartyGT("sw1h29",2) PartyGoldGT(8999)~ THEN  REPLY @123
+	  CreateItem("sw1h74",0,0,0)
+	  SetItemFlags("sw1h74",IDENTIFIED,TRUE)
+	  GiveItem("sw1h74",LastTalkedToBy())~	GOTO Finish
+	IF ~NumItemsParty("sw1h09",1) NumItemsPartyGT("sw1h29",1) PartyGoldGT(8999)~ THEN  REPLY @123
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h09",1) DestroyItem("sw1h09")
 	  TakePartyItemNum("sw1h29",2) DestroyItem("sw1h29") DestroyItem("sw1h29")
-	  CreateItem("sw1h09",0,0,0)
-	  SetItemFlags("sw1h09",IDENTIFIED,TRUE)
-	  GiveItem("sw1h09",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("sw1h74",2) PartyGoldGT(3999)~ THEN  REPLY @124
+	  CreateItem("sw1h74",0,0,0)
+	  SetItemFlags("sw1h74",IDENTIFIED,TRUE)
+	  GiveItem("sw1h74",LastTalkedToBy())~	GOTO Finish
+	IF ~NumItemsPartyGT("sw1h74",2) PartyGoldGT(15999)~ THEN  REPLY @124
       DO ~TakePartyGold(16000) DestroyGold(16000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h74",3) DestroyItem("sw1h74") DestroyItem("sw1h74") DestroyItem("sw1h74")
@@ -299,7 +299,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
       DO ~TakePartyGold(25000) DestroyGold(25000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("pxkcour4",2) DestroyItem("pxkcour4") DestroyItem("pxkcour4")
-	  TakePartyItemNum("sw1h28",1) DestroyItem("pxsw1h28")
+	  TakePartyItemNum("sw1h28",1) DestroyItem("sw1h28")
 	  CreateItem("pxkcour5",0,0,0)
 	  SetItemFlags("pxkcour5",IDENTIFIED,TRUE)
 	  GiveItem("pxkcour5",LastTalkedToBy())~	GOTO Finish
@@ -336,16 +336,16 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsPartyGT("sw1h73",1) NumItemsParty("TELSWD",1) PartyGoldGT(15999)~ THEN  REPLY @134
       DO ~TakePartyGold(16000) DestroyGold(16000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("sw1h73",3) DestroyItem("sw1h73") DestroyItem("sw1h73")
-	  TakePartyItemNum("TELSWD",3) DestroyItem("TELSWD")
+	  TakePartyItemNum("sw1h73",2) DestroyItem("sw1h73") DestroyItem("sw1h73")
+	  TakePartyItemNum("TELSWD",1) DestroyItem("TELSWD")
 	  CreateItem("pxklong4",0,0,0)
 	  SetItemFlags("pxklong4",IDENTIFIED,TRUE)
 	  GiveItem("pxklong4",LastTalkedToBy())~	GOTO Finish
 	 IF ~NumItemsParty("sw1h73",1) NumItemsPartyGT("TELSWD",1) PartyGoldGT(15999)~ THEN  REPLY @134
       DO ~TakePartyGold(16000) DestroyGold(16000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("sw1h73",3) DestroyItem("sw1h73")
-	  TakePartyItemNum("TELSWD",3) DestroyItem("TELSWD") DestroyItem("TELSWD")
+	  TakePartyItemNum("sw1h73",1) DestroyItem("sw1h73")
+	  TakePartyItemNum("TELSWD",2) DestroyItem("TELSWD") DestroyItem("TELSWD")
 	  CreateItem("pxklong4",0,0,0)
 	  SetItemFlags("pxklong4",IDENTIFIED,TRUE)
 	  GiveItem("pxklong4",LastTalkedToBy())~	GOTO Finish
@@ -450,7 +450,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("sw1h55",0,0,0)
 	  SetItemFlags("sw1h55",IDENTIFIED,TRUE)
 	  GiveItem("sw1h55",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("sw1h44",1) NumItemsPartyGT("NPSW02",1) PartyGoldGT(3999)~ THEN  REPLY @1521
+	IF ~NumItemsPartyGT("sw1h44",1) NumItemsPartyGT("NPSW02",0) PartyGoldGT(3999)~ THEN  REPLY @1521
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h44",2) DestroyItem("sw1h44") DestroyItem("sw1h44")
@@ -503,7 +503,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("sw1h42",0,0,0)
 	  SetItemFlags("sw1h42",IDENTIFIED,TRUE)
 	  GiveItem("sw1h42",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("sw1h421",2) PartyGoldGT(8999)~ THEN  REPLY @163
+	IF ~NumItemsPartyGT("sw1h42",2) PartyGoldGT(8999)~ THEN  REPLY @163
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("sw1h42",3) DestroyItem("sw1h42") DestroyItem("sw1h42") DestroyItem("sw1h42")
@@ -536,7 +536,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsPartyGT("sw2h02",2) PartyGoldGT(3999)~ THEN  REPLY @172
       DO ~TakePartyGold(4000) DestroyGold(4000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("sw2h02",3) DestroyItem("sw1h02") DestroyItem("sw1h02") DestroyItem("sw1h02")
+	  TakePartyItemNum("sw2h02",3) DestroyItem("sw2h02") DestroyItem("sw2h02") DestroyItem("sw2h02")
 	  CreateItem("sw2h11",0,0,0)
 	  SetItemFlags("sw2h11",IDENTIFIED,TRUE)
 	  GiveItem("sw2h11",LastTalkedToBy())~	GOTO Finish
@@ -693,7 +693,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsPartyGT("pxkgour5",2) PartyGoldGT(35999)~ THEN  REPLY @1336
       DO ~TakePartyGold(36000) DestroyGold(36000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("pxkgour6",3) DestroyItem("pxkgour5") DestroyItem("pxkgour5") DestroyItem("pxkgour5")
+	  TakePartyItemNum("pxkgour5",3) DestroyItem("pxkgour5") DestroyItem("pxkgour5") DestroyItem("pxkgour5")
 	  CreateItem("pxkgour6",0,0,0)
 	  SetItemFlags("pxkgour6",IDENTIFIED,TRUE)
 	  GiveItem("pxkgour6",LastTalkedToBy())~	GOTO Finish
@@ -853,14 +853,14 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  TakePartyItemNum("halb02",3) DestroyItem("halb02") DestroyItem("halb02") DestroyItem("halb02")
 	  CreateItem("halb07",0,0,0)
 	  SetItemFlags("halb07",IDENTIFIED,TRUE)
-	  GiveItem("halb074",LastTalkedToBy())~	GOTO Finish
+	  GiveItem("halb07",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("halb07",2) PartyGoldGT(8999)~ THEN  REPLY @1143
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("halb07",3) DestroyItem("halb07") DestroyItem("halb07") DestroyItem("halb07")
 	  CreateItem("halb12",0,0,0)
 	  SetItemFlags("halb12",IDENTIFIED,TRUE)
-	  GiveItem("halb012",LastTalkedToBy())~	GOTO Finish
+	  GiveItem("halb12",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("halb07",1)	NumItemsParty("halb03",1) PartyGoldGT(8999)~ THEN  REPLY @11431
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
@@ -868,7 +868,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  TakePartyItemNum("halb03",1) DestroyItem("halb03")
 	  CreateItem("halb12",0,0,0)
 	  SetItemFlags("halb12",IDENTIFIED,TRUE)
-	  GiveItem("halb012",LastTalkedToBy())~	GOTO Finish
+	  GiveItem("halb12",LastTalkedToBy())~	GOTO Finish
 	IF ~NumItemsPartyGT("halb12",2) PartyGoldGT(15999)~ THEN  REPLY @1144
       DO ~TakePartyGold(16000) DestroyGold(16000)
 	  CreateVisualEffectObject("icccmdsi",myself)
@@ -1555,7 +1555,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkplat3",0,0,0)
 	  SetItemFlags("pxkplat3",IDENTIFIED,TRUE)
 	  GiveItem("pxkplat3",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("ohplat50",1) NumItemsParty("plat06",2) PartyGoldGT(8999)~ THEN  REPLY @12531
+	IF ~NumItemsPartyGT("ohplat50",1) NumItemsParty("plat06",1) PartyGoldGT(8999)~ THEN  REPLY @12531
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("ohplat50",2) DestroyItem("ohplat50") DestroyItem("ohplat50")
@@ -1702,7 +1702,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkplac4",0,0,0)
 	  SetItemFlags("pxkplac4",IDENTIFIED,TRUE)
 	  GiveItem("pxkplac4",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("pxkplac3",2) NumItemsParty("plat16",1) PartyGoldGT(15999)~ THEN  REPLY @12641
+	IF ~NumItemsPartyGT("pxkplac3",1) NumItemsParty("plat16",1) PartyGoldGT(15999)~ THEN  REPLY @12641
       DO ~TakePartyGold(16000) DestroyGold(16000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("pxkplac3",2) DestroyItem("pxkplac3") DestroyItem("pxkplac3")
@@ -1803,8 +1803,8 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	IF ~NumItemsPartyGT("ohshld51",1) NumItemsParty("rr#buc04",1) PartyGoldGT(15999)~ THEN  REPLY @1344
       DO ~TakePartyGold(16000) DestroyGold(16000)
 	  CreateVisualEffectObject("icccmdsi",myself)
-	  TakePartyItemNum("ohshld51",2) DestroyItem("ohshld50") DestroyItem("ohshld50")
-	  TakePartyItemNum("rr#buc04",1) DestroyItem("rr#buc03")
+	  TakePartyItemNum("ohshld51",2) DestroyItem("ohshld51") DestroyItem("ohshld51")
+	  TakePartyItemNum("rr#buc04",1) DestroyItem("rr#buc04")
 	  CreateItem("pxktarg4",0,0,0)
 	  SetItemFlags("pxktarg4",IDENTIFIED,TRUE)
 	  GiveItem("pxktarg4",LastTalkedToBy())~	GOTO Finish
@@ -1936,7 +1936,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkpavo3",0,0,0)
 	  SetItemFlags("pxkpavo3",IDENTIFIED,TRUE)
 	  GiveItem("pxkpavo3",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("shld30",1) NumItemsParty("shld19",2) PartyGoldGT(8999)~ THEN  REPLY @12931
+	IF ~NumItemsPartyGT("shld30",1) NumItemsParty("shld19",1) PartyGoldGT(8999)~ THEN  REPLY @12931
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("shld30",2) DestroyItem("shld30") DestroyItem("shld30")
@@ -1944,7 +1944,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkpavo3",0,0,0)
 	  SetItemFlags("pxkpavo3",IDENTIFIED,TRUE)
 	  GiveItem("pxkpavo3",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("shld30",1) NumItemsParty("USHLD3A",2) PartyGoldGT(8999)~ THEN  REPLY @12932
+	IF ~NumItemsPartyGT("shld30",1) NumItemsParty("USHLD3A",1) PartyGoldGT(8999)~ THEN  REPLY @12932
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("shld30",2) DestroyItem("shld30") DestroyItem("shld30")
@@ -1952,7 +1952,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkpavo3",0,0,0)
 	  SetItemFlags("pxkpavo3",IDENTIFIED,TRUE)
 	  GiveItem("pxkpavo3",LastTalkedToBy())~	GOTO Finish
-	 IF ~NumItemsParty("shld30",1) NumItemsParty("shld19",1) NumItemsParty("USHLD3A",2) PartyGoldGT(8999)~ THEN  REPLY @12933
+	 IF ~NumItemsParty("shld30",1) NumItemsParty("shld19",1) NumItemsParty("USHLD3A",1) PartyGoldGT(8999)~ THEN  REPLY @12933
       DO ~TakePartyGold(9000) DestroyGold(9000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("shld30",1) DestroyItem("shld30")
@@ -2166,7 +2166,7 @@ IF ~Global("pxkcombi","GLOBAL",1)~ THEN BEGIN welcomet
 	  CreateItem("pxkamul5",0,0,0)
 	  SetItemFlags("pxkamul5",IDENTIFIED,TRUE)
 	  GiveItem("pxkamul5",LastTalkedToBy())~	GOTO Finish
-	IF ~NumItemsPartyGT("pxkamul5",2) PartyGoldGT(13199)~ THEN  REPLY @1316
+	IF ~NumItemsPartyGT("pxkamul5",2) PartyGoldGT(35999)~ THEN  REPLY @1316
       DO ~TakePartyGold(36000) DestroyGold(36000)
 	  CreateVisualEffectObject("icccmdsi",myself)
 	  TakePartyItemNum("pxkamul5",3) DestroyItem("pxkamul5") DestroyItem("pxkamul5") DestroyItem("pxkamul5")
