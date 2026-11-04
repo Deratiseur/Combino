@@ -10,8 +10,8 @@
 [Lien vers le forum en français](https://www.baldursgateworld.fr/viewtopic.php?t=34425)  
 [Link to the english forum](https://forums.beamdog.com/discussion/88467/mod-kurosai-the-combiner-a-new-mod-for-bg2ee#p1)   
 
-[Lisez moi complet en français.](https://htmlpreview.github.io/?https://github.com/Deratiseur/Combino/blob/main/Derats_Combino/Documents/Readme-French.html)  
-[Full Readme in english.](https://htmlpreview.github.io/?https://github.com/Deratiseur/Combino/blob/main/Derats_Combino/Documents/Readme-English.html)   
+[Lisez moi complet en français.](https://htmlpreview.github.io/?https://github.com/Deratiseur/Combino/blob/main/Derats_Combino/Documents/Readme_French.html)  
+[Full Readme in english.](https://htmlpreview.github.io/?https://github.com/Deratiseur/Combino/blob/main/Derats_Combino/Documents/Readme_English.html)   
 
 ## Description:
 -------------
