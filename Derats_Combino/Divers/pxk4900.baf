@@ -1,0 +1,8 @@
+IF
+	Global("Px_combinoEET","GLOBAL",0)
+	AreaCheck("BG4900")
+THEN
+	RESPONSE #100
+		SetGlobal("Px_combinoEET","GLOBAL",1)
+		CreateCreature("pxkcombi",[2384.3327],SE)
+END
